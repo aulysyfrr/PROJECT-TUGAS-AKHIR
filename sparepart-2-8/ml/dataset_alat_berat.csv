@@ -1,0 +1,3001 @@
+umur_alat,jam_operasional,kondisi_terakhir,jumlah_perbaikan,lokasi_operasi,jenis_alat,label_risiko
+6,912,Baik,4,Risiko Rendah,Motor Grader,Risiko Rendah
+22,6033,Baik,10,Risiko Tinggi,Dump Truck,Risiko Tinggi
+24,4837,Rusak,0,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+20,1905,Dalam Perbaikan,9,Risiko Rendah,Dump Truck,Risiko Tinggi
+20,5865,Dalam Perbaikan,8,Risiko Sedang,Motor Grader,Risiko Tinggi
+12,4827,Rusak,0,Risiko Rendah,Forklift,Risiko Sedang
+16,2276,Baik,3,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+24,3112,Baik,5,Risiko Sedang,Lainnya,Risiko Tinggi
+18,6611,Baik,7,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+14,645,Dalam Perbaikan,4,Risiko Tinggi,Lainnya,Risiko Tinggi
+15,4729,Baik,1,Risiko Rendah,Motor Grader,Risiko Tinggi
+2,2370,Baik,3,Risiko Rendah,Forklift,Risiko Rendah
+18,3714,Dalam Perbaikan,5,Risiko Rendah,Crane,Risiko Tinggi
+15,1716,Dalam Perbaikan,4,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+7,5201,Baik,8,Risiko Tinggi,Motor Grader,Risiko Tinggi
+21,3786,Rusak,4,Risiko Tinggi,Dump Truck,Risiko Tinggi
+19,5608,Rusak,0,Risiko Rendah,Excavator,Risiko Tinggi
+1,2584,Rusak,4,Risiko Rendah,Motor Grader,Risiko Rendah
+8,7179,Dalam Perbaikan,5,Risiko Rendah,Wheel Loader,Risiko Tinggi
+14,7247,Dalam Perbaikan,7,Risiko Rendah,Compactor,Risiko Tinggi
+22,2020,Dalam Perbaikan,8,Risiko Tinggi,Compactor,Risiko Tinggi
+3,4788,Rusak,9,Risiko Sedang,Crane,Risiko Sedang
+19,1133,Dalam Perbaikan,7,Risiko Rendah,Excavator,Risiko Tinggi
+23,1252,Dalam Perbaikan,2,Risiko Tinggi,Forklift,Risiko Tinggi
+7,520,Rusak,6,Risiko Tinggi,Wheel Loader,Risiko Sedang
+10,2059,Dalam Perbaikan,0,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+5,7248,Dalam Perbaikan,4,Risiko Tinggi,Crane,Risiko Tinggi
+23,2404,Rusak,2,Risiko Sedang,Excavator,Risiko Tinggi
+3,7174,Dalam Perbaikan,4,Risiko Tinggi,Bulldozer,Risiko Tinggi
+10,7476,Baik,10,Risiko Sedang,Dump Truck,Risiko Tinggi
+7,1629,Baik,5,Risiko Rendah,Dump Truck,Risiko Rendah
+2,7556,Dalam Perbaikan,0,Risiko Tinggi,Crane,Risiko Tinggi
+11,159,Baik,5,Risiko Sedang,Motor Grader,Risiko Rendah
+25,1973,Dalam Perbaikan,1,Risiko Rendah,Wheel Loader,Risiko Tinggi
+0,566,Dalam Perbaikan,2,Risiko Rendah,Wheel Loader,Risiko Rendah
+9,1352,Rusak,8,Risiko Tinggi,Forklift,Risiko Sedang
+20,7609,Dalam Perbaikan,3,Risiko Tinggi,Compactor,Risiko Tinggi
+14,5502,Dalam Perbaikan,5,Risiko Sedang,Dump Truck,Risiko Tinggi
+12,991,Baik,3,Risiko Rendah,Crane,Risiko Rendah
+26,4819,Dalam Perbaikan,3,Risiko Tinggi,Motor Grader,Risiko Tinggi
+26,581,Dalam Perbaikan,10,Risiko Rendah,Motor Grader,Risiko Tinggi
+24,7417,Baik,5,Risiko Rendah,Dump Truck,Risiko Tinggi
+19,2281,Dalam Perbaikan,7,Risiko Rendah,Dump Truck,Risiko Tinggi
+22,5925,Dalam Perbaikan,9,Risiko Sedang,Motor Grader,Risiko Tinggi
+1,3874,Rusak,3,Risiko Rendah,Backhoe Loader,Risiko Sedang
+5,3531,Rusak,6,Risiko Sedang,Wheel Loader,Risiko Sedang
+3,443,Dalam Perbaikan,10,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+25,3298,Dalam Perbaikan,5,Risiko Rendah,Motor Grader,Risiko Tinggi
+20,1558,Dalam Perbaikan,7,Risiko Rendah,Forklift,Risiko Tinggi
+21,2281,Rusak,3,Risiko Rendah,Wheel Loader,Risiko Tinggi
+1,7056,Dalam Perbaikan,1,Risiko Rendah,Dump Truck,Risiko Tinggi
+0,120,Baik,3,Risiko Rendah,Forklift,Risiko Rendah
+11,3943,Baik,6,Risiko Rendah,Bulldozer,Risiko Sedang
+14,17,Rusak,4,Risiko Sedang,Compactor,Risiko Tinggi
+13,5706,Dalam Perbaikan,8,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+22,1555,Rusak,3,Risiko Rendah,Lainnya,Risiko Tinggi
+3,4441,Baik,5,Risiko Rendah,Excavator,Risiko Rendah
+8,3905,Dalam Perbaikan,8,Risiko Rendah,Excavator,Risiko Sedang
+10,656,Baik,1,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+5,7060,Baik,6,Risiko Rendah,Lainnya,Risiko Tinggi
+19,4742,Dalam Perbaikan,0,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+13,5385,Dalam Perbaikan,9,Risiko Tinggi,Crane,Risiko Tinggi
+18,1673,Dalam Perbaikan,5,Risiko Rendah,Compactor,Risiko Tinggi
+14,1072,Dalam Perbaikan,10,Risiko Sedang,Wheel Loader,Risiko Tinggi
+16,7610,Baik,0,Risiko Sedang,Lainnya,Risiko Tinggi
+8,819,Baik,8,Risiko Rendah,Dump Truck,Risiko Rendah
+18,1085,Rusak,1,Risiko Rendah,Crane,Risiko Tinggi
+17,1292,Rusak,8,Risiko Tinggi,Compactor,Risiko Tinggi
+7,6611,Dalam Perbaikan,8,Risiko Rendah,Dump Truck,Risiko Tinggi
+17,7632,Dalam Perbaikan,1,Risiko Rendah,Compactor,Risiko Tinggi
+23,7288,Baik,8,Risiko Rendah,Compactor,Risiko Tinggi
+17,4954,Baik,5,Risiko Rendah,Compactor,Risiko Tinggi
+10,4002,Rusak,0,Risiko Rendah,Forklift,Risiko Sedang
+0,2266,Baik,0,Risiko Sedang,Bulldozer,Risiko Rendah
+6,2145,Baik,7,Risiko Tinggi,Forklift,Risiko Rendah
+9,79,Baik,1,Risiko Tinggi,Bulldozer,Risiko Rendah
+9,295,Rusak,9,Risiko Tinggi,Bulldozer,Risiko Sedang
+13,1044,Baik,4,Risiko Sedang,Excavator,Risiko Tinggi
+15,1720,Dalam Perbaikan,3,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+15,6390,Dalam Perbaikan,6,Risiko Tinggi,Bulldozer,Risiko Tinggi
+19,7082,Baik,2,Risiko Sedang,Excavator,Risiko Tinggi
+21,6033,Rusak,6,Risiko Tinggi,Motor Grader,Risiko Tinggi
+18,1304,Dalam Perbaikan,1,Risiko Sedang,Excavator,Risiko Tinggi
+11,1822,Baik,7,Risiko Sedang,Compactor,Risiko Rendah
+0,6515,Baik,3,Risiko Rendah,Motor Grader,Risiko Tinggi
+14,2689,Rusak,1,Risiko Sedang,Crane,Risiko Tinggi
+6,4173,Rusak,10,Risiko Tinggi,Crane,Risiko Sedang
+26,944,Rusak,2,Risiko Tinggi,Compactor,Risiko Tinggi
+25,888,Dalam Perbaikan,6,Risiko Sedang,Crane,Risiko Tinggi
+13,4966,Dalam Perbaikan,1,Risiko Sedang,Lainnya,Risiko Tinggi
+20,2086,Baik,6,Risiko Rendah,Dump Truck,Risiko Tinggi
+1,4410,Dalam Perbaikan,10,Risiko Rendah,Crane,Risiko Sedang
+13,573,Dalam Perbaikan,5,Risiko Tinggi,Crane,Risiko Tinggi
+5,6946,Baik,4,Risiko Tinggi,Compactor,Risiko Tinggi
+5,3345,Rusak,6,Risiko Tinggi,Compactor,Risiko Sedang
+9,1042,Baik,6,Risiko Tinggi,Forklift,Risiko Rendah
+5,6128,Baik,9,Risiko Tinggi,Compactor,Risiko Tinggi
+14,4488,Baik,4,Risiko Sedang,Motor Grader,Risiko Tinggi
+13,6436,Dalam Perbaikan,9,Risiko Tinggi,Crane,Risiko Tinggi
+12,3619,Rusak,10,Risiko Rendah,Dump Truck,Risiko Sedang
+11,6502,Dalam Perbaikan,2,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+17,4222,Dalam Perbaikan,10,Risiko Tinggi,Crane,Risiko Tinggi
+24,6704,Baik,10,Risiko Sedang,Motor Grader,Risiko Tinggi
+1,1631,Baik,0,Risiko Rendah,Motor Grader,Risiko Rendah
+11,5007,Baik,7,Risiko Sedang,Lainnya,Risiko Tinggi
+20,5884,Dalam Perbaikan,6,Risiko Sedang,Forklift,Risiko Tinggi
+19,1208,Dalam Perbaikan,0,Risiko Rendah,Forklift,Risiko Tinggi
+19,1440,Dalam Perbaikan,8,Risiko Sedang,Excavator,Risiko Tinggi
+9,2041,Baik,7,Risiko Rendah,Wheel Loader,Risiko Rendah
+5,4351,Dalam Perbaikan,9,Risiko Sedang,Wheel Loader,Risiko Sedang
+7,6676,Dalam Perbaikan,8,Risiko Sedang,Dump Truck,Risiko Tinggi
+12,7349,Baik,7,Risiko Sedang,Compactor,Risiko Tinggi
+2,2025,Dalam Perbaikan,4,Risiko Tinggi,Wheel Loader,Risiko Rendah
+6,1959,Rusak,7,Risiko Rendah,Compactor,Risiko Rendah
+19,2225,Rusak,5,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+22,1235,Baik,6,Risiko Tinggi,Bulldozer,Risiko Tinggi
+4,1752,Baik,6,Risiko Sedang,Crane,Risiko Rendah
+9,3816,Rusak,0,Risiko Rendah,Forklift,Risiko Sedang
+14,7412,Dalam Perbaikan,0,Risiko Tinggi,Forklift,Risiko Tinggi
+11,48,Rusak,4,Risiko Sedang,Forklift,Risiko Sedang
+9,6123,Dalam Perbaikan,8,Risiko Tinggi,Motor Grader,Risiko Tinggi
+11,1797,Rusak,6,Risiko Sedang,Excavator,Risiko Sedang
+14,2753,Dalam Perbaikan,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+0,3828,Baik,9,Risiko Tinggi,Excavator,Risiko Sedang
+14,4848,Dalam Perbaikan,10,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+6,3511,Baik,7,Risiko Rendah,Excavator,Risiko Rendah
+18,3105,Rusak,3,Risiko Sedang,Crane,Risiko Tinggi
+16,6235,Rusak,4,Risiko Sedang,Compactor,Risiko Tinggi
+0,670,Rusak,0,Risiko Tinggi,Dump Truck,Risiko Rendah
+25,7798,Rusak,3,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+2,7842,Dalam Perbaikan,0,Risiko Rendah,Motor Grader,Risiko Tinggi
+20,6874,Baik,9,Risiko Rendah,Motor Grader,Risiko Tinggi
+22,3879,Dalam Perbaikan,1,Risiko Tinggi,Motor Grader,Risiko Tinggi
+12,5730,Rusak,5,Risiko Rendah,Lainnya,Risiko Tinggi
+7,7894,Dalam Perbaikan,1,Risiko Rendah,Compactor,Risiko Tinggi
+23,4740,Baik,4,Risiko Tinggi,Forklift,Risiko Tinggi
+14,7712,Dalam Perbaikan,3,Risiko Rendah,Lainnya,Risiko Tinggi
+4,6804,Dalam Perbaikan,3,Risiko Rendah,Compactor,Risiko Tinggi
+5,4918,Baik,9,Risiko Rendah,Crane,Risiko Rendah
+9,3509,Dalam Perbaikan,5,Risiko Rendah,Dump Truck,Risiko Sedang
+6,2795,Baik,6,Risiko Sedang,Backhoe Loader,Risiko Rendah
+13,7870,Rusak,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+13,1442,Dalam Perbaikan,8,Risiko Tinggi,Compactor,Risiko Tinggi
+7,6620,Dalam Perbaikan,7,Risiko Sedang,Forklift,Risiko Tinggi
+0,5988,Dalam Perbaikan,4,Risiko Sedang,Motor Grader,Risiko Tinggi
+0,7656,Baik,4,Risiko Sedang,Motor Grader,Risiko Tinggi
+2,3806,Dalam Perbaikan,9,Risiko Tinggi,Forklift,Risiko Sedang
+16,235,Rusak,5,Risiko Rendah,Wheel Loader,Risiko Tinggi
+20,2906,Rusak,5,Risiko Sedang,Lainnya,Risiko Tinggi
+4,7209,Rusak,8,Risiko Rendah,Dump Truck,Risiko Tinggi
+20,701,Baik,6,Risiko Sedang,Dump Truck,Risiko Tinggi
+2,1968,Dalam Perbaikan,7,Risiko Tinggi,Wheel Loader,Risiko Rendah
+12,6495,Baik,1,Risiko Sedang,Motor Grader,Risiko Tinggi
+14,5667,Baik,4,Risiko Tinggi,Lainnya,Risiko Tinggi
+15,3876,Dalam Perbaikan,8,Risiko Sedang,Forklift,Risiko Tinggi
+3,4508,Rusak,5,Risiko Tinggi,Wheel Loader,Risiko Sedang
+18,2511,Rusak,3,Risiko Rendah,Motor Grader,Risiko Tinggi
+16,979,Dalam Perbaikan,8,Risiko Tinggi,Bulldozer,Risiko Tinggi
+20,1772,Dalam Perbaikan,7,Risiko Sedang,Lainnya,Risiko Tinggi
+2,4297,Dalam Perbaikan,4,Risiko Rendah,Motor Grader,Risiko Rendah
+17,1863,Rusak,2,Risiko Sedang,Excavator,Risiko Tinggi
+4,4375,Baik,4,Risiko Rendah,Excavator,Risiko Rendah
+9,2393,Dalam Perbaikan,2,Risiko Tinggi,Wheel Loader,Risiko Rendah
+23,7149,Baik,9,Risiko Sedang,Wheel Loader,Risiko Tinggi
+11,3608,Rusak,2,Risiko Rendah,Compactor,Risiko Sedang
+11,934,Baik,6,Risiko Sedang,Backhoe Loader,Risiko Rendah
+8,5156,Dalam Perbaikan,0,Risiko Rendah,Bulldozer,Risiko Tinggi
+1,4610,Rusak,1,Risiko Rendah,Backhoe Loader,Risiko Rendah
+9,6262,Rusak,9,Risiko Tinggi,Lainnya,Risiko Tinggi
+19,6354,Dalam Perbaikan,6,Risiko Sedang,Wheel Loader,Risiko Tinggi
+17,7046,Dalam Perbaikan,6,Risiko Sedang,Lainnya,Risiko Tinggi
+7,493,Dalam Perbaikan,1,Risiko Rendah,Motor Grader,Risiko Rendah
+18,5410,Baik,2,Risiko Rendah,Bulldozer,Risiko Tinggi
+9,614,Baik,0,Risiko Sedang,Wheel Loader,Risiko Rendah
+4,4864,Rusak,4,Risiko Rendah,Motor Grader,Risiko Sedang
+17,5791,Rusak,7,Risiko Rendah,Motor Grader,Risiko Tinggi
+18,6453,Dalam Perbaikan,9,Risiko Tinggi,Motor Grader,Risiko Tinggi
+13,940,Dalam Perbaikan,3,Risiko Tinggi,Bulldozer,Risiko Tinggi
+18,6771,Baik,1,Risiko Rendah,Bulldozer,Risiko Tinggi
+1,2519,Dalam Perbaikan,9,Risiko Sedang,Wheel Loader,Risiko Rendah
+23,3839,Dalam Perbaikan,4,Risiko Tinggi,Forklift,Risiko Tinggi
+18,4099,Dalam Perbaikan,7,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+7,326,Rusak,5,Risiko Tinggi,Compactor,Risiko Sedang
+26,748,Baik,10,Risiko Tinggi,Lainnya,Risiko Tinggi
+26,6264,Dalam Perbaikan,4,Risiko Tinggi,Excavator,Risiko Tinggi
+2,6195,Baik,7,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+18,1486,Dalam Perbaikan,6,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+24,3850,Rusak,6,Risiko Sedang,Crane,Risiko Tinggi
+5,856,Baik,5,Risiko Sedang,Wheel Loader,Risiko Rendah
+17,5427,Rusak,8,Risiko Rendah,Wheel Loader,Risiko Tinggi
+24,2576,Rusak,5,Risiko Rendah,Forklift,Risiko Tinggi
+10,6757,Baik,10,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+13,444,Baik,8,Risiko Sedang,Lainnya,Risiko Tinggi
+2,4083,Dalam Perbaikan,7,Risiko Rendah,Motor Grader,Risiko Sedang
+18,4499,Baik,4,Risiko Sedang,Wheel Loader,Risiko Tinggi
+23,236,Dalam Perbaikan,9,Risiko Rendah,Bulldozer,Risiko Tinggi
+17,4512,Baik,8,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+19,6892,Baik,7,Risiko Rendah,Bulldozer,Risiko Tinggi
+11,7640,Dalam Perbaikan,4,Risiko Tinggi,Compactor,Risiko Tinggi
+13,6838,Rusak,7,Risiko Rendah,Wheel Loader,Risiko Tinggi
+9,1184,Rusak,3,Risiko Tinggi,Dump Truck,Risiko Sedang
+3,7203,Baik,1,Risiko Sedang,Forklift,Risiko Tinggi
+16,7653,Dalam Perbaikan,4,Risiko Rendah,Compactor,Risiko Tinggi
+3,2445,Dalam Perbaikan,9,Risiko Tinggi,Wheel Loader,Risiko Rendah
+22,3658,Dalam Perbaikan,7,Risiko Sedang,Crane,Risiko Tinggi
+9,6249,Dalam Perbaikan,6,Risiko Sedang,Crane,Risiko Tinggi
+20,5713,Baik,9,Risiko Sedang,Motor Grader,Risiko Tinggi
+2,3365,Baik,5,Risiko Tinggi,Wheel Loader,Risiko Rendah
+4,7482,Rusak,6,Risiko Tinggi,Bulldozer,Risiko Tinggi
+11,7903,Baik,2,Risiko Tinggi,Lainnya,Risiko Tinggi
+16,7124,Baik,7,Risiko Rendah,Dump Truck,Risiko Tinggi
+12,125,Dalam Perbaikan,2,Risiko Sedang,Bulldozer,Risiko Rendah
+24,3846,Rusak,5,Risiko Tinggi,Forklift,Risiko Tinggi
+6,657,Rusak,10,Risiko Tinggi,Forklift,Risiko Sedang
+16,5134,Dalam Perbaikan,7,Risiko Tinggi,Excavator,Risiko Tinggi
+7,560,Baik,10,Risiko Tinggi,Compactor,Risiko Rendah
+19,6117,Baik,6,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+12,1362,Dalam Perbaikan,4,Risiko Rendah,Excavator,Risiko Rendah
+16,6522,Baik,4,Risiko Sedang,Crane,Risiko Tinggi
+13,1192,Baik,8,Risiko Sedang,Lainnya,Risiko Tinggi
+5,6492,Baik,2,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+7,7133,Rusak,9,Risiko Tinggi,Motor Grader,Risiko Tinggi
+11,7477,Dalam Perbaikan,2,Risiko Rendah,Wheel Loader,Risiko Tinggi
+6,2080,Rusak,4,Risiko Tinggi,Excavator,Risiko Sedang
+1,3811,Rusak,10,Risiko Tinggi,Bulldozer,Risiko Sedang
+24,3618,Rusak,9,Risiko Sedang,Forklift,Risiko Tinggi
+4,2048,Rusak,4,Risiko Rendah,Forklift,Risiko Rendah
+11,873,Baik,6,Risiko Tinggi,Crane,Risiko Sedang
+8,2423,Dalam Perbaikan,4,Risiko Rendah,Forklift,Risiko Rendah
+18,66,Dalam Perbaikan,10,Risiko Tinggi,Excavator,Risiko Tinggi
+7,6104,Rusak,4,Risiko Rendah,Lainnya,Risiko Tinggi
+1,2886,Baik,10,Risiko Rendah,Lainnya,Risiko Rendah
+18,5552,Dalam Perbaikan,10,Risiko Tinggi,Bulldozer,Risiko Tinggi
+6,795,Dalam Perbaikan,10,Risiko Rendah,Compactor,Risiko Rendah
+1,3611,Baik,9,Risiko Sedang,Bulldozer,Risiko Sedang
+24,7451,Rusak,5,Risiko Tinggi,Forklift,Risiko Tinggi
+21,1644,Baik,8,Risiko Sedang,Dump Truck,Risiko Tinggi
+10,7483,Rusak,2,Risiko Sedang,Wheel Loader,Risiko Tinggi
+1,2417,Dalam Perbaikan,5,Risiko Rendah,Wheel Loader,Risiko Rendah
+24,1153,Baik,10,Risiko Tinggi,Forklift,Risiko Tinggi
+1,4565,Rusak,1,Risiko Sedang,Excavator,Risiko Sedang
+18,4395,Baik,7,Risiko Sedang,Compactor,Risiko Tinggi
+8,3121,Dalam Perbaikan,5,Risiko Rendah,Motor Grader,Risiko Sedang
+11,205,Dalam Perbaikan,8,Risiko Sedang,Lainnya,Risiko Sedang
+19,5305,Baik,10,Risiko Sedang,Compactor,Risiko Tinggi
+6,3344,Baik,2,Risiko Rendah,Excavator,Risiko Rendah
+17,4035,Baik,1,Risiko Rendah,Dump Truck,Risiko Tinggi
+22,3183,Rusak,5,Risiko Tinggi,Dump Truck,Risiko Tinggi
+13,4811,Dalam Perbaikan,2,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+0,4008,Dalam Perbaikan,6,Risiko Sedang,Excavator,Risiko Sedang
+4,3035,Baik,7,Risiko Sedang,Motor Grader,Risiko Rendah
+15,813,Dalam Perbaikan,5,Risiko Tinggi,Crane,Risiko Tinggi
+25,3261,Rusak,3,Risiko Rendah,Wheel Loader,Risiko Tinggi
+24,5429,Baik,10,Risiko Tinggi,Lainnya,Risiko Tinggi
+26,414,Rusak,3,Risiko Rendah,Lainnya,Risiko Tinggi
+20,562,Dalam Perbaikan,3,Risiko Tinggi,Motor Grader,Risiko Tinggi
+0,7124,Baik,5,Risiko Rendah,Lainnya,Risiko Tinggi
+26,2271,Baik,2,Risiko Tinggi,Compactor,Risiko Tinggi
+1,1429,Baik,10,Risiko Rendah,Bulldozer,Risiko Rendah
+26,2934,Baik,9,Risiko Sedang,Excavator,Risiko Tinggi
+21,2173,Baik,2,Risiko Tinggi,Forklift,Risiko Tinggi
+10,931,Dalam Perbaikan,1,Risiko Sedang,Wheel Loader,Risiko Rendah
+2,2965,Dalam Perbaikan,9,Risiko Rendah,Wheel Loader,Risiko Rendah
+10,1814,Dalam Perbaikan,0,Risiko Tinggi,Dump Truck,Risiko Rendah
+17,3752,Dalam Perbaikan,0,Risiko Rendah,Wheel Loader,Risiko Tinggi
+14,3492,Dalam Perbaikan,1,Risiko Sedang,Wheel Loader,Risiko Tinggi
+24,7366,Baik,5,Risiko Tinggi,Bulldozer,Risiko Tinggi
+24,1033,Rusak,9,Risiko Tinggi,Lainnya,Risiko Tinggi
+9,5833,Rusak,6,Risiko Tinggi,Dump Truck,Risiko Tinggi
+17,3716,Dalam Perbaikan,9,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+1,5748,Baik,10,Risiko Tinggi,Dump Truck,Risiko Tinggi
+3,7090,Baik,6,Risiko Sedang,Motor Grader,Risiko Tinggi
+13,2776,Rusak,6,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+16,3496,Rusak,10,Risiko Sedang,Crane,Risiko Tinggi
+22,5626,Rusak,1,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+24,3537,Baik,5,Risiko Rendah,Dump Truck,Risiko Tinggi
+25,4804,Dalam Perbaikan,8,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+13,2896,Dalam Perbaikan,6,Risiko Tinggi,Excavator,Risiko Tinggi
+17,4918,Rusak,5,Risiko Rendah,Lainnya,Risiko Tinggi
+10,1742,Baik,10,Risiko Sedang,Motor Grader,Risiko Rendah
+23,2868,Dalam Perbaikan,5,Risiko Rendah,Compactor,Risiko Tinggi
+8,1852,Rusak,8,Risiko Tinggi,Lainnya,Risiko Sedang
+5,5264,Dalam Perbaikan,0,Risiko Tinggi,Compactor,Risiko Tinggi
+26,1477,Rusak,4,Risiko Sedang,Crane,Risiko Tinggi
+26,1486,Baik,9,Risiko Tinggi,Forklift,Risiko Tinggi
+24,1162,Dalam Perbaikan,10,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+3,4345,Baik,6,Risiko Sedang,Wheel Loader,Risiko Rendah
+16,1289,Rusak,4,Risiko Tinggi,Crane,Risiko Tinggi
+2,7712,Dalam Perbaikan,9,Risiko Rendah,Excavator,Risiko Tinggi
+22,1289,Dalam Perbaikan,0,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+18,3629,Dalam Perbaikan,6,Risiko Sedang,Lainnya,Risiko Tinggi
+12,3392,Rusak,3,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+15,3521,Baik,4,Risiko Tinggi,Lainnya,Risiko Tinggi
+11,4316,Dalam Perbaikan,4,Risiko Rendah,Motor Grader,Risiko Sedang
+14,4909,Baik,0,Risiko Rendah,Compactor,Risiko Tinggi
+20,6286,Baik,4,Risiko Sedang,Crane,Risiko Tinggi
+23,63,Rusak,6,Risiko Rendah,Bulldozer,Risiko Tinggi
+14,4362,Dalam Perbaikan,3,Risiko Tinggi,Dump Truck,Risiko Tinggi
+0,5472,Rusak,1,Risiko Sedang,Excavator,Risiko Tinggi
+13,153,Rusak,1,Risiko Sedang,Lainnya,Risiko Tinggi
+13,4697,Rusak,10,Risiko Sedang,Compactor,Risiko Tinggi
+23,3318,Baik,5,Risiko Rendah,Lainnya,Risiko Tinggi
+12,6815,Dalam Perbaikan,5,Risiko Rendah,Forklift,Risiko Tinggi
+23,1993,Rusak,9,Risiko Sedang,Dump Truck,Risiko Tinggi
+24,3242,Rusak,5,Risiko Rendah,Crane,Risiko Tinggi
+2,1377,Baik,8,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+10,4177,Baik,5,Risiko Sedang,Bulldozer,Risiko Sedang
+19,842,Baik,4,Risiko Rendah,Bulldozer,Risiko Tinggi
+7,1252,Dalam Perbaikan,1,Risiko Rendah,Wheel Loader,Risiko Rendah
+12,6180,Dalam Perbaikan,9,Risiko Sedang,Lainnya,Risiko Tinggi
+6,5204,Dalam Perbaikan,5,Risiko Tinggi,Crane,Risiko Tinggi
+22,3602,Baik,7,Risiko Sedang,Compactor,Risiko Tinggi
+1,2250,Dalam Perbaikan,0,Risiko Sedang,Dump Truck,Risiko Rendah
+24,2542,Rusak,7,Risiko Rendah,Excavator,Risiko Tinggi
+15,6813,Rusak,1,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+7,4866,Dalam Perbaikan,6,Risiko Sedang,Lainnya,Risiko Sedang
+9,7817,Dalam Perbaikan,0,Risiko Sedang,Lainnya,Risiko Tinggi
+6,1542,Rusak,9,Risiko Sedang,Dump Truck,Risiko Sedang
+22,7845,Baik,7,Risiko Rendah,Crane,Risiko Tinggi
+4,690,Dalam Perbaikan,10,Risiko Rendah,Excavator,Risiko Rendah
+19,5796,Rusak,7,Risiko Tinggi,Dump Truck,Risiko Tinggi
+7,1300,Rusak,5,Risiko Sedang,Forklift,Risiko Rendah
+13,6344,Rusak,10,Risiko Tinggi,Excavator,Risiko Tinggi
+1,5168,Dalam Perbaikan,5,Risiko Rendah,Crane,Risiko Tinggi
+23,4570,Dalam Perbaikan,6,Risiko Sedang,Compactor,Risiko Tinggi
+3,6976,Dalam Perbaikan,9,Risiko Rendah,Crane,Risiko Tinggi
+24,4773,Dalam Perbaikan,2,Risiko Sedang,Compactor,Risiko Tinggi
+6,5721,Dalam Perbaikan,6,Risiko Rendah,Lainnya,Risiko Tinggi
+4,7684,Baik,4,Risiko Tinggi,Forklift,Risiko Tinggi
+6,6485,Rusak,2,Risiko Tinggi,Dump Truck,Risiko Tinggi
+24,5292,Dalam Perbaikan,6,Risiko Tinggi,Crane,Risiko Tinggi
+26,2970,Rusak,2,Risiko Rendah,Crane,Risiko Tinggi
+2,3983,Baik,3,Risiko Rendah,Bulldozer,Risiko Rendah
+24,2423,Baik,8,Risiko Tinggi,Dump Truck,Risiko Tinggi
+25,5422,Rusak,9,Risiko Rendah,Lainnya,Risiko Tinggi
+14,1263,Baik,2,Risiko Tinggi,Lainnya,Risiko Tinggi
+1,7394,Baik,7,Risiko Rendah,Forklift,Risiko Tinggi
+15,5540,Dalam Perbaikan,3,Risiko Sedang,Lainnya,Risiko Tinggi
+17,6163,Dalam Perbaikan,7,Risiko Rendah,Dump Truck,Risiko Tinggi
+19,2535,Rusak,3,Risiko Sedang,Lainnya,Risiko Tinggi
+12,3782,Rusak,6,Risiko Tinggi,Dump Truck,Risiko Sedang
+13,7915,Baik,3,Risiko Tinggi,Bulldozer,Risiko Tinggi
+18,427,Dalam Perbaikan,7,Risiko Sedang,Dump Truck,Risiko Tinggi
+23,5827,Dalam Perbaikan,1,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+2,1313,Rusak,7,Risiko Tinggi,Bulldozer,Risiko Sedang
+0,3583,Baik,3,Risiko Sedang,Crane,Risiko Rendah
+26,3398,Baik,6,Risiko Tinggi,Crane,Risiko Tinggi
+19,3163,Baik,5,Risiko Rendah,Excavator,Risiko Tinggi
+16,7625,Baik,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+22,313,Rusak,7,Risiko Tinggi,Bulldozer,Risiko Tinggi
+2,5779,Rusak,7,Risiko Tinggi,Excavator,Risiko Tinggi
+24,155,Rusak,3,Risiko Rendah,Dump Truck,Risiko Tinggi
+3,4987,Dalam Perbaikan,6,Risiko Rendah,Compactor,Risiko Rendah
+19,2467,Baik,0,Risiko Rendah,Forklift,Risiko Tinggi
+6,6503,Dalam Perbaikan,7,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+0,7414,Rusak,9,Risiko Tinggi,Excavator,Risiko Tinggi
+6,4221,Dalam Perbaikan,3,Risiko Tinggi,Bulldozer,Risiko Sedang
+17,3516,Baik,9,Risiko Sedang,Motor Grader,Risiko Tinggi
+8,3412,Baik,10,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+10,7984,Rusak,1,Risiko Tinggi,Dump Truck,Risiko Tinggi
+10,6442,Dalam Perbaikan,8,Risiko Rendah,Forklift,Risiko Tinggi
+11,356,Dalam Perbaikan,6,Risiko Sedang,Compactor,Risiko Sedang
+3,133,Rusak,1,Risiko Sedang,Motor Grader,Risiko Rendah
+3,5382,Dalam Perbaikan,1,Risiko Tinggi,Crane,Risiko Tinggi
+22,363,Rusak,8,Risiko Sedang,Bulldozer,Risiko Tinggi
+0,6382,Dalam Perbaikan,7,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+6,1493,Baik,1,Risiko Tinggi,Wheel Loader,Risiko Rendah
+25,2403,Baik,0,Risiko Rendah,Excavator,Risiko Tinggi
+16,7646,Rusak,8,Risiko Sedang,Dump Truck,Risiko Tinggi
+11,2075,Baik,10,Risiko Rendah,Compactor,Risiko Rendah
+15,7062,Baik,10,Risiko Sedang,Compactor,Risiko Tinggi
+23,6548,Rusak,6,Risiko Sedang,Wheel Loader,Risiko Tinggi
+14,2777,Baik,7,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+15,7571,Dalam Perbaikan,4,Risiko Rendah,Forklift,Risiko Tinggi
+24,3527,Dalam Perbaikan,2,Risiko Tinggi,Compactor,Risiko Tinggi
+16,840,Baik,5,Risiko Tinggi,Compactor,Risiko Tinggi
+17,3652,Dalam Perbaikan,6,Risiko Rendah,Wheel Loader,Risiko Tinggi
+15,3662,Baik,5,Risiko Tinggi,Forklift,Risiko Tinggi
+18,5238,Baik,1,Risiko Tinggi,Forklift,Risiko Tinggi
+15,4203,Dalam Perbaikan,10,Risiko Rendah,Excavator,Risiko Tinggi
+22,6952,Dalam Perbaikan,10,Risiko Sedang,Excavator,Risiko Tinggi
+22,550,Baik,10,Risiko Sedang,Crane,Risiko Tinggi
+14,7778,Dalam Perbaikan,0,Risiko Tinggi,Bulldozer,Risiko Tinggi
+5,3685,Rusak,5,Risiko Sedang,Backhoe Loader,Risiko Sedang
+8,1127,Dalam Perbaikan,5,Risiko Sedang,Crane,Risiko Sedang
+6,2283,Baik,1,Risiko Rendah,Bulldozer,Risiko Rendah
+11,4241,Rusak,8,Risiko Rendah,Compactor,Risiko Sedang
+2,2132,Dalam Perbaikan,7,Risiko Rendah,Lainnya,Risiko Rendah
+17,5685,Rusak,3,Risiko Rendah,Bulldozer,Risiko Tinggi
+24,3703,Baik,7,Risiko Rendah,Crane,Risiko Tinggi
+5,2846,Dalam Perbaikan,1,Risiko Tinggi,Dump Truck,Risiko Rendah
+17,7301,Rusak,2,Risiko Tinggi,Bulldozer,Risiko Tinggi
+1,2961,Dalam Perbaikan,3,Risiko Rendah,Motor Grader,Risiko Rendah
+1,1137,Baik,7,Risiko Rendah,Crane,Risiko Rendah
+9,4688,Rusak,7,Risiko Tinggi,Bulldozer,Risiko Tinggi
+7,7243,Baik,1,Risiko Sedang,Forklift,Risiko Tinggi
+4,5888,Rusak,8,Risiko Sedang,Forklift,Risiko Tinggi
+0,4709,Baik,2,Risiko Sedang,Backhoe Loader,Risiko Rendah
+12,3816,Dalam Perbaikan,8,Risiko Sedang,Bulldozer,Risiko Sedang
+0,6391,Dalam Perbaikan,10,Risiko Tinggi,Bulldozer,Risiko Tinggi
+2,7915,Baik,6,Risiko Tinggi,Excavator,Risiko Tinggi
+0,1017,Dalam Perbaikan,2,Risiko Sedang,Bulldozer,Risiko Rendah
+21,2643,Dalam Perbaikan,3,Risiko Sedang,Dump Truck,Risiko Tinggi
+17,6929,Baik,4,Risiko Rendah,Dump Truck,Risiko Tinggi
+18,1025,Dalam Perbaikan,4,Risiko Tinggi,Dump Truck,Risiko Tinggi
+24,4117,Dalam Perbaikan,2,Risiko Tinggi,Lainnya,Risiko Tinggi
+22,1402,Dalam Perbaikan,9,Risiko Tinggi,Lainnya,Risiko Tinggi
+16,6902,Dalam Perbaikan,0,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+25,7770,Dalam Perbaikan,9,Risiko Sedang,Motor Grader,Risiko Tinggi
+2,4686,Rusak,9,Risiko Tinggi,Excavator,Risiko Sedang
+11,7282,Dalam Perbaikan,8,Risiko Sedang,Compactor,Risiko Tinggi
+11,2006,Dalam Perbaikan,6,Risiko Sedang,Wheel Loader,Risiko Sedang
+24,5641,Baik,2,Risiko Sedang,Forklift,Risiko Tinggi
+11,3804,Baik,5,Risiko Tinggi,Bulldozer,Risiko Sedang
+16,7057,Dalam Perbaikan,5,Risiko Tinggi,Crane,Risiko Tinggi
+14,1071,Rusak,8,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+16,1980,Rusak,1,Risiko Sedang,Wheel Loader,Risiko Tinggi
+19,1154,Baik,0,Risiko Sedang,Forklift,Risiko Tinggi
+7,3425,Baik,2,Risiko Sedang,Lainnya,Risiko Rendah
+3,2561,Baik,2,Risiko Sedang,Dump Truck,Risiko Rendah
+12,4085,Rusak,7,Risiko Rendah,Backhoe Loader,Risiko Sedang
+14,4140,Rusak,3,Risiko Rendah,Lainnya,Risiko Tinggi
+15,398,Baik,4,Risiko Sedang,Lainnya,Risiko Tinggi
+0,5359,Dalam Perbaikan,7,Risiko Sedang,Dump Truck,Risiko Tinggi
+26,6940,Baik,6,Risiko Rendah,Compactor,Risiko Tinggi
+3,2996,Rusak,5,Risiko Rendah,Forklift,Risiko Rendah
+25,4671,Dalam Perbaikan,3,Risiko Sedang,Dump Truck,Risiko Tinggi
+17,602,Rusak,8,Risiko Sedang,Dump Truck,Risiko Tinggi
+18,6760,Dalam Perbaikan,10,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+22,7987,Baik,6,Risiko Sedang,Crane,Risiko Tinggi
+9,7691,Rusak,2,Risiko Rendah,Lainnya,Risiko Tinggi
+10,3288,Dalam Perbaikan,0,Risiko Rendah,Excavator,Risiko Sedang
+22,5845,Rusak,7,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+22,4966,Dalam Perbaikan,2,Risiko Sedang,Lainnya,Risiko Tinggi
+16,1331,Rusak,9,Risiko Tinggi,Compactor,Risiko Tinggi
+8,2755,Dalam Perbaikan,8,Risiko Tinggi,Wheel Loader,Risiko Sedang
+4,4611,Rusak,7,Risiko Rendah,Crane,Risiko Sedang
+16,5519,Baik,6,Risiko Tinggi,Compactor,Risiko Tinggi
+1,7362,Dalam Perbaikan,10,Risiko Rendah,Lainnya,Risiko Tinggi
+11,2175,Dalam Perbaikan,9,Risiko Tinggi,Motor Grader,Risiko Sedang
+3,420,Dalam Perbaikan,7,Risiko Rendah,Dump Truck,Risiko Rendah
+6,5907,Dalam Perbaikan,6,Risiko Rendah,Motor Grader,Risiko Tinggi
+25,4690,Dalam Perbaikan,1,Risiko Rendah,Excavator,Risiko Tinggi
+12,2569,Rusak,2,Risiko Sedang,Motor Grader,Risiko Sedang
+13,4110,Dalam Perbaikan,7,Risiko Tinggi,Excavator,Risiko Tinggi
+4,1131,Dalam Perbaikan,3,Risiko Tinggi,Crane,Risiko Rendah
+5,3918,Dalam Perbaikan,6,Risiko Sedang,Bulldozer,Risiko Sedang
+12,7472,Dalam Perbaikan,5,Risiko Tinggi,Crane,Risiko Tinggi
+5,6324,Dalam Perbaikan,10,Risiko Tinggi,Compactor,Risiko Tinggi
+7,3966,Baik,3,Risiko Sedang,Dump Truck,Risiko Rendah
+17,1842,Rusak,4,Risiko Tinggi,Motor Grader,Risiko Tinggi
+4,5775,Rusak,5,Risiko Sedang,Crane,Risiko Tinggi
+9,7648,Dalam Perbaikan,4,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+8,5542,Dalam Perbaikan,6,Risiko Sedang,Crane,Risiko Tinggi
+2,6591,Baik,4,Risiko Rendah,Compactor,Risiko Tinggi
+4,647,Rusak,7,Risiko Tinggi,Compactor,Risiko Sedang
+3,3924,Baik,3,Risiko Tinggi,Compactor,Risiko Rendah
+9,5703,Rusak,2,Risiko Rendah,Lainnya,Risiko Tinggi
+3,4807,Baik,3,Risiko Rendah,Dump Truck,Risiko Rendah
+19,5226,Baik,0,Risiko Rendah,Forklift,Risiko Tinggi
+16,5876,Rusak,1,Risiko Tinggi,Bulldozer,Risiko Tinggi
+26,7901,Dalam Perbaikan,2,Risiko Sedang,Wheel Loader,Risiko Tinggi
+11,5329,Baik,4,Risiko Sedang,Compactor,Risiko Tinggi
+6,484,Baik,10,Risiko Tinggi,Motor Grader,Risiko Rendah
+9,6051,Dalam Perbaikan,0,Risiko Rendah,Forklift,Risiko Tinggi
+0,1440,Baik,6,Risiko Sedang,Bulldozer,Risiko Rendah
+3,7881,Rusak,0,Risiko Rendah,Compactor,Risiko Tinggi
+8,4937,Baik,5,Risiko Sedang,Wheel Loader,Risiko Sedang
+6,4450,Dalam Perbaikan,7,Risiko Rendah,Dump Truck,Risiko Sedang
+12,2235,Baik,1,Risiko Sedang,Bulldozer,Risiko Rendah
+3,3759,Dalam Perbaikan,4,Risiko Tinggi,Bulldozer,Risiko Sedang
+26,6034,Rusak,4,Risiko Tinggi,Motor Grader,Risiko Tinggi
+21,5004,Dalam Perbaikan,6,Risiko Sedang,Dump Truck,Risiko Tinggi
+16,710,Rusak,10,Risiko Rendah,Bulldozer,Risiko Tinggi
+22,3911,Rusak,3,Risiko Rendah,Compactor,Risiko Tinggi
+14,1929,Rusak,4,Risiko Sedang,Compactor,Risiko Tinggi
+8,5921,Dalam Perbaikan,0,Risiko Sedang,Crane,Risiko Tinggi
+4,1935,Baik,10,Risiko Rendah,Wheel Loader,Risiko Rendah
+17,1308,Rusak,10,Risiko Tinggi,Compactor,Risiko Tinggi
+4,961,Dalam Perbaikan,4,Risiko Sedang,Lainnya,Risiko Rendah
+19,1795,Baik,7,Risiko Rendah,Wheel Loader,Risiko Tinggi
+3,4962,Rusak,6,Risiko Tinggi,Dump Truck,Risiko Sedang
+11,6204,Dalam Perbaikan,10,Risiko Rendah,Motor Grader,Risiko Tinggi
+5,6182,Dalam Perbaikan,1,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+10,5765,Rusak,1,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+25,6789,Dalam Perbaikan,8,Risiko Rendah,Lainnya,Risiko Tinggi
+9,1227,Baik,5,Risiko Tinggi,Wheel Loader,Risiko Rendah
+23,5572,Baik,9,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+10,3649,Baik,7,Risiko Rendah,Dump Truck,Risiko Sedang
+13,3742,Dalam Perbaikan,0,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+5,6610,Rusak,0,Risiko Sedang,Compactor,Risiko Tinggi
+0,24,Dalam Perbaikan,3,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+25,3470,Rusak,1,Risiko Tinggi,Excavator,Risiko Tinggi
+24,7649,Rusak,0,Risiko Sedang,Forklift,Risiko Tinggi
+21,6299,Baik,10,Risiko Tinggi,Forklift,Risiko Tinggi
+15,7301,Rusak,7,Risiko Sedang,Forklift,Risiko Tinggi
+24,5592,Dalam Perbaikan,8,Risiko Rendah,Crane,Risiko Tinggi
+23,1462,Dalam Perbaikan,6,Risiko Tinggi,Bulldozer,Risiko Tinggi
+3,1824,Baik,0,Risiko Sedang,Wheel Loader,Risiko Rendah
+5,5890,Dalam Perbaikan,6,Risiko Tinggi,Forklift,Risiko Tinggi
+0,1881,Baik,7,Risiko Sedang,Bulldozer,Risiko Rendah
+18,1544,Dalam Perbaikan,1,Risiko Rendah,Forklift,Risiko Tinggi
+7,6275,Baik,3,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+23,4865,Baik,7,Risiko Tinggi,Excavator,Risiko Tinggi
+19,6066,Baik,6,Risiko Sedang,Motor Grader,Risiko Tinggi
+9,1779,Baik,2,Risiko Tinggi,Compactor,Risiko Rendah
+19,6682,Dalam Perbaikan,9,Risiko Sedang,Lainnya,Risiko Tinggi
+7,6328,Dalam Perbaikan,5,Risiko Rendah,Compactor,Risiko Tinggi
+22,5408,Dalam Perbaikan,3,Risiko Sedang,Compactor,Risiko Tinggi
+18,499,Dalam Perbaikan,9,Risiko Tinggi,Bulldozer,Risiko Tinggi
+6,5560,Rusak,8,Risiko Sedang,Excavator,Risiko Tinggi
+15,7713,Dalam Perbaikan,10,Risiko Sedang,Dump Truck,Risiko Tinggi
+16,5704,Rusak,6,Risiko Rendah,Compactor,Risiko Tinggi
+14,1506,Dalam Perbaikan,7,Risiko Rendah,Motor Grader,Risiko Tinggi
+17,7024,Dalam Perbaikan,2,Risiko Sedang,Excavator,Risiko Tinggi
+9,3380,Rusak,8,Risiko Tinggi,Bulldozer,Risiko Tinggi
+14,1989,Rusak,3,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+12,6939,Rusak,1,Risiko Tinggi,Motor Grader,Risiko Tinggi
+25,2199,Rusak,10,Risiko Tinggi,Lainnya,Risiko Tinggi
+25,7156,Baik,3,Risiko Tinggi,Dump Truck,Risiko Tinggi
+20,3927,Baik,5,Risiko Sedang,Excavator,Risiko Tinggi
+20,7677,Baik,1,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+19,5698,Dalam Perbaikan,3,Risiko Sedang,Motor Grader,Risiko Tinggi
+9,2634,Rusak,6,Risiko Sedang,Dump Truck,Risiko Sedang
+6,2943,Rusak,4,Risiko Sedang,Dump Truck,Risiko Rendah
+11,3817,Baik,7,Risiko Sedang,Motor Grader,Risiko Sedang
+15,2563,Rusak,0,Risiko Tinggi,Motor Grader,Risiko Tinggi
+3,1195,Baik,4,Risiko Tinggi,Lainnya,Risiko Rendah
+8,5898,Rusak,4,Risiko Rendah,Motor Grader,Risiko Tinggi
+16,1884,Rusak,9,Risiko Rendah,Wheel Loader,Risiko Tinggi
+9,5362,Dalam Perbaikan,5,Risiko Sedang,Wheel Loader,Risiko Tinggi
+3,5256,Dalam Perbaikan,7,Risiko Sedang,Bulldozer,Risiko Tinggi
+3,6512,Rusak,2,Risiko Rendah,Dump Truck,Risiko Tinggi
+11,1507,Dalam Perbaikan,10,Risiko Rendah,Dump Truck,Risiko Sedang
+25,6873,Baik,10,Risiko Rendah,Excavator,Risiko Tinggi
+13,1126,Dalam Perbaikan,3,Risiko Rendah,Bulldozer,Risiko Tinggi
+26,1791,Dalam Perbaikan,7,Risiko Sedang,Excavator,Risiko Tinggi
+7,5224,Dalam Perbaikan,9,Risiko Sedang,Wheel Loader,Risiko Tinggi
+26,54,Dalam Perbaikan,8,Risiko Sedang,Excavator,Risiko Tinggi
+26,4336,Dalam Perbaikan,4,Risiko Tinggi,Compactor,Risiko Tinggi
+26,4114,Dalam Perbaikan,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+23,7520,Baik,8,Risiko Rendah,Motor Grader,Risiko Tinggi
+20,5077,Dalam Perbaikan,4,Risiko Sedang,Compactor,Risiko Tinggi
+1,3251,Baik,5,Risiko Sedang,Wheel Loader,Risiko Rendah
+8,1992,Dalam Perbaikan,3,Risiko Sedang,Backhoe Loader,Risiko Sedang
+6,7030,Dalam Perbaikan,0,Risiko Rendah,Forklift,Risiko Tinggi
+14,3089,Dalam Perbaikan,7,Risiko Rendah,Excavator,Risiko Tinggi
+4,1403,Baik,7,Risiko Sedang,Crane,Risiko Rendah
+8,7028,Baik,8,Risiko Rendah,Motor Grader,Risiko Tinggi
+20,7383,Dalam Perbaikan,9,Risiko Sedang,Compactor,Risiko Tinggi
+25,7570,Baik,10,Risiko Sedang,Dump Truck,Risiko Tinggi
+8,5391,Baik,2,Risiko Sedang,Excavator,Risiko Tinggi
+20,4808,Baik,6,Risiko Rendah,Compactor,Risiko Tinggi
+21,4619,Baik,9,Risiko Sedang,Dump Truck,Risiko Tinggi
+16,3144,Dalam Perbaikan,2,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+10,6106,Rusak,0,Risiko Rendah,Forklift,Risiko Tinggi
+19,6870,Baik,5,Risiko Tinggi,Lainnya,Risiko Tinggi
+7,3249,Rusak,0,Risiko Tinggi,Compactor,Risiko Sedang
+1,3690,Rusak,3,Risiko Sedang,Dump Truck,Risiko Sedang
+14,3537,Baik,10,Risiko Tinggi,Forklift,Risiko Tinggi
+24,6325,Dalam Perbaikan,4,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+24,2195,Baik,6,Risiko Tinggi,Bulldozer,Risiko Tinggi
+3,3191,Rusak,5,Risiko Rendah,Backhoe Loader,Risiko Sedang
+26,7724,Rusak,7,Risiko Sedang,Compactor,Risiko Tinggi
+23,1085,Baik,2,Risiko Sedang,Wheel Loader,Risiko Tinggi
+9,4544,Dalam Perbaikan,6,Risiko Rendah,Excavator,Risiko Sedang
+24,2899,Dalam Perbaikan,1,Risiko Tinggi,Lainnya,Risiko Tinggi
+1,2657,Rusak,0,Risiko Sedang,Forklift,Risiko Rendah
+14,6382,Baik,8,Risiko Rendah,Lainnya,Risiko Tinggi
+10,1389,Dalam Perbaikan,6,Risiko Rendah,Bulldozer,Risiko Sedang
+18,2466,Rusak,7,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+21,3560,Rusak,6,Risiko Sedang,Wheel Loader,Risiko Tinggi
+1,630,Rusak,4,Risiko Rendah,Wheel Loader,Risiko Rendah
+7,5051,Baik,7,Risiko Rendah,Bulldozer,Risiko Tinggi
+17,55,Rusak,5,Risiko Tinggi,Forklift,Risiko Tinggi
+1,7063,Rusak,7,Risiko Sedang,Forklift,Risiko Tinggi
+0,6746,Dalam Perbaikan,9,Risiko Rendah,Compactor,Risiko Tinggi
+16,4941,Dalam Perbaikan,3,Risiko Sedang,Crane,Risiko Tinggi
+21,7901,Rusak,5,Risiko Sedang,Wheel Loader,Risiko Tinggi
+8,6405,Baik,5,Risiko Sedang,Compactor,Risiko Tinggi
+0,6437,Rusak,5,Risiko Rendah,Lainnya,Risiko Tinggi
+20,4851,Dalam Perbaikan,2,Risiko Tinggi,Dump Truck,Risiko Tinggi
+26,7807,Dalam Perbaikan,7,Risiko Tinggi,Motor Grader,Risiko Tinggi
+12,6534,Rusak,1,Risiko Sedang,Wheel Loader,Risiko Tinggi
+22,5188,Rusak,3,Risiko Sedang,Bulldozer,Risiko Tinggi
+4,3466,Rusak,1,Risiko Sedang,Lainnya,Risiko Sedang
+11,4769,Rusak,8,Risiko Tinggi,Forklift,Risiko Sedang
+9,301,Rusak,8,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+23,6299,Baik,10,Risiko Tinggi,Crane,Risiko Tinggi
+21,5300,Dalam Perbaikan,0,Risiko Tinggi,Forklift,Risiko Tinggi
+2,2716,Rusak,1,Risiko Rendah,Backhoe Loader,Risiko Rendah
+18,1818,Dalam Perbaikan,8,Risiko Tinggi,Lainnya,Risiko Tinggi
+4,4712,Baik,7,Risiko Sedang,Forklift,Risiko Rendah
+12,6327,Dalam Perbaikan,9,Risiko Tinggi,Dump Truck,Risiko Tinggi
+22,2825,Baik,7,Risiko Rendah,Compactor,Risiko Tinggi
+13,7541,Baik,1,Risiko Tinggi,Bulldozer,Risiko Tinggi
+15,2555,Rusak,7,Risiko Rendah,Dump Truck,Risiko Tinggi
+11,2853,Rusak,1,Risiko Sedang,Wheel Loader,Risiko Sedang
+16,550,Rusak,0,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+26,6956,Rusak,10,Risiko Rendah,Bulldozer,Risiko Tinggi
+3,1998,Dalam Perbaikan,2,Risiko Tinggi,Bulldozer,Risiko Rendah
+16,4586,Rusak,7,Risiko Rendah,Forklift,Risiko Tinggi
+6,1511,Baik,10,Risiko Tinggi,Forklift,Risiko Rendah
+14,239,Dalam Perbaikan,9,Risiko Rendah,Wheel Loader,Risiko Tinggi
+8,3518,Rusak,0,Risiko Tinggi,Motor Grader,Risiko Sedang
+20,2280,Dalam Perbaikan,1,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+1,7143,Dalam Perbaikan,2,Risiko Sedang,Crane,Risiko Tinggi
+20,3748,Baik,4,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+10,7912,Dalam Perbaikan,5,Risiko Tinggi,Forklift,Risiko Tinggi
+7,3215,Dalam Perbaikan,1,Risiko Sedang,Crane,Risiko Rendah
+12,5057,Baik,10,Risiko Tinggi,Compactor,Risiko Tinggi
+7,4834,Baik,10,Risiko Rendah,Crane,Risiko Rendah
+23,1954,Rusak,1,Risiko Rendah,Crane,Risiko Tinggi
+4,1158,Dalam Perbaikan,6,Risiko Sedang,Lainnya,Risiko Rendah
+22,4708,Rusak,6,Risiko Rendah,Wheel Loader,Risiko Tinggi
+6,4402,Dalam Perbaikan,10,Risiko Rendah,Dump Truck,Risiko Sedang
+21,4011,Rusak,2,Risiko Rendah,Crane,Risiko Tinggi
+0,3694,Dalam Perbaikan,0,Risiko Sedang,Excavator,Risiko Rendah
+11,1118,Baik,6,Risiko Tinggi,Dump Truck,Risiko Rendah
+6,4054,Rusak,10,Risiko Sedang,Forklift,Risiko Sedang
+4,6880,Rusak,7,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+8,252,Baik,4,Risiko Rendah,Compactor,Risiko Rendah
+19,4404,Rusak,2,Risiko Sedang,Lainnya,Risiko Tinggi
+3,6328,Rusak,8,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+8,935,Rusak,8,Risiko Sedang,Dump Truck,Risiko Sedang
+0,6199,Baik,7,Risiko Tinggi,Motor Grader,Risiko Tinggi
+13,838,Dalam Perbaikan,10,Risiko Rendah,Compactor,Risiko Tinggi
+25,3684,Rusak,5,Risiko Rendah,Wheel Loader,Risiko Tinggi
+23,6353,Baik,3,Risiko Tinggi,Lainnya,Risiko Tinggi
+4,2872,Dalam Perbaikan,9,Risiko Tinggi,Forklift,Risiko Rendah
+21,5047,Baik,3,Risiko Rendah,Excavator,Risiko Tinggi
+8,2873,Dalam Perbaikan,4,Risiko Tinggi,Dump Truck,Risiko Sedang
+21,2651,Dalam Perbaikan,4,Risiko Sedang,Lainnya,Risiko Tinggi
+18,7802,Dalam Perbaikan,10,Risiko Rendah,Bulldozer,Risiko Tinggi
+2,6436,Rusak,0,Risiko Sedang,Bulldozer,Risiko Tinggi
+4,7094,Baik,3,Risiko Rendah,Crane,Risiko Tinggi
+0,2027,Dalam Perbaikan,6,Risiko Sedang,Bulldozer,Risiko Rendah
+8,5180,Rusak,10,Risiko Sedang,Forklift,Risiko Tinggi
+12,618,Dalam Perbaikan,1,Risiko Sedang,Dump Truck,Risiko Rendah
+3,2279,Dalam Perbaikan,5,Risiko Sedang,Wheel Loader,Risiko Rendah
+16,4767,Baik,1,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+6,5440,Dalam Perbaikan,5,Risiko Rendah,Dump Truck,Risiko Tinggi
+14,1784,Rusak,3,Risiko Sedang,Compactor,Risiko Tinggi
+16,6785,Rusak,5,Risiko Tinggi,Lainnya,Risiko Tinggi
+22,4637,Rusak,5,Risiko Tinggi,Excavator,Risiko Tinggi
+25,815,Dalam Perbaikan,7,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+21,3615,Rusak,0,Risiko Sedang,Motor Grader,Risiko Tinggi
+4,7449,Baik,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+18,764,Dalam Perbaikan,5,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+15,5443,Dalam Perbaikan,2,Risiko Rendah,Forklift,Risiko Tinggi
+6,2502,Dalam Perbaikan,3,Risiko Sedang,Backhoe Loader,Risiko Rendah
+4,779,Baik,3,Risiko Sedang,Backhoe Loader,Risiko Rendah
+22,4863,Baik,8,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+26,66,Dalam Perbaikan,5,Risiko Rendah,Forklift,Risiko Tinggi
+4,1082,Rusak,1,Risiko Rendah,Forklift,Risiko Rendah
+24,5986,Baik,1,Risiko Sedang,Crane,Risiko Tinggi
+17,1123,Rusak,2,Risiko Tinggi,Bulldozer,Risiko Tinggi
+24,4345,Dalam Perbaikan,0,Risiko Tinggi,Bulldozer,Risiko Tinggi
+12,2876,Dalam Perbaikan,3,Risiko Tinggi,Bulldozer,Risiko Sedang
+13,5046,Dalam Perbaikan,7,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+23,1146,Baik,9,Risiko Tinggi,Forklift,Risiko Tinggi
+15,7890,Rusak,5,Risiko Rendah,Motor Grader,Risiko Tinggi
+18,5280,Baik,3,Risiko Tinggi,Lainnya,Risiko Tinggi
+7,5907,Dalam Perbaikan,4,Risiko Tinggi,Excavator,Risiko Tinggi
+5,7174,Rusak,3,Risiko Tinggi,Lainnya,Risiko Tinggi
+10,1545,Dalam Perbaikan,6,Risiko Sedang,Excavator,Risiko Sedang
+1,7355,Baik,7,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+19,4092,Dalam Perbaikan,9,Risiko Rendah,Dump Truck,Risiko Tinggi
+26,2958,Rusak,2,Risiko Sedang,Lainnya,Risiko Tinggi
+13,2993,Dalam Perbaikan,10,Risiko Rendah,Wheel Loader,Risiko Tinggi
+2,597,Baik,9,Risiko Rendah,Excavator,Risiko Rendah
+18,1767,Baik,0,Risiko Sedang,Dump Truck,Risiko Tinggi
+17,5149,Dalam Perbaikan,8,Risiko Sedang,Forklift,Risiko Tinggi
+4,3295,Baik,10,Risiko Tinggi,Dump Truck,Risiko Sedang
+7,1250,Rusak,1,Risiko Sedang,Backhoe Loader,Risiko Rendah
+10,7544,Baik,2,Risiko Tinggi,Crane,Risiko Tinggi
+14,4804,Dalam Perbaikan,10,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+17,5723,Rusak,3,Risiko Rendah,Motor Grader,Risiko Tinggi
+24,7574,Rusak,1,Risiko Sedang,Lainnya,Risiko Tinggi
+7,450,Rusak,10,Risiko Tinggi,Bulldozer,Risiko Sedang
+23,103,Dalam Perbaikan,2,Risiko Tinggi,Excavator,Risiko Tinggi
+21,4066,Rusak,8,Risiko Tinggi,Compactor,Risiko Tinggi
+21,3046,Baik,4,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+2,7371,Baik,5,Risiko Sedang,Compactor,Risiko Tinggi
+10,523,Rusak,9,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+11,3728,Dalam Perbaikan,5,Risiko Rendah,Wheel Loader,Risiko Sedang
+8,1367,Rusak,2,Risiko Sedang,Backhoe Loader,Risiko Sedang
+8,5522,Dalam Perbaikan,1,Risiko Rendah,Dump Truck,Risiko Tinggi
+26,360,Baik,3,Risiko Rendah,Wheel Loader,Risiko Tinggi
+15,3137,Baik,2,Risiko Rendah,Dump Truck,Risiko Tinggi
+1,7487,Dalam Perbaikan,10,Risiko Sedang,Motor Grader,Risiko Tinggi
+16,2033,Rusak,5,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+8,3054,Baik,8,Risiko Tinggi,Excavator,Risiko Sedang
+21,1828,Dalam Perbaikan,0,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+12,7094,Rusak,4,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+9,3741,Baik,5,Risiko Rendah,Compactor,Risiko Sedang
+8,6426,Rusak,9,Risiko Rendah,Wheel Loader,Risiko Tinggi
+15,4847,Rusak,3,Risiko Tinggi,Dump Truck,Risiko Tinggi
+2,6520,Baik,2,Risiko Rendah,Forklift,Risiko Tinggi
+26,1908,Dalam Perbaikan,5,Risiko Tinggi,Excavator,Risiko Tinggi
+16,11,Dalam Perbaikan,6,Risiko Tinggi,Compactor,Risiko Tinggi
+23,1680,Dalam Perbaikan,3,Risiko Sedang,Wheel Loader,Risiko Tinggi
+25,7967,Baik,4,Risiko Rendah,Excavator,Risiko Tinggi
+19,7350,Dalam Perbaikan,6,Risiko Tinggi,Crane,Risiko Tinggi
+12,7983,Dalam Perbaikan,1,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+10,1093,Dalam Perbaikan,6,Risiko Rendah,Lainnya,Risiko Rendah
+8,510,Rusak,10,Risiko Rendah,Motor Grader,Risiko Sedang
+17,2138,Rusak,6,Risiko Tinggi,Crane,Risiko Tinggi
+16,3708,Rusak,3,Risiko Rendah,Motor Grader,Risiko Tinggi
+22,6389,Dalam Perbaikan,1,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+21,3682,Rusak,5,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+9,2935,Baik,7,Risiko Sedang,Wheel Loader,Risiko Rendah
+18,6983,Baik,1,Risiko Rendah,Compactor,Risiko Tinggi
+0,5772,Dalam Perbaikan,9,Risiko Rendah,Motor Grader,Risiko Tinggi
+0,7017,Rusak,2,Risiko Rendah,Motor Grader,Risiko Tinggi
+15,3246,Dalam Perbaikan,0,Risiko Tinggi,Compactor,Risiko Tinggi
+18,6718,Baik,0,Risiko Sedang,Wheel Loader,Risiko Tinggi
+9,6128,Dalam Perbaikan,3,Risiko Rendah,Wheel Loader,Risiko Tinggi
+23,6585,Baik,1,Risiko Rendah,Excavator,Risiko Tinggi
+0,6397,Baik,2,Risiko Rendah,Forklift,Risiko Tinggi
+15,5622,Dalam Perbaikan,10,Risiko Rendah,Lainnya,Risiko Tinggi
+8,2120,Baik,0,Risiko Rendah,Motor Grader,Risiko Rendah
+6,3632,Baik,1,Risiko Sedang,Backhoe Loader,Risiko Rendah
+25,7719,Rusak,0,Risiko Rendah,Lainnya,Risiko Tinggi
+13,6731,Dalam Perbaikan,6,Risiko Sedang,Excavator,Risiko Tinggi
+14,5596,Rusak,2,Risiko Sedang,Motor Grader,Risiko Tinggi
+21,2252,Rusak,7,Risiko Rendah,Excavator,Risiko Tinggi
+7,5072,Dalam Perbaikan,3,Risiko Tinggi,Compactor,Risiko Tinggi
+11,3375,Dalam Perbaikan,7,Risiko Rendah,Backhoe Loader,Risiko Sedang
+18,3137,Baik,6,Risiko Rendah,Dump Truck,Risiko Tinggi
+19,5167,Dalam Perbaikan,0,Risiko Sedang,Crane,Risiko Tinggi
+11,4460,Rusak,5,Risiko Tinggi,Dump Truck,Risiko Sedang
+16,3181,Rusak,2,Risiko Rendah,Crane,Risiko Tinggi
+7,1794,Baik,4,Risiko Rendah,Wheel Loader,Risiko Rendah
+10,2928,Dalam Perbaikan,3,Risiko Rendah,Backhoe Loader,Risiko Rendah
+19,5381,Baik,4,Risiko Tinggi,Excavator,Risiko Tinggi
+2,7764,Baik,9,Risiko Sedang,Crane,Risiko Tinggi
+0,6924,Baik,2,Risiko Rendah,Lainnya,Risiko Tinggi
+16,6604,Dalam Perbaikan,5,Risiko Tinggi,Excavator,Risiko Tinggi
+4,5738,Rusak,9,Risiko Tinggi,Bulldozer,Risiko Tinggi
+8,7769,Baik,7,Risiko Tinggi,Compactor,Risiko Tinggi
+21,4017,Baik,1,Risiko Rendah,Motor Grader,Risiko Tinggi
+7,1792,Baik,8,Risiko Sedang,Excavator,Risiko Rendah
+16,7519,Dalam Perbaikan,3,Risiko Rendah,Crane,Risiko Tinggi
+4,1453,Rusak,0,Risiko Rendah,Bulldozer,Risiko Rendah
+8,5772,Baik,1,Risiko Tinggi,Crane,Risiko Tinggi
+24,3060,Dalam Perbaikan,10,Risiko Sedang,Lainnya,Risiko Tinggi
+23,2757,Rusak,5,Risiko Rendah,Bulldozer,Risiko Tinggi
+3,7771,Rusak,10,Risiko Sedang,Crane,Risiko Tinggi
+21,5793,Dalam Perbaikan,9,Risiko Sedang,Motor Grader,Risiko Tinggi
+5,4824,Baik,6,Risiko Sedang,Compactor,Risiko Rendah
+22,1455,Dalam Perbaikan,0,Risiko Tinggi,Lainnya,Risiko Tinggi
+14,6969,Dalam Perbaikan,0,Risiko Rendah,Lainnya,Risiko Tinggi
+16,7545,Dalam Perbaikan,3,Risiko Tinggi,Lainnya,Risiko Tinggi
+23,7673,Rusak,2,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+19,2841,Rusak,2,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+0,5807,Dalam Perbaikan,10,Risiko Tinggi,Crane,Risiko Tinggi
+12,93,Rusak,3,Risiko Rendah,Backhoe Loader,Risiko Sedang
+15,2102,Baik,0,Risiko Rendah,Forklift,Risiko Tinggi
+12,6001,Rusak,2,Risiko Sedang,Wheel Loader,Risiko Tinggi
+14,2877,Dalam Perbaikan,6,Risiko Rendah,Wheel Loader,Risiko Tinggi
+1,7078,Dalam Perbaikan,10,Risiko Tinggi,Motor Grader,Risiko Tinggi
+21,3696,Baik,0,Risiko Sedang,Excavator,Risiko Tinggi
+16,2139,Baik,1,Risiko Sedang,Bulldozer,Risiko Tinggi
+14,1318,Dalam Perbaikan,1,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+16,4866,Dalam Perbaikan,7,Risiko Tinggi,Excavator,Risiko Tinggi
+13,7720,Dalam Perbaikan,2,Risiko Tinggi,Forklift,Risiko Tinggi
+21,438,Baik,5,Risiko Rendah,Motor Grader,Risiko Tinggi
+13,5711,Dalam Perbaikan,8,Risiko Sedang,Compactor,Risiko Tinggi
+17,1945,Baik,0,Risiko Sedang,Lainnya,Risiko Tinggi
+9,6880,Rusak,2,Risiko Rendah,Crane,Risiko Tinggi
+26,3502,Baik,4,Risiko Tinggi,Lainnya,Risiko Tinggi
+11,1635,Baik,0,Risiko Rendah,Bulldozer,Risiko Rendah
+6,2390,Baik,7,Risiko Rendah,Compactor,Risiko Rendah
+1,3256,Rusak,7,Risiko Tinggi,Compactor,Risiko Sedang
+24,5258,Dalam Perbaikan,6,Risiko Rendah,Crane,Risiko Tinggi
+14,3026,Baik,7,Risiko Rendah,Compactor,Risiko Tinggi
+12,3809,Rusak,3,Risiko Sedang,Lainnya,Risiko Sedang
+25,1238,Dalam Perbaikan,10,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+5,2816,Dalam Perbaikan,6,Risiko Tinggi,Motor Grader,Risiko Rendah
+9,499,Rusak,8,Risiko Sedang,Dump Truck,Risiko Sedang
+5,7101,Rusak,9,Risiko Rendah,Wheel Loader,Risiko Tinggi
+17,646,Rusak,0,Risiko Tinggi,Lainnya,Risiko Tinggi
+10,6557,Dalam Perbaikan,10,Risiko Tinggi,Bulldozer,Risiko Tinggi
+23,7776,Rusak,2,Risiko Rendah,Motor Grader,Risiko Tinggi
+1,1578,Baik,0,Risiko Sedang,Backhoe Loader,Risiko Rendah
+5,3566,Baik,10,Risiko Rendah,Lainnya,Risiko Rendah
+18,2619,Dalam Perbaikan,1,Risiko Rendah,Forklift,Risiko Tinggi
+9,3255,Dalam Perbaikan,5,Risiko Sedang,Dump Truck,Risiko Sedang
+12,7513,Baik,9,Risiko Tinggi,Dump Truck,Risiko Tinggi
+1,3437,Baik,6,Risiko Rendah,Bulldozer,Risiko Rendah
+8,4816,Dalam Perbaikan,1,Risiko Rendah,Lainnya,Risiko Sedang
+2,827,Rusak,8,Risiko Sedang,Forklift,Risiko Sedang
+18,3137,Dalam Perbaikan,7,Risiko Tinggi,Lainnya,Risiko Tinggi
+11,306,Baik,4,Risiko Sedang,Bulldozer,Risiko Rendah
+7,4986,Dalam Perbaikan,6,Risiko Rendah,Forklift,Risiko Rendah
+16,5656,Baik,0,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+18,7348,Rusak,0,Risiko Sedang,Compactor,Risiko Tinggi
+17,2296,Rusak,10,Risiko Rendah,Motor Grader,Risiko Tinggi
+22,2461,Dalam Perbaikan,7,Risiko Sedang,Compactor,Risiko Tinggi
+3,3414,Dalam Perbaikan,10,Risiko Rendah,Motor Grader,Risiko Sedang
+12,1731,Rusak,7,Risiko Tinggi,Crane,Risiko Sedang
+0,460,Dalam Perbaikan,2,Risiko Rendah,Compactor,Risiko Rendah
+4,4151,Rusak,2,Risiko Tinggi,Lainnya,Risiko Sedang
+26,1423,Baik,3,Risiko Rendah,Motor Grader,Risiko Tinggi
+25,3739,Baik,5,Risiko Tinggi,Motor Grader,Risiko Tinggi
+18,3017,Rusak,8,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+5,250,Baik,5,Risiko Sedang,Lainnya,Risiko Rendah
+12,1454,Rusak,9,Risiko Tinggi,Crane,Risiko Sedang
+15,1339,Rusak,1,Risiko Sedang,Excavator,Risiko Tinggi
+14,406,Baik,9,Risiko Rendah,Motor Grader,Risiko Tinggi
+6,1844,Dalam Perbaikan,3,Risiko Sedang,Forklift,Risiko Rendah
+10,164,Dalam Perbaikan,0,Risiko Sedang,Bulldozer,Risiko Rendah
+6,1418,Dalam Perbaikan,0,Risiko Rendah,Compactor,Risiko Rendah
+7,6595,Rusak,10,Risiko Sedang,Forklift,Risiko Tinggi
+14,6976,Rusak,7,Risiko Sedang,Motor Grader,Risiko Tinggi
+12,2475,Dalam Perbaikan,8,Risiko Tinggi,Forklift,Risiko Sedang
+8,838,Baik,8,Risiko Tinggi,Crane,Risiko Sedang
+9,5303,Dalam Perbaikan,9,Risiko Sedang,Compactor,Risiko Tinggi
+5,885,Rusak,1,Risiko Sedang,Compactor,Risiko Rendah
+6,2663,Rusak,4,Risiko Tinggi,Compactor,Risiko Sedang
+20,1228,Dalam Perbaikan,3,Risiko Rendah,Lainnya,Risiko Tinggi
+14,5411,Rusak,10,Risiko Rendah,Excavator,Risiko Tinggi
+6,4074,Rusak,4,Risiko Sedang,Forklift,Risiko Sedang
+14,6035,Baik,9,Risiko Tinggi,Lainnya,Risiko Tinggi
+0,1555,Rusak,3,Risiko Tinggi,Dump Truck,Risiko Sedang
+6,6429,Rusak,10,Risiko Sedang,Dump Truck,Risiko Tinggi
+17,6925,Baik,10,Risiko Tinggi,Bulldozer,Risiko Tinggi
+17,799,Rusak,2,Risiko Tinggi,Compactor,Risiko Tinggi
+3,6621,Dalam Perbaikan,2,Risiko Tinggi,Crane,Risiko Tinggi
+6,731,Baik,5,Risiko Rendah,Compactor,Risiko Rendah
+13,6456,Rusak,5,Risiko Sedang,Lainnya,Risiko Tinggi
+17,3799,Baik,7,Risiko Rendah,Lainnya,Risiko Tinggi
+8,7735,Dalam Perbaikan,1,Risiko Sedang,Motor Grader,Risiko Tinggi
+10,981,Dalam Perbaikan,6,Risiko Tinggi,Compactor,Risiko Sedang
+13,442,Baik,2,Risiko Rendah,Crane,Risiko Tinggi
+13,4664,Rusak,2,Risiko Sedang,Bulldozer,Risiko Tinggi
+2,662,Rusak,5,Risiko Tinggi,Bulldozer,Risiko Sedang
+16,5197,Baik,0,Risiko Sedang,Compactor,Risiko Tinggi
+20,6235,Baik,9,Risiko Rendah,Wheel Loader,Risiko Tinggi
+1,6255,Baik,2,Risiko Tinggi,Forklift,Risiko Tinggi
+6,3517,Rusak,6,Risiko Sedang,Forklift,Risiko Sedang
+26,309,Dalam Perbaikan,3,Risiko Tinggi,Crane,Risiko Tinggi
+26,7307,Rusak,8,Risiko Rendah,Excavator,Risiko Tinggi
+5,33,Dalam Perbaikan,3,Risiko Rendah,Crane,Risiko Rendah
+17,1056,Baik,6,Risiko Tinggi,Lainnya,Risiko Tinggi
+17,1368,Baik,0,Risiko Sedang,Compactor,Risiko Tinggi
+12,5962,Dalam Perbaikan,9,Risiko Tinggi,Crane,Risiko Tinggi
+13,7274,Dalam Perbaikan,2,Risiko Sedang,Wheel Loader,Risiko Tinggi
+15,6144,Baik,2,Risiko Sedang,Excavator,Risiko Tinggi
+19,1837,Dalam Perbaikan,2,Risiko Rendah,Excavator,Risiko Tinggi
+8,4133,Baik,1,Risiko Sedang,Excavator,Risiko Rendah
+14,7180,Dalam Perbaikan,4,Risiko Tinggi,Lainnya,Risiko Tinggi
+25,4865,Baik,10,Risiko Rendah,Excavator,Risiko Tinggi
+25,5650,Baik,6,Risiko Sedang,Forklift,Risiko Tinggi
+23,4483,Rusak,7,Risiko Tinggi,Bulldozer,Risiko Tinggi
+20,5695,Dalam Perbaikan,10,Risiko Rendah,Compactor,Risiko Tinggi
+13,5420,Baik,10,Risiko Tinggi,Compactor,Risiko Tinggi
+7,4961,Dalam Perbaikan,2,Risiko Sedang,Backhoe Loader,Risiko Rendah
+10,5888,Dalam Perbaikan,1,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+1,870,Rusak,3,Risiko Tinggi,Motor Grader,Risiko Sedang
+2,2154,Dalam Perbaikan,3,Risiko Sedang,Forklift,Risiko Rendah
+17,1313,Baik,8,Risiko Sedang,Motor Grader,Risiko Tinggi
+4,7644,Rusak,5,Risiko Rendah,Excavator,Risiko Tinggi
+26,5502,Baik,1,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+22,7777,Baik,8,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+18,5278,Baik,7,Risiko Sedang,Compactor,Risiko Tinggi
+12,410,Baik,2,Risiko Rendah,Compactor,Risiko Rendah
+15,6566,Dalam Perbaikan,5,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+23,6973,Baik,0,Risiko Rendah,Bulldozer,Risiko Tinggi
+16,2928,Rusak,9,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+15,6676,Rusak,2,Risiko Rendah,Forklift,Risiko Tinggi
+14,7883,Rusak,4,Risiko Sedang,Wheel Loader,Risiko Tinggi
+1,3454,Dalam Perbaikan,2,Risiko Rendah,Bulldozer,Risiko Rendah
+4,5950,Baik,2,Risiko Rendah,Forklift,Risiko Tinggi
+8,3954,Dalam Perbaikan,10,Risiko Sedang,Bulldozer,Risiko Sedang
+7,3110,Rusak,9,Risiko Rendah,Bulldozer,Risiko Sedang
+11,7539,Rusak,1,Risiko Sedang,Wheel Loader,Risiko Tinggi
+25,518,Rusak,10,Risiko Sedang,Excavator,Risiko Tinggi
+4,7113,Dalam Perbaikan,8,Risiko Tinggi,Lainnya,Risiko Tinggi
+3,4628,Baik,10,Risiko Sedang,Dump Truck,Risiko Rendah
+10,5638,Dalam Perbaikan,9,Risiko Rendah,Forklift,Risiko Tinggi
+5,5952,Baik,7,Risiko Sedang,Forklift,Risiko Tinggi
+22,6873,Dalam Perbaikan,9,Risiko Rendah,Excavator,Risiko Tinggi
+6,7654,Baik,8,Risiko Sedang,Wheel Loader,Risiko Tinggi
+21,613,Rusak,5,Risiko Rendah,Crane,Risiko Tinggi
+18,412,Dalam Perbaikan,3,Risiko Tinggi,Forklift,Risiko Tinggi
+14,6693,Baik,1,Risiko Sedang,Wheel Loader,Risiko Tinggi
+1,4694,Rusak,1,Risiko Sedang,Wheel Loader,Risiko Sedang
+16,972,Rusak,10,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+14,3377,Baik,8,Risiko Tinggi,Excavator,Risiko Tinggi
+0,744,Dalam Perbaikan,9,Risiko Tinggi,Compactor,Risiko Rendah
+10,4606,Baik,10,Risiko Tinggi,Wheel Loader,Risiko Sedang
+16,2976,Baik,3,Risiko Sedang,Crane,Risiko Tinggi
+9,6286,Dalam Perbaikan,9,Risiko Sedang,Crane,Risiko Tinggi
+4,3707,Baik,1,Risiko Tinggi,Motor Grader,Risiko Rendah
+26,2796,Rusak,10,Risiko Sedang,Dump Truck,Risiko Tinggi
+10,3062,Dalam Perbaikan,1,Risiko Rendah,Bulldozer,Risiko Sedang
+11,1150,Dalam Perbaikan,6,Risiko Rendah,Compactor,Risiko Rendah
+7,1604,Baik,1,Risiko Sedang,Motor Grader,Risiko Rendah
+12,6754,Baik,5,Risiko Rendah,Forklift,Risiko Tinggi
+25,7590,Dalam Perbaikan,10,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+2,7305,Rusak,7,Risiko Tinggi,Lainnya,Risiko Tinggi
+10,1102,Rusak,0,Risiko Tinggi,Excavator,Risiko Sedang
+9,7662,Rusak,9,Risiko Sedang,Dump Truck,Risiko Tinggi
+2,7546,Baik,9,Risiko Rendah,Bulldozer,Risiko Tinggi
+23,3173,Dalam Perbaikan,9,Risiko Tinggi,Crane,Risiko Tinggi
+10,7220,Rusak,6,Risiko Tinggi,Motor Grader,Risiko Tinggi
+18,3259,Rusak,4,Risiko Sedang,Bulldozer,Risiko Tinggi
+22,3381,Dalam Perbaikan,8,Risiko Sedang,Dump Truck,Risiko Tinggi
+16,5831,Dalam Perbaikan,8,Risiko Tinggi,Motor Grader,Risiko Tinggi
+20,1717,Dalam Perbaikan,4,Risiko Tinggi,Crane,Risiko Tinggi
+5,1086,Dalam Perbaikan,10,Risiko Rendah,Dump Truck,Risiko Rendah
+9,5687,Dalam Perbaikan,5,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+2,2885,Dalam Perbaikan,7,Risiko Tinggi,Lainnya,Risiko Rendah
+5,5817,Rusak,10,Risiko Tinggi,Dump Truck,Risiko Tinggi
+17,7188,Rusak,0,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+26,3120,Baik,0,Risiko Tinggi,Excavator,Risiko Tinggi
+20,2187,Baik,4,Risiko Tinggi,Compactor,Risiko Tinggi
+22,6876,Baik,4,Risiko Rendah,Dump Truck,Risiko Tinggi
+25,2938,Rusak,1,Risiko Tinggi,Dump Truck,Risiko Tinggi
+19,6081,Dalam Perbaikan,8,Risiko Sedang,Motor Grader,Risiko Tinggi
+10,6425,Dalam Perbaikan,4,Risiko Tinggi,Excavator,Risiko Tinggi
+14,3174,Rusak,10,Risiko Sedang,Dump Truck,Risiko Tinggi
+25,106,Dalam Perbaikan,4,Risiko Rendah,Lainnya,Risiko Tinggi
+2,7048,Rusak,3,Risiko Tinggi,Crane,Risiko Tinggi
+2,4820,Dalam Perbaikan,9,Risiko Rendah,Motor Grader,Risiko Sedang
+17,3676,Baik,10,Risiko Rendah,Bulldozer,Risiko Tinggi
+21,6021,Dalam Perbaikan,1,Risiko Sedang,Excavator,Risiko Tinggi
+13,2286,Dalam Perbaikan,4,Risiko Rendah,Bulldozer,Risiko Tinggi
+8,6930,Rusak,0,Risiko Sedang,Wheel Loader,Risiko Tinggi
+4,7679,Baik,0,Risiko Rendah,Crane,Risiko Tinggi
+7,416,Dalam Perbaikan,9,Risiko Tinggi,Compactor,Risiko Rendah
+11,6470,Dalam Perbaikan,8,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+1,5797,Rusak,8,Risiko Rendah,Bulldozer,Risiko Tinggi
+10,558,Dalam Perbaikan,2,Risiko Sedang,Dump Truck,Risiko Rendah
+9,3304,Baik,5,Risiko Rendah,Motor Grader,Risiko Sedang
+5,2718,Rusak,5,Risiko Sedang,Motor Grader,Risiko Rendah
+2,5064,Dalam Perbaikan,7,Risiko Tinggi,Excavator,Risiko Tinggi
+23,5479,Rusak,7,Risiko Rendah,Lainnya,Risiko Tinggi
+7,1997,Baik,10,Risiko Sedang,Forklift,Risiko Rendah
+1,7741,Baik,6,Risiko Sedang,Dump Truck,Risiko Tinggi
+3,2316,Baik,8,Risiko Sedang,Dump Truck,Risiko Rendah
+1,4167,Rusak,7,Risiko Rendah,Compactor,Risiko Sedang
+6,1577,Rusak,8,Risiko Rendah,Backhoe Loader,Risiko Rendah
+21,7959,Dalam Perbaikan,8,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+20,5491,Dalam Perbaikan,3,Risiko Tinggi,Forklift,Risiko Tinggi
+0,851,Baik,8,Risiko Tinggi,Forklift,Risiko Rendah
+6,6690,Baik,10,Risiko Rendah,Excavator,Risiko Tinggi
+12,5872,Rusak,0,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+25,1458,Rusak,8,Risiko Rendah,Lainnya,Risiko Tinggi
+0,1864,Rusak,6,Risiko Sedang,Wheel Loader,Risiko Rendah
+6,3313,Rusak,5,Risiko Rendah,Forklift,Risiko Sedang
+5,969,Dalam Perbaikan,0,Risiko Tinggi,Lainnya,Risiko Rendah
+24,6192,Dalam Perbaikan,9,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+15,7602,Dalam Perbaikan,1,Risiko Sedang,Compactor,Risiko Tinggi
+7,708,Rusak,7,Risiko Sedang,Forklift,Risiko Sedang
+0,5412,Baik,7,Risiko Rendah,Dump Truck,Risiko Tinggi
+19,1117,Dalam Perbaikan,6,Risiko Tinggi,Compactor,Risiko Tinggi
+6,1180,Rusak,10,Risiko Tinggi,Crane,Risiko Sedang
+26,4534,Dalam Perbaikan,2,Risiko Rendah,Excavator,Risiko Tinggi
+26,4691,Dalam Perbaikan,6,Risiko Tinggi,Dump Truck,Risiko Tinggi
+24,2496,Baik,5,Risiko Rendah,Forklift,Risiko Tinggi
+6,6975,Dalam Perbaikan,2,Risiko Rendah,Bulldozer,Risiko Tinggi
+19,5053,Rusak,3,Risiko Rendah,Bulldozer,Risiko Tinggi
+5,6550,Dalam Perbaikan,0,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+6,4502,Baik,4,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+18,804,Baik,9,Risiko Sedang,Crane,Risiko Tinggi
+15,1050,Dalam Perbaikan,10,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+17,5075,Baik,3,Risiko Sedang,Wheel Loader,Risiko Tinggi
+12,2689,Dalam Perbaikan,10,Risiko Sedang,Lainnya,Risiko Sedang
+22,4633,Dalam Perbaikan,5,Risiko Sedang,Forklift,Risiko Tinggi
+21,39,Rusak,3,Risiko Rendah,Forklift,Risiko Tinggi
+18,6882,Rusak,2,Risiko Tinggi,Crane,Risiko Tinggi
+11,3791,Rusak,5,Risiko Sedang,Wheel Loader,Risiko Sedang
+9,891,Baik,10,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+0,2298,Baik,8,Risiko Rendah,Compactor,Risiko Rendah
+3,7260,Dalam Perbaikan,1,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+26,6959,Dalam Perbaikan,10,Risiko Rendah,Lainnya,Risiko Tinggi
+8,3318,Dalam Perbaikan,3,Risiko Rendah,Dump Truck,Risiko Sedang
+18,4452,Dalam Perbaikan,7,Risiko Tinggi,Bulldozer,Risiko Tinggi
+15,3215,Baik,9,Risiko Tinggi,Compactor,Risiko Tinggi
+22,3806,Dalam Perbaikan,8,Risiko Rendah,Forklift,Risiko Tinggi
+15,4113,Baik,10,Risiko Rendah,Lainnya,Risiko Tinggi
+5,1358,Dalam Perbaikan,2,Risiko Sedang,Bulldozer,Risiko Rendah
+21,4639,Dalam Perbaikan,10,Risiko Rendah,Wheel Loader,Risiko Tinggi
+15,331,Baik,7,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+18,3026,Baik,0,Risiko Tinggi,Motor Grader,Risiko Tinggi
+10,7436,Rusak,6,Risiko Sedang,Wheel Loader,Risiko Tinggi
+25,326,Dalam Perbaikan,5,Risiko Rendah,Dump Truck,Risiko Tinggi
+6,6796,Rusak,4,Risiko Tinggi,Dump Truck,Risiko Tinggi
+8,1424,Rusak,10,Risiko Sedang,Crane,Risiko Sedang
+8,5352,Baik,8,Risiko Sedang,Forklift,Risiko Tinggi
+19,4230,Rusak,5,Risiko Sedang,Wheel Loader,Risiko Tinggi
+1,3949,Dalam Perbaikan,0,Risiko Tinggi,Bulldozer,Risiko Sedang
+12,1356,Baik,1,Risiko Tinggi,Compactor,Risiko Rendah
+20,1230,Baik,2,Risiko Sedang,Lainnya,Risiko Tinggi
+4,6692,Baik,10,Risiko Rendah,Forklift,Risiko Tinggi
+1,2705,Dalam Perbaikan,1,Risiko Sedang,Wheel Loader,Risiko Rendah
+11,1726,Dalam Perbaikan,2,Risiko Tinggi,Forklift,Risiko Rendah
+26,1996,Baik,2,Risiko Tinggi,Lainnya,Risiko Tinggi
+21,1103,Dalam Perbaikan,8,Risiko Rendah,Lainnya,Risiko Tinggi
+22,458,Baik,4,Risiko Rendah,Dump Truck,Risiko Tinggi
+14,4909,Dalam Perbaikan,10,Risiko Rendah,Compactor,Risiko Tinggi
+24,1774,Rusak,9,Risiko Sedang,Wheel Loader,Risiko Tinggi
+21,1797,Rusak,9,Risiko Rendah,Lainnya,Risiko Tinggi
+0,6287,Baik,9,Risiko Tinggi,Dump Truck,Risiko Tinggi
+18,1373,Dalam Perbaikan,10,Risiko Sedang,Wheel Loader,Risiko Tinggi
+7,4838,Baik,3,Risiko Sedang,Forklift,Risiko Rendah
+22,889,Baik,3,Risiko Tinggi,Dump Truck,Risiko Tinggi
+5,3438,Baik,9,Risiko Rendah,Bulldozer,Risiko Rendah
+11,7385,Dalam Perbaikan,9,Risiko Rendah,Dump Truck,Risiko Tinggi
+10,6163,Baik,1,Risiko Sedang,Bulldozer,Risiko Tinggi
+7,4417,Baik,10,Risiko Tinggi,Forklift,Risiko Sedang
+10,3446,Rusak,0,Risiko Tinggi,Dump Truck,Risiko Sedang
+13,1879,Rusak,6,Risiko Sedang,Lainnya,Risiko Tinggi
+1,6073,Dalam Perbaikan,9,Risiko Rendah,Forklift,Risiko Tinggi
+22,2085,Rusak,3,Risiko Rendah,Compactor,Risiko Tinggi
+7,7182,Dalam Perbaikan,6,Risiko Sedang,Motor Grader,Risiko Tinggi
+26,5809,Dalam Perbaikan,0,Risiko Tinggi,Dump Truck,Risiko Tinggi
+23,4257,Baik,6,Risiko Tinggi,Motor Grader,Risiko Tinggi
+4,6588,Rusak,6,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+22,3490,Dalam Perbaikan,9,Risiko Sedang,Compactor,Risiko Tinggi
+9,3469,Dalam Perbaikan,5,Risiko Tinggi,Compactor,Risiko Sedang
+5,3255,Baik,6,Risiko Tinggi,Dump Truck,Risiko Rendah
+11,1464,Rusak,8,Risiko Tinggi,Wheel Loader,Risiko Sedang
+18,2512,Dalam Perbaikan,5,Risiko Tinggi,Forklift,Risiko Tinggi
+3,1131,Dalam Perbaikan,1,Risiko Tinggi,Motor Grader,Risiko Rendah
+12,6415,Dalam Perbaikan,2,Risiko Rendah,Motor Grader,Risiko Tinggi
+10,3281,Rusak,8,Risiko Tinggi,Excavator,Risiko Sedang
+21,3187,Dalam Perbaikan,0,Risiko Rendah,Bulldozer,Risiko Tinggi
+11,7584,Dalam Perbaikan,6,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+18,1816,Rusak,1,Risiko Tinggi,Excavator,Risiko Tinggi
+3,3148,Rusak,9,Risiko Tinggi,Dump Truck,Risiko Sedang
+17,5829,Dalam Perbaikan,0,Risiko Rendah,Wheel Loader,Risiko Tinggi
+12,87,Baik,10,Risiko Tinggi,Compactor,Risiko Sedang
+20,275,Dalam Perbaikan,8,Risiko Tinggi,Motor Grader,Risiko Tinggi
+7,1388,Dalam Perbaikan,0,Risiko Sedang,Motor Grader,Risiko Rendah
+6,2,Baik,1,Risiko Sedang,Forklift,Risiko Rendah
+15,5485,Rusak,6,Risiko Tinggi,Motor Grader,Risiko Tinggi
+10,125,Dalam Perbaikan,1,Risiko Rendah,Dump Truck,Risiko Rendah
+17,5948,Dalam Perbaikan,9,Risiko Sedang,Crane,Risiko Tinggi
+0,2265,Baik,9,Risiko Rendah,Wheel Loader,Risiko Rendah
+14,4709,Baik,4,Risiko Rendah,Forklift,Risiko Tinggi
+10,872,Dalam Perbaikan,1,Risiko Tinggi,Compactor,Risiko Rendah
+16,7757,Baik,8,Risiko Sedang,Dump Truck,Risiko Tinggi
+0,6499,Dalam Perbaikan,4,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+14,4613,Rusak,3,Risiko Sedang,Wheel Loader,Risiko Tinggi
+5,3774,Dalam Perbaikan,0,Risiko Sedang,Backhoe Loader,Risiko Rendah
+18,553,Rusak,10,Risiko Rendah,Motor Grader,Risiko Tinggi
+1,2586,Rusak,5,Risiko Tinggi,Dump Truck,Risiko Sedang
+26,5741,Rusak,3,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+14,5518,Dalam Perbaikan,5,Risiko Rendah,Dump Truck,Risiko Tinggi
+21,3903,Rusak,5,Risiko Rendah,Lainnya,Risiko Tinggi
+18,1497,Dalam Perbaikan,10,Risiko Rendah,Wheel Loader,Risiko Tinggi
+3,1635,Baik,3,Risiko Sedang,Motor Grader,Risiko Rendah
+19,1661,Baik,9,Risiko Sedang,Bulldozer,Risiko Tinggi
+2,873,Baik,1,Risiko Tinggi,Wheel Loader,Risiko Rendah
+7,54,Dalam Perbaikan,0,Risiko Sedang,Crane,Risiko Rendah
+7,2583,Rusak,9,Risiko Sedang,Wheel Loader,Risiko Sedang
+21,6260,Dalam Perbaikan,4,Risiko Sedang,Motor Grader,Risiko Tinggi
+2,4724,Baik,0,Risiko Tinggi,Forklift,Risiko Rendah
+11,7697,Dalam Perbaikan,0,Risiko Tinggi,Crane,Risiko Tinggi
+14,7048,Dalam Perbaikan,2,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+4,4245,Rusak,5,Risiko Tinggi,Excavator,Risiko Sedang
+26,5522,Baik,6,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+16,2962,Dalam Perbaikan,4,Risiko Rendah,Dump Truck,Risiko Tinggi
+18,1942,Rusak,7,Risiko Tinggi,Crane,Risiko Tinggi
+15,1506,Rusak,6,Risiko Rendah,Forklift,Risiko Tinggi
+4,6161,Rusak,5,Risiko Sedang,Compactor,Risiko Tinggi
+12,1473,Dalam Perbaikan,2,Risiko Tinggi,Motor Grader,Risiko Rendah
+0,818,Dalam Perbaikan,4,Risiko Rendah,Dump Truck,Risiko Rendah
+13,7014,Rusak,3,Risiko Rendah,Bulldozer,Risiko Tinggi
+11,6600,Baik,2,Risiko Sedang,Wheel Loader,Risiko Tinggi
+22,7317,Dalam Perbaikan,8,Risiko Tinggi,Crane,Risiko Tinggi
+1,3986,Rusak,4,Risiko Tinggi,Lainnya,Risiko Sedang
+25,3263,Baik,2,Risiko Rendah,Motor Grader,Risiko Tinggi
+0,2083,Rusak,10,Risiko Rendah,Wheel Loader,Risiko Rendah
+3,2741,Rusak,5,Risiko Sedang,Dump Truck,Risiko Rendah
+9,7633,Rusak,5,Risiko Rendah,Forklift,Risiko Tinggi
+23,2876,Dalam Perbaikan,9,Risiko Rendah,Lainnya,Risiko Tinggi
+8,5323,Dalam Perbaikan,8,Risiko Rendah,Compactor,Risiko Tinggi
+15,2663,Dalam Perbaikan,8,Risiko Sedang,Wheel Loader,Risiko Tinggi
+24,3121,Dalam Perbaikan,4,Risiko Sedang,Bulldozer,Risiko Tinggi
+21,5247,Rusak,6,Risiko Tinggi,Lainnya,Risiko Tinggi
+8,3315,Baik,1,Risiko Rendah,Crane,Risiko Rendah
+19,2568,Rusak,10,Risiko Sedang,Compactor,Risiko Tinggi
+7,5280,Rusak,4,Risiko Sedang,Crane,Risiko Tinggi
+3,4808,Dalam Perbaikan,7,Risiko Sedang,Bulldozer,Risiko Sedang
+21,6997,Baik,2,Risiko Tinggi,Motor Grader,Risiko Tinggi
+5,2061,Dalam Perbaikan,1,Risiko Rendah,Bulldozer,Risiko Rendah
+14,843,Baik,1,Risiko Sedang,Dump Truck,Risiko Tinggi
+25,215,Rusak,8,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+18,5063,Baik,1,Risiko Tinggi,Forklift,Risiko Tinggi
+17,1878,Baik,4,Risiko Sedang,Bulldozer,Risiko Tinggi
+22,4315,Baik,0,Risiko Rendah,Crane,Risiko Tinggi
+16,7079,Rusak,7,Risiko Tinggi,Compactor,Risiko Tinggi
+9,3644,Baik,8,Risiko Rendah,Lainnya,Risiko Sedang
+7,3740,Dalam Perbaikan,10,Risiko Tinggi,Forklift,Risiko Sedang
+10,5241,Dalam Perbaikan,8,Risiko Sedang,Crane,Risiko Tinggi
+11,4420,Baik,1,Risiko Sedang,Compactor,Risiko Rendah
+15,3376,Rusak,2,Risiko Sedang,Excavator,Risiko Tinggi
+26,4287,Baik,5,Risiko Sedang,Wheel Loader,Risiko Tinggi
+9,68,Dalam Perbaikan,7,Risiko Sedang,Compactor,Risiko Sedang
+26,6274,Rusak,4,Risiko Tinggi,Motor Grader,Risiko Tinggi
+1,59,Dalam Perbaikan,5,Risiko Rendah,Forklift,Risiko Rendah
+9,3580,Rusak,3,Risiko Rendah,Forklift,Risiko Sedang
+0,3099,Baik,4,Risiko Rendah,Forklift,Risiko Rendah
+6,1962,Dalam Perbaikan,9,Risiko Tinggi,Compactor,Risiko Rendah
+17,5312,Dalam Perbaikan,8,Risiko Sedang,Forklift,Risiko Tinggi
+20,6991,Baik,2,Risiko Rendah,Compactor,Risiko Tinggi
+23,5217,Rusak,9,Risiko Sedang,Compactor,Risiko Tinggi
+4,5101,Rusak,3,Risiko Sedang,Excavator,Risiko Tinggi
+22,406,Dalam Perbaikan,0,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+17,2205,Baik,7,Risiko Tinggi,Excavator,Risiko Tinggi
+19,738,Baik,0,Risiko Sedang,Motor Grader,Risiko Tinggi
+16,3442,Rusak,7,Risiko Sedang,Wheel Loader,Risiko Tinggi
+4,6483,Baik,5,Risiko Rendah,Bulldozer,Risiko Tinggi
+25,2183,Rusak,1,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+21,1574,Rusak,6,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+2,5854,Baik,6,Risiko Sedang,Motor Grader,Risiko Tinggi
+3,274,Baik,7,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+10,5455,Baik,7,Risiko Sedang,Compactor,Risiko Tinggi
+16,1299,Dalam Perbaikan,0,Risiko Tinggi,Dump Truck,Risiko Tinggi
+10,1000,Rusak,7,Risiko Tinggi,Compactor,Risiko Sedang
+20,2952,Baik,10,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+19,5184,Rusak,5,Risiko Rendah,Bulldozer,Risiko Tinggi
+1,2261,Dalam Perbaikan,1,Risiko Sedang,Motor Grader,Risiko Rendah
+26,7936,Baik,9,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+4,4884,Baik,5,Risiko Rendah,Motor Grader,Risiko Rendah
+21,4095,Baik,10,Risiko Tinggi,Crane,Risiko Tinggi
+2,5121,Baik,0,Risiko Sedang,Bulldozer,Risiko Tinggi
+4,4393,Baik,2,Risiko Sedang,Motor Grader,Risiko Rendah
+16,4574,Dalam Perbaikan,5,Risiko Sedang,Motor Grader,Risiko Tinggi
+26,5646,Rusak,5,Risiko Tinggi,Bulldozer,Risiko Tinggi
+18,7361,Baik,7,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+9,2414,Dalam Perbaikan,7,Risiko Rendah,Lainnya,Risiko Sedang
+21,4453,Rusak,5,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+18,7107,Dalam Perbaikan,8,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+10,1269,Rusak,4,Risiko Sedang,Dump Truck,Risiko Sedang
+15,3719,Baik,10,Risiko Tinggi,Forklift,Risiko Tinggi
+3,1519,Baik,9,Risiko Sedang,Lainnya,Risiko Rendah
+19,2627,Dalam Perbaikan,1,Risiko Tinggi,Dump Truck,Risiko Tinggi
+0,3174,Baik,8,Risiko Tinggi,Wheel Loader,Risiko Sedang
+2,4517,Baik,9,Risiko Sedang,Crane,Risiko Sedang
+13,5250,Rusak,1,Risiko Rendah,Dump Truck,Risiko Tinggi
+5,546,Baik,2,Risiko Rendah,Excavator,Risiko Rendah
+20,876,Rusak,3,Risiko Rendah,Excavator,Risiko Tinggi
+8,5257,Rusak,10,Risiko Sedang,Dump Truck,Risiko Tinggi
+7,5745,Dalam Perbaikan,4,Risiko Rendah,Crane,Risiko Tinggi
+19,4963,Dalam Perbaikan,1,Risiko Rendah,Motor Grader,Risiko Tinggi
+6,4025,Baik,7,Risiko Tinggi,Excavator,Risiko Sedang
+15,4571,Dalam Perbaikan,6,Risiko Sedang,Excavator,Risiko Tinggi
+0,5053,Rusak,8,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+0,2489,Baik,3,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+23,5940,Baik,8,Risiko Sedang,Motor Grader,Risiko Tinggi
+20,4310,Dalam Perbaikan,3,Risiko Tinggi,Bulldozer,Risiko Tinggi
+9,6137,Dalam Perbaikan,6,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+2,5231,Dalam Perbaikan,5,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+4,5449,Rusak,1,Risiko Rendah,Bulldozer,Risiko Tinggi
+9,3289,Dalam Perbaikan,5,Risiko Tinggi,Bulldozer,Risiko Sedang
+9,4914,Rusak,5,Risiko Sedang,Dump Truck,Risiko Sedang
+16,6921,Rusak,6,Risiko Tinggi,Forklift,Risiko Tinggi
+0,5946,Rusak,9,Risiko Rendah,Lainnya,Risiko Tinggi
+9,1752,Rusak,8,Risiko Tinggi,Compactor,Risiko Sedang
+15,7877,Rusak,7,Risiko Sedang,Excavator,Risiko Tinggi
+3,283,Rusak,9,Risiko Rendah,Dump Truck,Risiko Rendah
+22,7293,Rusak,0,Risiko Sedang,Motor Grader,Risiko Tinggi
+20,7010,Rusak,0,Risiko Tinggi,Compactor,Risiko Tinggi
+9,4188,Dalam Perbaikan,9,Risiko Tinggi,Bulldozer,Risiko Sedang
+23,309,Rusak,5,Risiko Rendah,Bulldozer,Risiko Tinggi
+18,3007,Dalam Perbaikan,3,Risiko Rendah,Compactor,Risiko Tinggi
+1,2460,Baik,9,Risiko Sedang,Lainnya,Risiko Rendah
+20,6015,Baik,5,Risiko Sedang,Bulldozer,Risiko Tinggi
+11,6764,Dalam Perbaikan,9,Risiko Rendah,Lainnya,Risiko Tinggi
+6,2460,Baik,9,Risiko Sedang,Backhoe Loader,Risiko Rendah
+2,458,Rusak,5,Risiko Sedang,Forklift,Risiko Rendah
+23,7125,Baik,10,Risiko Tinggi,Excavator,Risiko Tinggi
+6,6368,Dalam Perbaikan,6,Risiko Rendah,Compactor,Risiko Tinggi
+10,337,Rusak,8,Risiko Tinggi,Bulldozer,Risiko Sedang
+16,4115,Dalam Perbaikan,3,Risiko Rendah,Excavator,Risiko Tinggi
+5,5993,Rusak,7,Risiko Tinggi,Lainnya,Risiko Tinggi
+10,737,Baik,6,Risiko Sedang,Forklift,Risiko Rendah
+22,1082,Rusak,1,Risiko Sedang,Lainnya,Risiko Tinggi
+3,403,Dalam Perbaikan,6,Risiko Sedang,Backhoe Loader,Risiko Rendah
+14,4110,Rusak,2,Risiko Rendah,Wheel Loader,Risiko Tinggi
+9,1622,Rusak,6,Risiko Tinggi,Lainnya,Risiko Sedang
+20,4597,Dalam Perbaikan,8,Risiko Rendah,Motor Grader,Risiko Tinggi
+24,2181,Rusak,5,Risiko Tinggi,Lainnya,Risiko Tinggi
+24,921,Dalam Perbaikan,6,Risiko Sedang,Crane,Risiko Tinggi
+15,1560,Rusak,5,Risiko Tinggi,Excavator,Risiko Tinggi
+2,2497,Baik,5,Risiko Tinggi,Wheel Loader,Risiko Rendah
+7,1194,Rusak,0,Risiko Rendah,Motor Grader,Risiko Rendah
+5,3062,Baik,1,Risiko Rendah,Excavator,Risiko Rendah
+19,7773,Dalam Perbaikan,2,Risiko Sedang,Excavator,Risiko Tinggi
+16,5683,Baik,4,Risiko Sedang,Wheel Loader,Risiko Tinggi
+26,2718,Baik,8,Risiko Rendah,Motor Grader,Risiko Tinggi
+9,4286,Rusak,8,Risiko Sedang,Lainnya,Risiko Sedang
+3,1157,Dalam Perbaikan,10,Risiko Rendah,Forklift,Risiko Rendah
+8,7422,Dalam Perbaikan,8,Risiko Rendah,Compactor,Risiko Tinggi
+21,492,Rusak,3,Risiko Tinggi,Lainnya,Risiko Tinggi
+18,434,Rusak,10,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+14,5409,Rusak,10,Risiko Tinggi,Crane,Risiko Tinggi
+23,156,Rusak,10,Risiko Sedang,Motor Grader,Risiko Tinggi
+14,4165,Dalam Perbaikan,1,Risiko Sedang,Wheel Loader,Risiko Tinggi
+7,4354,Baik,2,Risiko Rendah,Dump Truck,Risiko Rendah
+12,4593,Dalam Perbaikan,0,Risiko Rendah,Motor Grader,Risiko Sedang
+10,2497,Rusak,7,Risiko Sedang,Bulldozer,Risiko Sedang
+26,2840,Dalam Perbaikan,5,Risiko Sedang,Compactor,Risiko Tinggi
+19,4106,Rusak,0,Risiko Tinggi,Compactor,Risiko Tinggi
+14,7294,Baik,8,Risiko Sedang,Motor Grader,Risiko Tinggi
+22,2799,Rusak,10,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+3,3131,Dalam Perbaikan,10,Risiko Tinggi,Motor Grader,Risiko Sedang
+13,1969,Dalam Perbaikan,2,Risiko Sedang,Compactor,Risiko Tinggi
+7,2697,Rusak,8,Risiko Rendah,Motor Grader,Risiko Rendah
+6,1135,Dalam Perbaikan,8,Risiko Tinggi,Motor Grader,Risiko Rendah
+22,2531,Dalam Perbaikan,8,Risiko Rendah,Forklift,Risiko Tinggi
+2,1189,Dalam Perbaikan,9,Risiko Rendah,Crane,Risiko Rendah
+24,4565,Dalam Perbaikan,1,Risiko Rendah,Crane,Risiko Tinggi
+0,7205,Baik,0,Risiko Sedang,Forklift,Risiko Tinggi
+13,2485,Rusak,10,Risiko Tinggi,Compactor,Risiko Tinggi
+22,6382,Baik,1,Risiko Rendah,Bulldozer,Risiko Tinggi
+26,6245,Dalam Perbaikan,9,Risiko Sedang,Lainnya,Risiko Tinggi
+8,5016,Baik,9,Risiko Rendah,Motor Grader,Risiko Tinggi
+5,213,Rusak,1,Risiko Tinggi,Wheel Loader,Risiko Rendah
+22,4115,Dalam Perbaikan,7,Risiko Tinggi,Crane,Risiko Tinggi
+21,6980,Rusak,7,Risiko Sedang,Bulldozer,Risiko Tinggi
+21,1583,Baik,0,Risiko Sedang,Excavator,Risiko Tinggi
+18,7784,Rusak,3,Risiko Tinggi,Motor Grader,Risiko Tinggi
+2,1675,Baik,2,Risiko Sedang,Lainnya,Risiko Rendah
+11,5634,Rusak,7,Risiko Rendah,Forklift,Risiko Tinggi
+14,6358,Baik,9,Risiko Tinggi,Forklift,Risiko Tinggi
+3,2563,Rusak,9,Risiko Tinggi,Lainnya,Risiko Sedang
+7,4392,Dalam Perbaikan,10,Risiko Tinggi,Excavator,Risiko Sedang
+10,895,Rusak,7,Risiko Rendah,Motor Grader,Risiko Sedang
+10,4406,Rusak,0,Risiko Tinggi,Forklift,Risiko Sedang
+10,6268,Dalam Perbaikan,0,Risiko Rendah,Compactor,Risiko Tinggi
+12,3260,Rusak,4,Risiko Sedang,Bulldozer,Risiko Sedang
+13,2411,Dalam Perbaikan,0,Risiko Tinggi,Dump Truck,Risiko Tinggi
+22,3797,Dalam Perbaikan,7,Risiko Rendah,Dump Truck,Risiko Tinggi
+23,1472,Dalam Perbaikan,8,Risiko Rendah,Forklift,Risiko Tinggi
+13,2649,Rusak,0,Risiko Rendah,Wheel Loader,Risiko Tinggi
+8,7345,Dalam Perbaikan,3,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+18,2654,Dalam Perbaikan,10,Risiko Tinggi,Bulldozer,Risiko Tinggi
+4,6006,Baik,1,Risiko Rendah,Wheel Loader,Risiko Tinggi
+6,2973,Baik,8,Risiko Tinggi,Forklift,Risiko Rendah
+3,6480,Dalam Perbaikan,9,Risiko Rendah,Forklift,Risiko Tinggi
+9,3117,Baik,2,Risiko Sedang,Lainnya,Risiko Rendah
+5,7067,Baik,2,Risiko Rendah,Bulldozer,Risiko Tinggi
+2,5833,Baik,6,Risiko Sedang,Compactor,Risiko Tinggi
+3,6296,Rusak,4,Risiko Tinggi,Bulldozer,Risiko Tinggi
+23,7360,Baik,3,Risiko Rendah,Lainnya,Risiko Tinggi
+2,2073,Baik,7,Risiko Sedang,Wheel Loader,Risiko Rendah
+9,6614,Baik,9,Risiko Sedang,Motor Grader,Risiko Tinggi
+20,4823,Dalam Perbaikan,7,Risiko Sedang,Forklift,Risiko Tinggi
+12,650,Dalam Perbaikan,9,Risiko Rendah,Motor Grader,Risiko Sedang
+9,2278,Dalam Perbaikan,10,Risiko Tinggi,Motor Grader,Risiko Sedang
+25,1514,Baik,0,Risiko Tinggi,Crane,Risiko Tinggi
+25,1190,Baik,10,Risiko Tinggi,Lainnya,Risiko Tinggi
+17,2712,Baik,0,Risiko Rendah,Forklift,Risiko Tinggi
+21,1321,Dalam Perbaikan,4,Risiko Tinggi,Lainnya,Risiko Tinggi
+8,6449,Dalam Perbaikan,2,Risiko Sedang,Lainnya,Risiko Tinggi
+15,7630,Baik,1,Risiko Sedang,Crane,Risiko Tinggi
+15,7352,Rusak,1,Risiko Sedang,Dump Truck,Risiko Tinggi
+24,2398,Rusak,2,Risiko Rendah,Compactor,Risiko Tinggi
+16,4317,Rusak,8,Risiko Rendah,Motor Grader,Risiko Tinggi
+7,476,Baik,9,Risiko Tinggi,Dump Truck,Risiko Rendah
+24,3962,Dalam Perbaikan,9,Risiko Tinggi,Compactor,Risiko Tinggi
+13,4987,Rusak,4,Risiko Tinggi,Lainnya,Risiko Tinggi
+7,2898,Baik,9,Risiko Tinggi,Wheel Loader,Risiko Rendah
+10,5973,Dalam Perbaikan,7,Risiko Sedang,Bulldozer,Risiko Tinggi
+7,1906,Dalam Perbaikan,4,Risiko Rendah,Excavator,Risiko Rendah
+23,196,Rusak,10,Risiko Rendah,Motor Grader,Risiko Tinggi
+1,5040,Rusak,6,Risiko Rendah,Crane,Risiko Tinggi
+15,4590,Dalam Perbaikan,3,Risiko Rendah,Motor Grader,Risiko Tinggi
+4,2307,Rusak,1,Risiko Sedang,Compactor,Risiko Rendah
+10,4505,Rusak,0,Risiko Rendah,Crane,Risiko Sedang
+16,3244,Dalam Perbaikan,9,Risiko Tinggi,Excavator,Risiko Tinggi
+0,1438,Baik,5,Risiko Sedang,Wheel Loader,Risiko Rendah
+11,6531,Baik,10,Risiko Rendah,Wheel Loader,Risiko Tinggi
+22,5138,Rusak,8,Risiko Sedang,Wheel Loader,Risiko Tinggi
+1,6669,Rusak,0,Risiko Tinggi,Compactor,Risiko Tinggi
+8,5938,Dalam Perbaikan,5,Risiko Tinggi,Dump Truck,Risiko Tinggi
+26,1706,Dalam Perbaikan,10,Risiko Sedang,Crane,Risiko Tinggi
+24,7943,Baik,4,Risiko Rendah,Crane,Risiko Tinggi
+14,5132,Dalam Perbaikan,2,Risiko Tinggi,Lainnya,Risiko Tinggi
+14,1535,Dalam Perbaikan,1,Risiko Sedang,Crane,Risiko Tinggi
+4,259,Rusak,6,Risiko Rendah,Wheel Loader,Risiko Rendah
+19,3044,Rusak,4,Risiko Rendah,Dump Truck,Risiko Tinggi
+17,1433,Baik,5,Risiko Rendah,Motor Grader,Risiko Tinggi
+24,3635,Dalam Perbaikan,0,Risiko Sedang,Dump Truck,Risiko Tinggi
+22,1558,Rusak,7,Risiko Tinggi,Dump Truck,Risiko Tinggi
+17,6353,Rusak,2,Risiko Rendah,Dump Truck,Risiko Tinggi
+5,1087,Baik,0,Risiko Sedang,Forklift,Risiko Rendah
+4,7084,Dalam Perbaikan,1,Risiko Rendah,Compactor,Risiko Tinggi
+25,5628,Dalam Perbaikan,1,Risiko Sedang,Wheel Loader,Risiko Tinggi
+25,844,Dalam Perbaikan,10,Risiko Tinggi,Compactor,Risiko Tinggi
+26,4731,Rusak,10,Risiko Rendah,Crane,Risiko Tinggi
+20,1577,Rusak,4,Risiko Tinggi,Crane,Risiko Tinggi
+2,3613,Dalam Perbaikan,1,Risiko Sedang,Bulldozer,Risiko Rendah
+21,2241,Baik,0,Risiko Tinggi,Dump Truck,Risiko Tinggi
+10,838,Baik,8,Risiko Sedang,Dump Truck,Risiko Rendah
+16,2220,Baik,4,Risiko Tinggi,Motor Grader,Risiko Tinggi
+21,583,Rusak,9,Risiko Sedang,Dump Truck,Risiko Tinggi
+12,415,Baik,0,Risiko Sedang,Excavator,Risiko Rendah
+23,3142,Baik,1,Risiko Sedang,Forklift,Risiko Tinggi
+21,5772,Dalam Perbaikan,9,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+7,2913,Rusak,5,Risiko Rendah,Dump Truck,Risiko Rendah
+24,7976,Rusak,9,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+0,6572,Dalam Perbaikan,7,Risiko Rendah,Wheel Loader,Risiko Tinggi
+17,5607,Dalam Perbaikan,7,Risiko Sedang,Motor Grader,Risiko Tinggi
+19,1177,Dalam Perbaikan,4,Risiko Sedang,Forklift,Risiko Tinggi
+21,5731,Dalam Perbaikan,5,Risiko Sedang,Wheel Loader,Risiko Tinggi
+11,247,Baik,7,Risiko Rendah,Crane,Risiko Rendah
+11,3778,Baik,4,Risiko Sedang,Lainnya,Risiko Sedang
+8,1043,Dalam Perbaikan,1,Risiko Sedang,Backhoe Loader,Risiko Rendah
+16,4555,Dalam Perbaikan,1,Risiko Sedang,Dump Truck,Risiko Tinggi
+12,3283,Dalam Perbaikan,6,Risiko Rendah,Lainnya,Risiko Sedang
+19,4488,Baik,7,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+16,1705,Dalam Perbaikan,9,Risiko Sedang,Forklift,Risiko Tinggi
+8,6449,Rusak,8,Risiko Tinggi,Motor Grader,Risiko Tinggi
+21,5428,Dalam Perbaikan,1,Risiko Tinggi,Lainnya,Risiko Tinggi
+0,3986,Baik,9,Risiko Tinggi,Wheel Loader,Risiko Sedang
+16,4547,Baik,7,Risiko Rendah,Compactor,Risiko Tinggi
+14,570,Dalam Perbaikan,1,Risiko Tinggi,Lainnya,Risiko Tinggi
+2,6716,Rusak,5,Risiko Sedang,Excavator,Risiko Tinggi
+24,1782,Baik,9,Risiko Tinggi,Excavator,Risiko Tinggi
+2,1201,Dalam Perbaikan,2,Risiko Sedang,Dump Truck,Risiko Rendah
+17,3194,Dalam Perbaikan,9,Risiko Sedang,Motor Grader,Risiko Tinggi
+20,5582,Rusak,4,Risiko Tinggi,Compactor,Risiko Tinggi
+13,5880,Rusak,1,Risiko Tinggi,Excavator,Risiko Tinggi
+7,4181,Rusak,2,Risiko Sedang,Excavator,Risiko Sedang
+15,7381,Dalam Perbaikan,0,Risiko Rendah,Dump Truck,Risiko Tinggi
+0,2942,Baik,4,Risiko Rendah,Motor Grader,Risiko Rendah
+13,5752,Dalam Perbaikan,6,Risiko Tinggi,Crane,Risiko Tinggi
+4,3135,Rusak,6,Risiko Sedang,Dump Truck,Risiko Sedang
+20,5427,Baik,7,Risiko Rendah,Motor Grader,Risiko Tinggi
+9,3150,Rusak,6,Risiko Rendah,Compactor,Risiko Sedang
+5,1028,Baik,0,Risiko Rendah,Excavator,Risiko Rendah
+22,5909,Rusak,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+24,1124,Dalam Perbaikan,6,Risiko Sedang,Lainnya,Risiko Tinggi
+13,5105,Baik,7,Risiko Tinggi,Forklift,Risiko Tinggi
+9,6718,Rusak,6,Risiko Sedang,Motor Grader,Risiko Tinggi
+21,3479,Dalam Perbaikan,0,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+3,1939,Dalam Perbaikan,8,Risiko Sedang,Forklift,Risiko Rendah
+9,4721,Rusak,0,Risiko Rendah,Lainnya,Risiko Sedang
+11,5774,Rusak,1,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+4,655,Baik,8,Risiko Sedang,Wheel Loader,Risiko Rendah
+10,640,Dalam Perbaikan,9,Risiko Rendah,Motor Grader,Risiko Sedang
+11,5166,Dalam Perbaikan,10,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+5,5191,Dalam Perbaikan,9,Risiko Sedang,Lainnya,Risiko Tinggi
+25,7402,Rusak,8,Risiko Rendah,Wheel Loader,Risiko Tinggi
+12,4199,Rusak,9,Risiko Tinggi,Crane,Risiko Tinggi
+13,2891,Rusak,4,Risiko Rendah,Excavator,Risiko Tinggi
+4,7560,Dalam Perbaikan,4,Risiko Tinggi,Lainnya,Risiko Tinggi
+18,503,Dalam Perbaikan,7,Risiko Tinggi,Bulldozer,Risiko Tinggi
+8,422,Dalam Perbaikan,4,Risiko Tinggi,Lainnya,Risiko Sedang
+26,2349,Rusak,1,Risiko Rendah,Dump Truck,Risiko Tinggi
+24,6975,Rusak,4,Risiko Rendah,Lainnya,Risiko Tinggi
+18,2254,Rusak,0,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+7,1430,Dalam Perbaikan,2,Risiko Tinggi,Wheel Loader,Risiko Rendah
+15,6617,Baik,4,Risiko Tinggi,Motor Grader,Risiko Tinggi
+11,1481,Dalam Perbaikan,0,Risiko Sedang,Backhoe Loader,Risiko Rendah
+22,4878,Baik,7,Risiko Sedang,Forklift,Risiko Tinggi
+19,5412,Rusak,10,Risiko Rendah,Motor Grader,Risiko Tinggi
+8,6015,Rusak,0,Risiko Tinggi,Compactor,Risiko Tinggi
+2,6713,Baik,0,Risiko Rendah,Wheel Loader,Risiko Tinggi
+14,3901,Rusak,7,Risiko Tinggi,Dump Truck,Risiko Tinggi
+19,3111,Dalam Perbaikan,6,Risiko Sedang,Compactor,Risiko Tinggi
+22,4345,Rusak,0,Risiko Sedang,Wheel Loader,Risiko Tinggi
+14,5558,Rusak,8,Risiko Tinggi,Excavator,Risiko Tinggi
+23,7517,Dalam Perbaikan,10,Risiko Sedang,Forklift,Risiko Tinggi
+7,7520,Dalam Perbaikan,4,Risiko Sedang,Compactor,Risiko Tinggi
+18,6572,Baik,4,Risiko Tinggi,Lainnya,Risiko Tinggi
+14,3777,Dalam Perbaikan,3,Risiko Tinggi,Lainnya,Risiko Tinggi
+2,1596,Dalam Perbaikan,5,Risiko Tinggi,Bulldozer,Risiko Rendah
+16,4486,Baik,10,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+26,3368,Baik,8,Risiko Rendah,Wheel Loader,Risiko Tinggi
+15,1797,Dalam Perbaikan,4,Risiko Sedang,Motor Grader,Risiko Tinggi
+25,194,Dalam Perbaikan,1,Risiko Rendah,Lainnya,Risiko Tinggi
+5,7323,Baik,9,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+4,7846,Baik,1,Risiko Tinggi,Bulldozer,Risiko Tinggi
+14,5377,Dalam Perbaikan,9,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+4,1509,Rusak,4,Risiko Sedang,Backhoe Loader,Risiko Rendah
+6,3714,Rusak,6,Risiko Tinggi,Crane,Risiko Sedang
+18,1326,Baik,4,Risiko Rendah,Forklift,Risiko Tinggi
+14,2725,Baik,4,Risiko Sedang,Bulldozer,Risiko Tinggi
+12,568,Rusak,3,Risiko Tinggi,Forklift,Risiko Sedang
+21,5287,Rusak,1,Risiko Rendah,Dump Truck,Risiko Tinggi
+2,3532,Baik,9,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+12,5860,Rusak,1,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+24,4680,Dalam Perbaikan,4,Risiko Sedang,Excavator,Risiko Tinggi
+11,1219,Dalam Perbaikan,10,Risiko Rendah,Excavator,Risiko Sedang
+5,3198,Rusak,2,Risiko Tinggi,Crane,Risiko Sedang
+14,4707,Baik,8,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+11,3572,Rusak,1,Risiko Tinggi,Motor Grader,Risiko Sedang
+26,3149,Dalam Perbaikan,7,Risiko Rendah,Lainnya,Risiko Tinggi
+9,7659,Rusak,5,Risiko Tinggi,Compactor,Risiko Tinggi
+14,452,Dalam Perbaikan,10,Risiko Rendah,Crane,Risiko Tinggi
+9,6990,Rusak,1,Risiko Sedang,Compactor,Risiko Tinggi
+6,1663,Baik,8,Risiko Rendah,Forklift,Risiko Rendah
+5,1564,Rusak,6,Risiko Rendah,Crane,Risiko Rendah
+11,695,Dalam Perbaikan,7,Risiko Tinggi,Motor Grader,Risiko Sedang
+22,292,Baik,0,Risiko Tinggi,Lainnya,Risiko Tinggi
+19,4007,Rusak,1,Risiko Tinggi,Compactor,Risiko Tinggi
+11,4374,Rusak,0,Risiko Rendah,Crane,Risiko Sedang
+25,2766,Dalam Perbaikan,0,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+20,6611,Dalam Perbaikan,10,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+5,7128,Dalam Perbaikan,2,Risiko Tinggi,Lainnya,Risiko Tinggi
+19,7576,Baik,0,Risiko Tinggi,Bulldozer,Risiko Tinggi
+11,5356,Baik,7,Risiko Tinggi,Excavator,Risiko Tinggi
+19,5745,Dalam Perbaikan,2,Risiko Rendah,Bulldozer,Risiko Tinggi
+6,409,Rusak,1,Risiko Sedang,Lainnya,Risiko Rendah
+21,6843,Dalam Perbaikan,1,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+11,4874,Dalam Perbaikan,3,Risiko Rendah,Motor Grader,Risiko Sedang
+13,2763,Dalam Perbaikan,10,Risiko Sedang,Crane,Risiko Tinggi
+23,7994,Dalam Perbaikan,9,Risiko Tinggi,Bulldozer,Risiko Tinggi
+16,6852,Baik,0,Risiko Tinggi,Bulldozer,Risiko Tinggi
+16,517,Baik,4,Risiko Rendah,Forklift,Risiko Tinggi
+21,5704,Rusak,8,Risiko Rendah,Wheel Loader,Risiko Tinggi
+19,7583,Dalam Perbaikan,0,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+1,6941,Dalam Perbaikan,9,Risiko Sedang,Bulldozer,Risiko Tinggi
+26,7205,Rusak,1,Risiko Rendah,Excavator,Risiko Tinggi
+21,7586,Baik,10,Risiko Tinggi,Compactor,Risiko Tinggi
+13,5681,Rusak,2,Risiko Rendah,Bulldozer,Risiko Tinggi
+6,2219,Dalam Perbaikan,7,Risiko Sedang,Motor Grader,Risiko Rendah
+21,5001,Dalam Perbaikan,0,Risiko Tinggi,Bulldozer,Risiko Tinggi
+4,4095,Dalam Perbaikan,1,Risiko Tinggi,Compactor,Risiko Rendah
+15,3430,Baik,8,Risiko Rendah,Motor Grader,Risiko Tinggi
+23,4343,Baik,9,Risiko Sedang,Dump Truck,Risiko Tinggi
+10,1796,Rusak,10,Risiko Tinggi,Motor Grader,Risiko Sedang
+18,434,Baik,1,Risiko Rendah,Wheel Loader,Risiko Tinggi
+11,1444,Baik,10,Risiko Rendah,Excavator,Risiko Rendah
+6,2983,Rusak,3,Risiko Sedang,Compactor,Risiko Rendah
+16,5052,Rusak,0,Risiko Rendah,Excavator,Risiko Tinggi
+9,1440,Baik,0,Risiko Sedang,Dump Truck,Risiko Rendah
+23,580,Baik,7,Risiko Tinggi,Lainnya,Risiko Tinggi
+16,3432,Baik,10,Risiko Sedang,Motor Grader,Risiko Tinggi
+2,902,Rusak,3,Risiko Rendah,Motor Grader,Risiko Rendah
+3,3379,Baik,6,Risiko Rendah,Backhoe Loader,Risiko Rendah
+11,4793,Rusak,0,Risiko Sedang,Bulldozer,Risiko Sedang
+20,7601,Dalam Perbaikan,7,Risiko Rendah,Forklift,Risiko Tinggi
+15,1117,Rusak,3,Risiko Tinggi,Crane,Risiko Tinggi
+18,1656,Rusak,2,Risiko Rendah,Lainnya,Risiko Tinggi
+25,2298,Baik,1,Risiko Sedang,Wheel Loader,Risiko Tinggi
+13,1402,Rusak,3,Risiko Sedang,Lainnya,Risiko Tinggi
+21,6467,Dalam Perbaikan,9,Risiko Rendah,Lainnya,Risiko Tinggi
+9,7004,Baik,1,Risiko Sedang,Dump Truck,Risiko Tinggi
+11,7063,Baik,9,Risiko Sedang,Wheel Loader,Risiko Tinggi
+18,118,Dalam Perbaikan,6,Risiko Tinggi,Motor Grader,Risiko Tinggi
+19,2681,Rusak,9,Risiko Rendah,Lainnya,Risiko Tinggi
+22,7485,Dalam Perbaikan,0,Risiko Sedang,Excavator,Risiko Tinggi
+25,3855,Dalam Perbaikan,8,Risiko Rendah,Forklift,Risiko Tinggi
+10,3230,Rusak,1,Risiko Sedang,Wheel Loader,Risiko Sedang
+19,680,Dalam Perbaikan,0,Risiko Tinggi,Forklift,Risiko Tinggi
+20,1087,Rusak,4,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+26,3930,Dalam Perbaikan,4,Risiko Rendah,Wheel Loader,Risiko Tinggi
+8,6121,Dalam Perbaikan,0,Risiko Sedang,Wheel Loader,Risiko Tinggi
+2,1135,Dalam Perbaikan,6,Risiko Rendah,Crane,Risiko Rendah
+6,3803,Dalam Perbaikan,10,Risiko Rendah,Backhoe Loader,Risiko Sedang
+14,7319,Dalam Perbaikan,5,Risiko Tinggi,Excavator,Risiko Tinggi
+17,3488,Rusak,9,Risiko Tinggi,Lainnya,Risiko Tinggi
+1,1696,Dalam Perbaikan,1,Risiko Tinggi,Crane,Risiko Rendah
+3,7636,Baik,8,Risiko Tinggi,Crane,Risiko Tinggi
+25,909,Rusak,5,Risiko Sedang,Lainnya,Risiko Tinggi
+25,2994,Rusak,2,Risiko Tinggi,Dump Truck,Risiko Tinggi
+4,548,Dalam Perbaikan,3,Risiko Rendah,Crane,Risiko Rendah
+19,4420,Baik,10,Risiko Sedang,Lainnya,Risiko Tinggi
+4,1718,Dalam Perbaikan,3,Risiko Sedang,Crane,Risiko Rendah
+18,4125,Dalam Perbaikan,6,Risiko Sedang,Excavator,Risiko Tinggi
+24,3054,Rusak,7,Risiko Sedang,Dump Truck,Risiko Tinggi
+10,6795,Baik,7,Risiko Tinggi,Dump Truck,Risiko Tinggi
+5,6761,Dalam Perbaikan,4,Risiko Sedang,Lainnya,Risiko Tinggi
+15,6552,Dalam Perbaikan,1,Risiko Rendah,Wheel Loader,Risiko Tinggi
+24,656,Rusak,2,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+23,1349,Rusak,1,Risiko Tinggi,Bulldozer,Risiko Tinggi
+11,1232,Baik,8,Risiko Tinggi,Excavator,Risiko Sedang
+17,3412,Dalam Perbaikan,8,Risiko Rendah,Wheel Loader,Risiko Tinggi
+15,3441,Rusak,10,Risiko Rendah,Compactor,Risiko Tinggi
+20,515,Baik,3,Risiko Tinggi,Crane,Risiko Tinggi
+13,4740,Rusak,10,Risiko Tinggi,Crane,Risiko Tinggi
+11,4860,Dalam Perbaikan,8,Risiko Tinggi,Wheel Loader,Risiko Sedang
+12,2491,Dalam Perbaikan,2,Risiko Sedang,Bulldozer,Risiko Rendah
+1,2129,Baik,7,Risiko Sedang,Compactor,Risiko Rendah
+2,6926,Baik,2,Risiko Sedang,Compactor,Risiko Tinggi
+12,7833,Baik,9,Risiko Rendah,Dump Truck,Risiko Tinggi
+17,1493,Baik,10,Risiko Rendah,Bulldozer,Risiko Tinggi
+19,957,Baik,5,Risiko Tinggi,Bulldozer,Risiko Tinggi
+12,2133,Rusak,2,Risiko Rendah,Dump Truck,Risiko Rendah
+4,284,Dalam Perbaikan,5,Risiko Sedang,Bulldozer,Risiko Rendah
+15,3673,Dalam Perbaikan,2,Risiko Tinggi,Compactor,Risiko Tinggi
+23,7540,Baik,6,Risiko Sedang,Bulldozer,Risiko Tinggi
+12,7600,Rusak,2,Risiko Rendah,Dump Truck,Risiko Tinggi
+10,2713,Dalam Perbaikan,4,Risiko Sedang,Compactor,Risiko Sedang
+2,4699,Dalam Perbaikan,2,Risiko Tinggi,Wheel Loader,Risiko Rendah
+16,5645,Baik,7,Risiko Rendah,Bulldozer,Risiko Tinggi
+5,4513,Baik,4,Risiko Rendah,Forklift,Risiko Rendah
+7,6888,Baik,7,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+16,450,Dalam Perbaikan,10,Risiko Rendah,Lainnya,Risiko Tinggi
+10,1819,Rusak,3,Risiko Rendah,Backhoe Loader,Risiko Sedang
+9,6958,Rusak,10,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+10,3231,Baik,7,Risiko Sedang,Lainnya,Risiko Sedang
+7,4190,Baik,10,Risiko Sedang,Forklift,Risiko Rendah
+22,5865,Rusak,5,Risiko Sedang,Crane,Risiko Tinggi
+26,2331,Rusak,5,Risiko Sedang,Wheel Loader,Risiko Tinggi
+9,717,Baik,7,Risiko Tinggi,Forklift,Risiko Sedang
+1,3624,Rusak,2,Risiko Tinggi,Forklift,Risiko Sedang
+3,7343,Rusak,2,Risiko Tinggi,Lainnya,Risiko Tinggi
+24,1176,Baik,4,Risiko Sedang,Dump Truck,Risiko Tinggi
+16,541,Dalam Perbaikan,6,Risiko Rendah,Excavator,Risiko Tinggi
+13,5233,Rusak,6,Risiko Rendah,Dump Truck,Risiko Tinggi
+12,5818,Dalam Perbaikan,2,Risiko Rendah,Bulldozer,Risiko Tinggi
+0,3127,Rusak,8,Risiko Sedang,Excavator,Risiko Sedang
+0,6768,Rusak,9,Risiko Sedang,Wheel Loader,Risiko Tinggi
+9,6060,Rusak,3,Risiko Rendah,Excavator,Risiko Tinggi
+22,2151,Rusak,10,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+23,5356,Dalam Perbaikan,4,Risiko Sedang,Bulldozer,Risiko Tinggi
+11,7428,Dalam Perbaikan,10,Risiko Rendah,Excavator,Risiko Tinggi
+23,6264,Rusak,7,Risiko Rendah,Lainnya,Risiko Tinggi
+3,2963,Dalam Perbaikan,7,Risiko Tinggi,Forklift,Risiko Rendah
+18,5144,Dalam Perbaikan,7,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+15,4198,Dalam Perbaikan,9,Risiko Rendah,Compactor,Risiko Tinggi
+21,4764,Baik,2,Risiko Sedang,Wheel Loader,Risiko Tinggi
+4,1109,Rusak,2,Risiko Rendah,Compactor,Risiko Rendah
+15,3436,Dalam Perbaikan,5,Risiko Rendah,Compactor,Risiko Tinggi
+17,4338,Dalam Perbaikan,1,Risiko Tinggi,Motor Grader,Risiko Tinggi
+2,5144,Baik,1,Risiko Tinggi,Bulldozer,Risiko Tinggi
+9,2642,Rusak,10,Risiko Sedang,Compactor,Risiko Sedang
+5,5717,Dalam Perbaikan,5,Risiko Rendah,Dump Truck,Risiko Tinggi
+8,2880,Baik,0,Risiko Rendah,Dump Truck,Risiko Rendah
+17,3055,Rusak,6,Risiko Sedang,Bulldozer,Risiko Tinggi
+23,1784,Baik,8,Risiko Rendah,Motor Grader,Risiko Tinggi
+1,7348,Dalam Perbaikan,9,Risiko Tinggi,Dump Truck,Risiko Tinggi
+9,5837,Dalam Perbaikan,1,Risiko Sedang,Wheel Loader,Risiko Tinggi
+24,954,Baik,0,Risiko Sedang,Crane,Risiko Tinggi
+17,5661,Rusak,2,Risiko Sedang,Lainnya,Risiko Tinggi
+10,6255,Rusak,2,Risiko Tinggi,Compactor,Risiko Tinggi
+26,6098,Baik,3,Risiko Rendah,Bulldozer,Risiko Tinggi
+4,1856,Rusak,2,Risiko Rendah,Bulldozer,Risiko Rendah
+24,3480,Dalam Perbaikan,1,Risiko Rendah,Excavator,Risiko Tinggi
+2,3967,Rusak,0,Risiko Rendah,Backhoe Loader,Risiko Rendah
+25,6496,Dalam Perbaikan,8,Risiko Tinggi,Excavator,Risiko Tinggi
+11,974,Rusak,0,Risiko Rendah,Compactor,Risiko Rendah
+5,84,Baik,1,Risiko Tinggi,Motor Grader,Risiko Rendah
+8,7382,Baik,2,Risiko Tinggi,Crane,Risiko Tinggi
+26,743,Baik,4,Risiko Tinggi,Crane,Risiko Tinggi
+15,1315,Dalam Perbaikan,9,Risiko Rendah,Dump Truck,Risiko Tinggi
+8,559,Baik,9,Risiko Rendah,Dump Truck,Risiko Rendah
+20,5863,Baik,4,Risiko Rendah,Dump Truck,Risiko Tinggi
+26,7975,Dalam Perbaikan,1,Risiko Rendah,Dump Truck,Risiko Tinggi
+4,3888,Rusak,9,Risiko Rendah,Wheel Loader,Risiko Sedang
+5,7845,Baik,2,Risiko Sedang,Forklift,Risiko Tinggi
+13,1755,Dalam Perbaikan,3,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+2,2574,Baik,7,Risiko Rendah,Dump Truck,Risiko Rendah
+22,4061,Rusak,4,Risiko Tinggi,Excavator,Risiko Tinggi
+24,2687,Rusak,1,Risiko Sedang,Compactor,Risiko Tinggi
+12,4918,Dalam Perbaikan,4,Risiko Tinggi,Wheel Loader,Risiko Sedang
+19,4537,Rusak,4,Risiko Sedang,Motor Grader,Risiko Tinggi
+24,7329,Rusak,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+26,5522,Rusak,10,Risiko Rendah,Forklift,Risiko Tinggi
+12,4281,Dalam Perbaikan,10,Risiko Rendah,Backhoe Loader,Risiko Sedang
+22,3234,Rusak,9,Risiko Rendah,Bulldozer,Risiko Tinggi
+24,2979,Baik,5,Risiko Rendah,Lainnya,Risiko Tinggi
+14,1005,Baik,6,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+18,6265,Dalam Perbaikan,9,Risiko Tinggi,Compactor,Risiko Tinggi
+2,6467,Dalam Perbaikan,6,Risiko Sedang,Wheel Loader,Risiko Tinggi
+5,4941,Rusak,7,Risiko Tinggi,Compactor,Risiko Sedang
+22,6291,Rusak,1,Risiko Rendah,Compactor,Risiko Tinggi
+11,4073,Baik,10,Risiko Rendah,Excavator,Risiko Sedang
+23,6044,Baik,1,Risiko Sedang,Excavator,Risiko Tinggi
+21,3134,Dalam Perbaikan,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+17,5095,Dalam Perbaikan,1,Risiko Rendah,Dump Truck,Risiko Tinggi
+2,4032,Rusak,3,Risiko Sedang,Wheel Loader,Risiko Sedang
+11,4135,Rusak,8,Risiko Sedang,Dump Truck,Risiko Sedang
+9,144,Baik,6,Risiko Rendah,Forklift,Risiko Rendah
+12,2576,Rusak,7,Risiko Sedang,Excavator,Risiko Sedang
+25,1448,Dalam Perbaikan,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+11,3528,Baik,4,Risiko Tinggi,Forklift,Risiko Sedang
+11,6258,Baik,9,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+5,4536,Dalam Perbaikan,8,Risiko Tinggi,Wheel Loader,Risiko Sedang
+11,4605,Baik,8,Risiko Rendah,Forklift,Risiko Sedang
+18,4052,Dalam Perbaikan,6,Risiko Tinggi,Crane,Risiko Tinggi
+2,2330,Rusak,0,Risiko Rendah,Lainnya,Risiko Rendah
+25,1050,Rusak,5,Risiko Tinggi,Lainnya,Risiko Tinggi
+26,6268,Dalam Perbaikan,5,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+13,2827,Rusak,6,Risiko Sedang,Excavator,Risiko Tinggi
+5,2000,Baik,3,Risiko Tinggi,Compactor,Risiko Rendah
+8,695,Dalam Perbaikan,1,Risiko Sedang,Backhoe Loader,Risiko Rendah
+16,1390,Baik,8,Risiko Sedang,Excavator,Risiko Tinggi
+12,5388,Rusak,9,Risiko Tinggi,Forklift,Risiko Tinggi
+18,167,Dalam Perbaikan,7,Risiko Tinggi,Excavator,Risiko Tinggi
+16,3094,Dalam Perbaikan,6,Risiko Sedang,Lainnya,Risiko Tinggi
+23,6621,Rusak,1,Risiko Tinggi,Motor Grader,Risiko Tinggi
+16,4069,Dalam Perbaikan,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+7,2453,Rusak,6,Risiko Rendah,Wheel Loader,Risiko Rendah
+6,6941,Baik,8,Risiko Rendah,Compactor,Risiko Tinggi
+18,389,Rusak,9,Risiko Sedang,Motor Grader,Risiko Tinggi
+7,6085,Baik,9,Risiko Rendah,Lainnya,Risiko Tinggi
+16,2239,Baik,9,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+13,1718,Rusak,1,Risiko Tinggi,Compactor,Risiko Tinggi
+10,6587,Rusak,6,Risiko Tinggi,Dump Truck,Risiko Tinggi
+16,1639,Rusak,6,Risiko Sedang,Lainnya,Risiko Tinggi
+10,3712,Dalam Perbaikan,8,Risiko Rendah,Excavator,Risiko Sedang
+6,5761,Dalam Perbaikan,2,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+20,5413,Dalam Perbaikan,7,Risiko Sedang,Dump Truck,Risiko Tinggi
+1,5033,Rusak,9,Risiko Tinggi,Excavator,Risiko Tinggi
+10,1643,Rusak,7,Risiko Rendah,Motor Grader,Risiko Sedang
+22,6114,Dalam Perbaikan,4,Risiko Sedang,Forklift,Risiko Tinggi
+16,7046,Baik,10,Risiko Rendah,Forklift,Risiko Tinggi
+18,6747,Rusak,10,Risiko Rendah,Compactor,Risiko Tinggi
+5,4925,Baik,6,Risiko Rendah,Backhoe Loader,Risiko Rendah
+22,1572,Baik,3,Risiko Sedang,Wheel Loader,Risiko Tinggi
+11,4586,Rusak,6,Risiko Tinggi,Excavator,Risiko Sedang
+20,1305,Rusak,2,Risiko Rendah,Compactor,Risiko Tinggi
+1,6582,Rusak,10,Risiko Tinggi,Bulldozer,Risiko Tinggi
+6,6983,Baik,7,Risiko Rendah,Excavator,Risiko Tinggi
+24,2571,Dalam Perbaikan,4,Risiko Rendah,Forklift,Risiko Tinggi
+15,5502,Dalam Perbaikan,1,Risiko Sedang,Bulldozer,Risiko Tinggi
+19,916,Dalam Perbaikan,8,Risiko Rendah,Dump Truck,Risiko Tinggi
+5,6791,Dalam Perbaikan,8,Risiko Sedang,Wheel Loader,Risiko Tinggi
+24,1950,Dalam Perbaikan,1,Risiko Sedang,Crane,Risiko Tinggi
+0,4786,Dalam Perbaikan,6,Risiko Tinggi,Motor Grader,Risiko Sedang
+13,1785,Baik,1,Risiko Rendah,Motor Grader,Risiko Tinggi
+18,3600,Rusak,4,Risiko Tinggi,Excavator,Risiko Tinggi
+11,4370,Rusak,1,Risiko Sedang,Dump Truck,Risiko Sedang
+13,3890,Dalam Perbaikan,3,Risiko Sedang,Bulldozer,Risiko Tinggi
+15,3893,Dalam Perbaikan,5,Risiko Sedang,Excavator,Risiko Tinggi
+6,7920,Dalam Perbaikan,0,Risiko Tinggi,Excavator,Risiko Tinggi
+4,7515,Dalam Perbaikan,3,Risiko Sedang,Dump Truck,Risiko Tinggi
+14,2533,Dalam Perbaikan,5,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+9,7102,Baik,7,Risiko Sedang,Excavator,Risiko Tinggi
+14,7598,Rusak,4,Risiko Rendah,Motor Grader,Risiko Tinggi
+17,1723,Baik,7,Risiko Tinggi,Crane,Risiko Tinggi
+1,6281,Dalam Perbaikan,6,Risiko Rendah,Compactor,Risiko Tinggi
+24,6743,Rusak,7,Risiko Tinggi,Forklift,Risiko Tinggi
+0,2725,Dalam Perbaikan,6,Risiko Rendah,Bulldozer,Risiko Rendah
+4,2137,Dalam Perbaikan,1,Risiko Sedang,Forklift,Risiko Rendah
+7,5973,Dalam Perbaikan,5,Risiko Sedang,Excavator,Risiko Tinggi
+2,426,Dalam Perbaikan,10,Risiko Rendah,Wheel Loader,Risiko Rendah
+1,5251,Baik,0,Risiko Sedang,Motor Grader,Risiko Tinggi
+6,2503,Rusak,9,Risiko Rendah,Backhoe Loader,Risiko Rendah
+21,2044,Dalam Perbaikan,10,Risiko Rendah,Lainnya,Risiko Tinggi
+5,3361,Rusak,7,Risiko Sedang,Bulldozer,Risiko Sedang
+18,1421,Dalam Perbaikan,9,Risiko Sedang,Compactor,Risiko Tinggi
+20,691,Rusak,5,Risiko Rendah,Forklift,Risiko Tinggi
+14,7739,Dalam Perbaikan,3,Risiko Rendah,Excavator,Risiko Tinggi
+9,5301,Dalam Perbaikan,10,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+12,1624,Rusak,2,Risiko Rendah,Forklift,Risiko Rendah
+7,3513,Dalam Perbaikan,4,Risiko Rendah,Backhoe Loader,Risiko Rendah
+15,1393,Dalam Perbaikan,1,Risiko Rendah,Dump Truck,Risiko Tinggi
+13,6335,Rusak,10,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+19,5845,Baik,3,Risiko Sedang,Compactor,Risiko Tinggi
+3,4048,Rusak,2,Risiko Sedang,Motor Grader,Risiko Sedang
+7,1765,Rusak,10,Risiko Rendah,Forklift,Risiko Rendah
+21,3346,Baik,0,Risiko Sedang,Compactor,Risiko Tinggi
+19,5060,Rusak,3,Risiko Sedang,Lainnya,Risiko Tinggi
+5,5302,Rusak,1,Risiko Rendah,Wheel Loader,Risiko Tinggi
+22,7138,Rusak,6,Risiko Tinggi,Motor Grader,Risiko Tinggi
+4,3141,Dalam Perbaikan,6,Risiko Tinggi,Lainnya,Risiko Sedang
+18,598,Baik,8,Risiko Rendah,Excavator,Risiko Tinggi
+16,7627,Baik,7,Risiko Sedang,Lainnya,Risiko Tinggi
+5,7923,Dalam Perbaikan,0,Risiko Rendah,Compactor,Risiko Tinggi
+10,5076,Rusak,4,Risiko Sedang,Crane,Risiko Tinggi
+22,7930,Dalam Perbaikan,0,Risiko Tinggi,Bulldozer,Risiko Tinggi
+18,1391,Dalam Perbaikan,7,Risiko Sedang,Wheel Loader,Risiko Tinggi
+22,734,Rusak,8,Risiko Sedang,Bulldozer,Risiko Tinggi
+18,957,Rusak,0,Risiko Rendah,Wheel Loader,Risiko Tinggi
+0,2301,Dalam Perbaikan,5,Risiko Sedang,Compactor,Risiko Rendah
+18,5021,Rusak,8,Risiko Sedang,Forklift,Risiko Tinggi
+21,2584,Dalam Perbaikan,7,Risiko Rendah,Dump Truck,Risiko Tinggi
+5,5215,Rusak,0,Risiko Rendah,Bulldozer,Risiko Tinggi
+25,1883,Baik,0,Risiko Sedang,Compactor,Risiko Tinggi
+21,5783,Rusak,6,Risiko Rendah,Wheel Loader,Risiko Tinggi
+25,3616,Rusak,8,Risiko Sedang,Wheel Loader,Risiko Tinggi
+11,921,Dalam Perbaikan,2,Risiko Rendah,Crane,Risiko Rendah
+24,1668,Rusak,2,Risiko Rendah,Dump Truck,Risiko Tinggi
+0,2234,Dalam Perbaikan,10,Risiko Tinggi,Motor Grader,Risiko Rendah
+8,7959,Baik,8,Risiko Tinggi,Bulldozer,Risiko Tinggi
+13,7540,Baik,3,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+16,212,Rusak,10,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+14,3060,Dalam Perbaikan,1,Risiko Sedang,Bulldozer,Risiko Tinggi
+26,664,Rusak,10,Risiko Sedang,Wheel Loader,Risiko Tinggi
+6,7825,Rusak,9,Risiko Tinggi,Excavator,Risiko Tinggi
+16,7944,Baik,10,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+16,7761,Dalam Perbaikan,9,Risiko Rendah,Motor Grader,Risiko Tinggi
+25,6566,Dalam Perbaikan,4,Risiko Sedang,Excavator,Risiko Tinggi
+3,579,Dalam Perbaikan,9,Risiko Sedang,Backhoe Loader,Risiko Rendah
+14,2090,Baik,3,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+26,6982,Baik,2,Risiko Sedang,Forklift,Risiko Tinggi
+17,5301,Dalam Perbaikan,2,Risiko Rendah,Compactor,Risiko Tinggi
+11,6562,Rusak,4,Risiko Tinggi,Lainnya,Risiko Tinggi
+22,2941,Dalam Perbaikan,1,Risiko Sedang,Dump Truck,Risiko Tinggi
+20,4010,Rusak,6,Risiko Sedang,Compactor,Risiko Tinggi
+8,4917,Rusak,1,Risiko Sedang,Crane,Risiko Sedang
+7,1526,Rusak,10,Risiko Sedang,Backhoe Loader,Risiko Sedang
+25,4205,Rusak,7,Risiko Tinggi,Motor Grader,Risiko Tinggi
+6,5621,Dalam Perbaikan,2,Risiko Sedang,Dump Truck,Risiko Tinggi
+6,5302,Dalam Perbaikan,1,Risiko Sedang,Wheel Loader,Risiko Tinggi
+13,648,Rusak,4,Risiko Rendah,Bulldozer,Risiko Tinggi
+5,7396,Rusak,3,Risiko Tinggi,Forklift,Risiko Tinggi
+17,4657,Baik,8,Risiko Rendah,Excavator,Risiko Tinggi
+10,881,Dalam Perbaikan,6,Risiko Sedang,Backhoe Loader,Risiko Sedang
+12,5413,Dalam Perbaikan,9,Risiko Sedang,Crane,Risiko Tinggi
+18,4796,Baik,8,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+3,5419,Rusak,2,Risiko Rendah,Forklift,Risiko Tinggi
+25,682,Rusak,4,Risiko Sedang,Lainnya,Risiko Tinggi
+3,3727,Dalam Perbaikan,7,Risiko Tinggi,Compactor,Risiko Sedang
+16,7919,Baik,3,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+3,4948,Rusak,10,Risiko Rendah,Forklift,Risiko Sedang
+9,146,Baik,6,Risiko Rendah,Excavator,Risiko Rendah
+21,5372,Rusak,7,Risiko Tinggi,Forklift,Risiko Tinggi
+5,7911,Dalam Perbaikan,9,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+17,5066,Dalam Perbaikan,5,Risiko Tinggi,Forklift,Risiko Tinggi
+1,2479,Baik,2,Risiko Rendah,Excavator,Risiko Rendah
+20,916,Baik,3,Risiko Rendah,Motor Grader,Risiko Tinggi
+11,5313,Baik,10,Risiko Rendah,Forklift,Risiko Tinggi
+0,5128,Dalam Perbaikan,3,Risiko Rendah,Compactor,Risiko Tinggi
+2,3796,Baik,7,Risiko Sedang,Excavator,Risiko Rendah
+23,1360,Baik,7,Risiko Sedang,Wheel Loader,Risiko Tinggi
+26,7043,Rusak,9,Risiko Rendah,Motor Grader,Risiko Tinggi
+17,4664,Rusak,0,Risiko Sedang,Excavator,Risiko Tinggi
+23,5164,Dalam Perbaikan,6,Risiko Sedang,Wheel Loader,Risiko Tinggi
+3,4740,Dalam Perbaikan,8,Risiko Sedang,Excavator,Risiko Sedang
+11,3274,Rusak,8,Risiko Tinggi,Lainnya,Risiko Sedang
+5,7414,Rusak,3,Risiko Tinggi,Excavator,Risiko Tinggi
+10,155,Rusak,9,Risiko Sedang,Dump Truck,Risiko Sedang
+24,2194,Dalam Perbaikan,6,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+11,5101,Dalam Perbaikan,5,Risiko Sedang,Forklift,Risiko Tinggi
+26,1321,Rusak,3,Risiko Sedang,Crane,Risiko Tinggi
+12,1901,Dalam Perbaikan,3,Risiko Tinggi,Crane,Risiko Sedang
+7,6991,Dalam Perbaikan,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+17,5922,Dalam Perbaikan,6,Risiko Sedang,Crane,Risiko Tinggi
+1,3869,Baik,9,Risiko Rendah,Compactor,Risiko Rendah
+4,6137,Baik,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+21,1634,Baik,9,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+1,3407,Rusak,4,Risiko Rendah,Motor Grader,Risiko Sedang
+9,385,Baik,5,Risiko Sedang,Crane,Risiko Rendah
+5,1299,Baik,8,Risiko Rendah,Backhoe Loader,Risiko Rendah
+16,3527,Baik,9,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+9,1835,Rusak,4,Risiko Sedang,Crane,Risiko Sedang
+2,382,Dalam Perbaikan,4,Risiko Rendah,Dump Truck,Risiko Rendah
+7,5484,Baik,0,Risiko Sedang,Wheel Loader,Risiko Tinggi
+0,6191,Baik,1,Risiko Tinggi,Lainnya,Risiko Tinggi
+1,7031,Baik,8,Risiko Rendah,Dump Truck,Risiko Tinggi
+23,1368,Dalam Perbaikan,1,Risiko Rendah,Crane,Risiko Tinggi
+21,5966,Rusak,7,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+3,7131,Baik,2,Risiko Tinggi,Crane,Risiko Tinggi
+16,6710,Baik,1,Risiko Rendah,Wheel Loader,Risiko Tinggi
+13,6301,Baik,3,Risiko Sedang,Crane,Risiko Tinggi
+17,4137,Baik,1,Risiko Sedang,Crane,Risiko Tinggi
+4,6183,Rusak,5,Risiko Tinggi,Motor Grader,Risiko Tinggi
+22,6170,Dalam Perbaikan,6,Risiko Rendah,Bulldozer,Risiko Tinggi
+1,3512,Rusak,6,Risiko Sedang,Dump Truck,Risiko Sedang
+1,5588,Rusak,0,Risiko Sedang,Bulldozer,Risiko Tinggi
+2,81,Dalam Perbaikan,8,Risiko Rendah,Backhoe Loader,Risiko Rendah
+16,2578,Rusak,2,Risiko Sedang,Excavator,Risiko Tinggi
+14,6219,Baik,10,Risiko Tinggi,Bulldozer,Risiko Tinggi
+8,473,Dalam Perbaikan,10,Risiko Tinggi,Compactor,Risiko Sedang
+13,3293,Dalam Perbaikan,8,Risiko Sedang,Crane,Risiko Tinggi
+15,64,Rusak,8,Risiko Tinggi,Bulldozer,Risiko Tinggi
+4,3309,Rusak,10,Risiko Rendah,Dump Truck,Risiko Sedang
+7,6458,Dalam Perbaikan,10,Risiko Sedang,Crane,Risiko Tinggi
+1,6402,Dalam Perbaikan,6,Risiko Rendah,Compactor,Risiko Tinggi
+24,302,Dalam Perbaikan,5,Risiko Sedang,Bulldozer,Risiko Tinggi
+10,4430,Rusak,3,Risiko Rendah,Dump Truck,Risiko Sedang
+9,2557,Dalam Perbaikan,5,Risiko Tinggi,Bulldozer,Risiko Sedang
+26,228,Dalam Perbaikan,9,Risiko Sedang,Motor Grader,Risiko Tinggi
+0,6341,Rusak,6,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+3,491,Rusak,4,Risiko Tinggi,Dump Truck,Risiko Sedang
+15,1014,Baik,10,Risiko Rendah,Wheel Loader,Risiko Tinggi
+17,4689,Dalam Perbaikan,0,Risiko Sedang,Crane,Risiko Tinggi
+19,6597,Dalam Perbaikan,9,Risiko Tinggi,Dump Truck,Risiko Tinggi
+7,1915,Rusak,4,Risiko Sedang,Lainnya,Risiko Rendah
+5,1146,Dalam Perbaikan,6,Risiko Tinggi,Motor Grader,Risiko Rendah
+23,2685,Dalam Perbaikan,9,Risiko Rendah,Crane,Risiko Tinggi
+12,802,Baik,6,Risiko Sedang,Backhoe Loader,Risiko Rendah
+24,509,Rusak,2,Risiko Sedang,Motor Grader,Risiko Tinggi
+12,639,Rusak,10,Risiko Tinggi,Forklift,Risiko Sedang
+8,4579,Dalam Perbaikan,6,Risiko Sedang,Lainnya,Risiko Sedang
+11,5213,Rusak,7,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+3,7973,Rusak,2,Risiko Rendah,Dump Truck,Risiko Tinggi
+22,3971,Dalam Perbaikan,7,Risiko Rendah,Dump Truck,Risiko Tinggi
+10,967,Dalam Perbaikan,3,Risiko Sedang,Wheel Loader,Risiko Sedang
+25,6115,Baik,8,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+7,6982,Rusak,1,Risiko Rendah,Crane,Risiko Tinggi
+8,2372,Baik,8,Risiko Rendah,Backhoe Loader,Risiko Rendah
+15,2497,Rusak,4,Risiko Sedang,Wheel Loader,Risiko Tinggi
+26,6481,Baik,2,Risiko Tinggi,Forklift,Risiko Tinggi
+25,7674,Rusak,4,Risiko Rendah,Bulldozer,Risiko Tinggi
+0,6059,Rusak,0,Risiko Rendah,Dump Truck,Risiko Tinggi
+15,553,Baik,6,Risiko Sedang,Lainnya,Risiko Tinggi
+17,4634,Rusak,5,Risiko Sedang,Wheel Loader,Risiko Tinggi
+0,5898,Dalam Perbaikan,2,Risiko Rendah,Dump Truck,Risiko Tinggi
+6,3775,Rusak,10,Risiko Sedang,Bulldozer,Risiko Sedang
+3,2664,Baik,9,Risiko Tinggi,Lainnya,Risiko Rendah
+13,3172,Baik,6,Risiko Sedang,Dump Truck,Risiko Tinggi
+25,7848,Dalam Perbaikan,7,Risiko Tinggi,Compactor,Risiko Tinggi
+6,725,Baik,0,Risiko Tinggi,Compactor,Risiko Rendah
+9,5285,Baik,10,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+20,7824,Dalam Perbaikan,8,Risiko Tinggi,Excavator,Risiko Tinggi
+8,4274,Baik,7,Risiko Tinggi,Excavator,Risiko Sedang
+23,5392,Dalam Perbaikan,2,Risiko Rendah,Compactor,Risiko Tinggi
+1,1685,Baik,9,Risiko Sedang,Backhoe Loader,Risiko Rendah
+1,4370,Dalam Perbaikan,5,Risiko Sedang,Lainnya,Risiko Sedang
+25,4026,Baik,5,Risiko Sedang,Bulldozer,Risiko Tinggi
+13,197,Dalam Perbaikan,5,Risiko Sedang,Compactor,Risiko Tinggi
+24,939,Baik,8,Risiko Rendah,Compactor,Risiko Tinggi
+22,1496,Rusak,1,Risiko Rendah,Compactor,Risiko Tinggi
+13,5559,Baik,0,Risiko Tinggi,Crane,Risiko Tinggi
+21,222,Dalam Perbaikan,0,Risiko Sedang,Forklift,Risiko Tinggi
+23,2621,Baik,6,Risiko Sedang,Compactor,Risiko Tinggi
+14,7713,Baik,0,Risiko Rendah,Motor Grader,Risiko Tinggi
+2,4890,Dalam Perbaikan,3,Risiko Sedang,Dump Truck,Risiko Sedang
+2,4132,Rusak,1,Risiko Sedang,Excavator,Risiko Sedang
+16,3807,Dalam Perbaikan,6,Risiko Rendah,Wheel Loader,Risiko Tinggi
+26,3338,Dalam Perbaikan,3,Risiko Rendah,Compactor,Risiko Tinggi
+9,7892,Dalam Perbaikan,10,Risiko Rendah,Motor Grader,Risiko Tinggi
+2,4544,Dalam Perbaikan,2,Risiko Sedang,Lainnya,Risiko Rendah
+13,3653,Baik,10,Risiko Tinggi,Motor Grader,Risiko Tinggi
+1,7929,Baik,5,Risiko Tinggi,Bulldozer,Risiko Tinggi
+1,2008,Dalam Perbaikan,6,Risiko Tinggi,Wheel Loader,Risiko Rendah
+25,8,Rusak,9,Risiko Sedang,Bulldozer,Risiko Tinggi
+26,492,Rusak,4,Risiko Tinggi,Compactor,Risiko Tinggi
+0,5570,Rusak,5,Risiko Tinggi,Motor Grader,Risiko Tinggi
+8,6886,Dalam Perbaikan,4,Risiko Rendah,Bulldozer,Risiko Tinggi
+3,4375,Dalam Perbaikan,1,Risiko Sedang,Backhoe Loader,Risiko Rendah
+14,5721,Baik,2,Risiko Tinggi,Dump Truck,Risiko Tinggi
+18,7194,Rusak,3,Risiko Tinggi,Dump Truck,Risiko Tinggi
+1,2607,Dalam Perbaikan,5,Risiko Tinggi,Compactor,Risiko Rendah
+2,5797,Rusak,4,Risiko Rendah,Crane,Risiko Tinggi
+16,1725,Rusak,9,Risiko Sedang,Excavator,Risiko Tinggi
+4,1095,Dalam Perbaikan,0,Risiko Tinggi,Wheel Loader,Risiko Rendah
+26,7384,Baik,10,Risiko Rendah,Forklift,Risiko Tinggi
+9,7334,Dalam Perbaikan,7,Risiko Sedang,Dump Truck,Risiko Tinggi
+24,6449,Dalam Perbaikan,10,Risiko Rendah,Dump Truck,Risiko Tinggi
+26,7311,Dalam Perbaikan,7,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+15,7962,Rusak,9,Risiko Sedang,Forklift,Risiko Tinggi
+21,6874,Dalam Perbaikan,0,Risiko Rendah,Wheel Loader,Risiko Tinggi
+15,7669,Baik,7,Risiko Rendah,Motor Grader,Risiko Tinggi
+3,162,Rusak,10,Risiko Tinggi,Crane,Risiko Sedang
+20,737,Dalam Perbaikan,10,Risiko Sedang,Motor Grader,Risiko Tinggi
+19,4045,Rusak,0,Risiko Sedang,Wheel Loader,Risiko Tinggi
+4,5791,Dalam Perbaikan,3,Risiko Rendah,Motor Grader,Risiko Tinggi
+0,5230,Rusak,1,Risiko Sedang,Lainnya,Risiko Tinggi
+10,4046,Baik,8,Risiko Rendah,Lainnya,Risiko Sedang
+5,5590,Dalam Perbaikan,9,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+8,1050,Dalam Perbaikan,1,Risiko Rendah,Compactor,Risiko Rendah
+8,7008,Baik,8,Risiko Tinggi,Compactor,Risiko Tinggi
+20,6944,Dalam Perbaikan,0,Risiko Tinggi,Dump Truck,Risiko Tinggi
+7,2071,Dalam Perbaikan,8,Risiko Sedang,Excavator,Risiko Rendah
+13,5250,Dalam Perbaikan,10,Risiko Rendah,Crane,Risiko Tinggi
+13,6916,Rusak,4,Risiko Rendah,Dump Truck,Risiko Tinggi
+12,4059,Rusak,8,Risiko Rendah,Motor Grader,Risiko Sedang
+25,2276,Rusak,8,Risiko Sedang,Crane,Risiko Tinggi
+26,3210,Baik,5,Risiko Rendah,Lainnya,Risiko Tinggi
+1,207,Dalam Perbaikan,3,Risiko Tinggi,Forklift,Risiko Rendah
+24,7512,Baik,3,Risiko Rendah,Crane,Risiko Tinggi
+17,514,Dalam Perbaikan,10,Risiko Rendah,Excavator,Risiko Tinggi
+11,3538,Baik,9,Risiko Tinggi,Crane,Risiko Sedang
+0,2051,Baik,1,Risiko Sedang,Motor Grader,Risiko Rendah
+16,6819,Baik,5,Risiko Tinggi,Motor Grader,Risiko Tinggi
+24,6354,Dalam Perbaikan,9,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+6,3657,Dalam Perbaikan,1,Risiko Rendah,Excavator,Risiko Rendah
+25,3091,Rusak,1,Risiko Rendah,Excavator,Risiko Tinggi
+1,3620,Baik,4,Risiko Tinggi,Forklift,Risiko Rendah
+24,834,Dalam Perbaikan,0,Risiko Tinggi,Excavator,Risiko Tinggi
+17,6962,Rusak,6,Risiko Rendah,Lainnya,Risiko Tinggi
+2,3367,Baik,9,Risiko Tinggi,Lainnya,Risiko Sedang
+26,3714,Rusak,7,Risiko Sedang,Lainnya,Risiko Tinggi
+7,829,Rusak,10,Risiko Tinggi,Excavator,Risiko Sedang
+12,4237,Rusak,9,Risiko Rendah,Backhoe Loader,Risiko Sedang
+23,100,Dalam Perbaikan,1,Risiko Tinggi,Motor Grader,Risiko Tinggi
+8,1032,Dalam Perbaikan,8,Risiko Sedang,Crane,Risiko Sedang
+13,3943,Dalam Perbaikan,9,Risiko Sedang,Bulldozer,Risiko Tinggi
+19,1127,Baik,0,Risiko Rendah,Compactor,Risiko Tinggi
+8,3570,Dalam Perbaikan,10,Risiko Sedang,Compactor,Risiko Sedang
+8,7251,Dalam Perbaikan,2,Risiko Rendah,Wheel Loader,Risiko Tinggi
+17,4942,Rusak,4,Risiko Sedang,Excavator,Risiko Tinggi
+10,4804,Dalam Perbaikan,10,Risiko Rendah,Excavator,Risiko Sedang
+19,4154,Dalam Perbaikan,0,Risiko Sedang,Crane,Risiko Tinggi
+20,7999,Baik,10,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+16,1551,Dalam Perbaikan,7,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+7,5672,Rusak,9,Risiko Tinggi,Crane,Risiko Tinggi
+7,2454,Rusak,5,Risiko Rendah,Backhoe Loader,Risiko Rendah
+12,7177,Baik,7,Risiko Rendah,Excavator,Risiko Tinggi
+6,1827,Dalam Perbaikan,3,Risiko Sedang,Lainnya,Risiko Rendah
+20,1958,Rusak,5,Risiko Tinggi,Forklift,Risiko Tinggi
+20,3279,Baik,0,Risiko Sedang,Excavator,Risiko Tinggi
+24,2931,Baik,8,Risiko Rendah,Bulldozer,Risiko Tinggi
+17,3607,Baik,10,Risiko Tinggi,Crane,Risiko Tinggi
+25,7989,Baik,3,Risiko Rendah,Compactor,Risiko Tinggi
+21,1793,Rusak,2,Risiko Sedang,Dump Truck,Risiko Tinggi
+19,1462,Baik,0,Risiko Rendah,Compactor,Risiko Tinggi
+23,171,Dalam Perbaikan,2,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+16,7668,Baik,4,Risiko Sedang,Motor Grader,Risiko Tinggi
+15,6631,Rusak,10,Risiko Rendah,Dump Truck,Risiko Tinggi
+1,5105,Rusak,1,Risiko Rendah,Bulldozer,Risiko Tinggi
+22,6511,Baik,3,Risiko Tinggi,Forklift,Risiko Tinggi
+4,3065,Rusak,9,Risiko Sedang,Motor Grader,Risiko Sedang
+25,6251,Dalam Perbaikan,9,Risiko Rendah,Dump Truck,Risiko Tinggi
+17,6468,Baik,5,Risiko Rendah,Excavator,Risiko Tinggi
+6,6517,Rusak,2,Risiko Tinggi,Lainnya,Risiko Tinggi
+11,1714,Dalam Perbaikan,1,Risiko Sedang,Lainnya,Risiko Rendah
+24,1371,Dalam Perbaikan,6,Risiko Tinggi,Dump Truck,Risiko Tinggi
+15,4084,Dalam Perbaikan,7,Risiko Rendah,Crane,Risiko Tinggi
+4,3062,Dalam Perbaikan,7,Risiko Tinggi,Wheel Loader,Risiko Sedang
+11,2198,Dalam Perbaikan,6,Risiko Tinggi,Lainnya,Risiko Sedang
+6,299,Baik,3,Risiko Rendah,Wheel Loader,Risiko Rendah
+19,3243,Baik,4,Risiko Sedang,Forklift,Risiko Tinggi
+8,1287,Rusak,4,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+22,6157,Baik,4,Risiko Sedang,Dump Truck,Risiko Tinggi
+15,1885,Dalam Perbaikan,0,Risiko Sedang,Dump Truck,Risiko Tinggi
+7,2755,Rusak,7,Risiko Sedang,Forklift,Risiko Sedang
+13,3010,Rusak,5,Risiko Sedang,Forklift,Risiko Tinggi
+26,1471,Rusak,3,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+15,7384,Baik,4,Risiko Tinggi,Dump Truck,Risiko Tinggi
+9,5272,Baik,4,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+23,584,Rusak,0,Risiko Tinggi,Motor Grader,Risiko Tinggi
+16,1610,Dalam Perbaikan,5,Risiko Sedang,Compactor,Risiko Tinggi
+3,6681,Dalam Perbaikan,4,Risiko Rendah,Lainnya,Risiko Tinggi
+22,7004,Dalam Perbaikan,8,Risiko Sedang,Excavator,Risiko Tinggi
+2,2453,Rusak,5,Risiko Sedang,Forklift,Risiko Rendah
+0,4750,Dalam Perbaikan,0,Risiko Sedang,Dump Truck,Risiko Rendah
+2,7794,Baik,6,Risiko Rendah,Motor Grader,Risiko Tinggi
+3,6136,Baik,7,Risiko Rendah,Dump Truck,Risiko Tinggi
+8,6438,Dalam Perbaikan,7,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+16,6487,Baik,5,Risiko Rendah,Forklift,Risiko Tinggi
+2,7716,Dalam Perbaikan,6,Risiko Rendah,Wheel Loader,Risiko Tinggi
+12,6987,Dalam Perbaikan,0,Risiko Sedang,Bulldozer,Risiko Tinggi
+8,7157,Baik,4,Risiko Tinggi,Excavator,Risiko Tinggi
+11,6638,Dalam Perbaikan,5,Risiko Sedang,Motor Grader,Risiko Tinggi
+13,3487,Dalam Perbaikan,6,Risiko Tinggi,Dump Truck,Risiko Tinggi
+17,2671,Dalam Perbaikan,0,Risiko Tinggi,Excavator,Risiko Tinggi
+22,1259,Rusak,9,Risiko Tinggi,Lainnya,Risiko Tinggi
+7,4701,Rusak,6,Risiko Rendah,Forklift,Risiko Sedang
+24,4378,Rusak,3,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+16,4665,Rusak,10,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+21,854,Dalam Perbaikan,8,Risiko Rendah,Excavator,Risiko Tinggi
+0,5644,Dalam Perbaikan,7,Risiko Rendah,Bulldozer,Risiko Tinggi
+20,569,Rusak,4,Risiko Rendah,Motor Grader,Risiko Tinggi
+17,5403,Dalam Perbaikan,1,Risiko Sedang,Excavator,Risiko Tinggi
+15,4247,Baik,2,Risiko Sedang,Forklift,Risiko Tinggi
+14,1286,Baik,2,Risiko Tinggi,Forklift,Risiko Tinggi
+11,6087,Baik,6,Risiko Rendah,Bulldozer,Risiko Tinggi
+20,2537,Rusak,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+7,4711,Rusak,9,Risiko Rendah,Dump Truck,Risiko Sedang
+4,5610,Rusak,4,Risiko Rendah,Excavator,Risiko Tinggi
+22,3651,Baik,6,Risiko Tinggi,Motor Grader,Risiko Tinggi
+10,2694,Dalam Perbaikan,7,Risiko Sedang,Wheel Loader,Risiko Sedang
+8,320,Dalam Perbaikan,1,Risiko Sedang,Wheel Loader,Risiko Rendah
+15,5736,Dalam Perbaikan,4,Risiko Sedang,Lainnya,Risiko Tinggi
+0,6635,Baik,6,Risiko Rendah,Bulldozer,Risiko Tinggi
+7,6006,Rusak,7,Risiko Sedang,Bulldozer,Risiko Tinggi
+4,4658,Baik,6,Risiko Tinggi,Excavator,Risiko Rendah
+19,7254,Baik,4,Risiko Tinggi,Dump Truck,Risiko Tinggi
+17,5461,Baik,3,Risiko Sedang,Forklift,Risiko Tinggi
+2,4528,Baik,5,Risiko Rendah,Backhoe Loader,Risiko Rendah
+10,6279,Rusak,6,Risiko Sedang,Bulldozer,Risiko Tinggi
+18,1698,Dalam Perbaikan,0,Risiko Sedang,Excavator,Risiko Tinggi
+24,5233,Dalam Perbaikan,10,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+14,2815,Dalam Perbaikan,6,Risiko Rendah,Forklift,Risiko Tinggi
+25,87,Rusak,1,Risiko Tinggi,Bulldozer,Risiko Tinggi
+16,5491,Dalam Perbaikan,7,Risiko Sedang,Wheel Loader,Risiko Tinggi
+24,676,Dalam Perbaikan,10,Risiko Rendah,Wheel Loader,Risiko Tinggi
+22,3856,Rusak,2,Risiko Rendah,Excavator,Risiko Tinggi
+7,823,Baik,4,Risiko Rendah,Dump Truck,Risiko Rendah
+3,3201,Baik,1,Risiko Tinggi,Excavator,Risiko Rendah
+5,2238,Baik,7,Risiko Sedang,Bulldozer,Risiko Rendah
+20,5852,Baik,10,Risiko Tinggi,Motor Grader,Risiko Tinggi
+12,5707,Baik,10,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+14,5655,Rusak,7,Risiko Rendah,Lainnya,Risiko Tinggi
+26,398,Rusak,3,Risiko Rendah,Crane,Risiko Tinggi
+19,1638,Baik,0,Risiko Sedang,Excavator,Risiko Tinggi
+26,2761,Baik,10,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+19,7854,Baik,10,Risiko Rendah,Bulldozer,Risiko Tinggi
+25,3405,Dalam Perbaikan,1,Risiko Sedang,Crane,Risiko Tinggi
+9,5134,Baik,9,Risiko Rendah,Dump Truck,Risiko Tinggi
+14,7691,Rusak,1,Risiko Rendah,Motor Grader,Risiko Tinggi
+23,2921,Rusak,2,Risiko Rendah,Forklift,Risiko Tinggi
+6,2590,Baik,6,Risiko Rendah,Wheel Loader,Risiko Rendah
+19,540,Dalam Perbaikan,4,Risiko Tinggi,Lainnya,Risiko Tinggi
+15,359,Baik,3,Risiko Sedang,Compactor,Risiko Tinggi
+2,4905,Rusak,1,Risiko Tinggi,Dump Truck,Risiko Sedang
+1,7554,Dalam Perbaikan,2,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+7,2657,Dalam Perbaikan,6,Risiko Tinggi,Bulldozer,Risiko Rendah
+16,1436,Dalam Perbaikan,5,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+24,2745,Baik,9,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+14,4186,Dalam Perbaikan,3,Risiko Tinggi,Lainnya,Risiko Tinggi
+4,108,Baik,0,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+17,1936,Dalam Perbaikan,6,Risiko Rendah,Lainnya,Risiko Tinggi
+24,490,Baik,5,Risiko Sedang,Compactor,Risiko Tinggi
+20,1242,Rusak,3,Risiko Tinggi,Excavator,Risiko Tinggi
+19,7564,Dalam Perbaikan,9,Risiko Sedang,Crane,Risiko Tinggi
+22,2278,Rusak,10,Risiko Rendah,Dump Truck,Risiko Tinggi
+1,3398,Dalam Perbaikan,4,Risiko Rendah,Motor Grader,Risiko Rendah
+3,2713,Rusak,3,Risiko Rendah,Dump Truck,Risiko Rendah
+25,7427,Dalam Perbaikan,3,Risiko Tinggi,Motor Grader,Risiko Tinggi
+7,7149,Rusak,8,Risiko Sedang,Bulldozer,Risiko Tinggi
+12,5159,Baik,1,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+20,426,Dalam Perbaikan,2,Risiko Rendah,Bulldozer,Risiko Tinggi
+24,1422,Dalam Perbaikan,8,Risiko Rendah,Motor Grader,Risiko Tinggi
+10,640,Rusak,7,Risiko Sedang,Bulldozer,Risiko Sedang
+3,1618,Baik,6,Risiko Rendah,Lainnya,Risiko Rendah
+19,2483,Rusak,9,Risiko Sedang,Motor Grader,Risiko Tinggi
+18,7064,Rusak,1,Risiko Sedang,Forklift,Risiko Tinggi
+14,1374,Rusak,7,Risiko Sedang,Dump Truck,Risiko Tinggi
+7,6020,Rusak,2,Risiko Sedang,Excavator,Risiko Tinggi
+2,3124,Rusak,1,Risiko Sedang,Lainnya,Risiko Sedang
+9,1251,Dalam Perbaikan,2,Risiko Sedang,Forklift,Risiko Rendah
+12,2505,Rusak,4,Risiko Sedang,Dump Truck,Risiko Sedang
+7,3939,Baik,5,Risiko Rendah,Wheel Loader,Risiko Rendah
+20,1267,Baik,0,Risiko Rendah,Dump Truck,Risiko Tinggi
+3,5942,Rusak,7,Risiko Sedang,Forklift,Risiko Tinggi
+14,7950,Dalam Perbaikan,5,Risiko Sedang,Wheel Loader,Risiko Tinggi
+17,5251,Dalam Perbaikan,1,Risiko Sedang,Excavator,Risiko Tinggi
+23,3152,Dalam Perbaikan,2,Risiko Rendah,Forklift,Risiko Tinggi
+18,6318,Dalam Perbaikan,5,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+6,5640,Rusak,0,Risiko Tinggi,Forklift,Risiko Tinggi
+13,6026,Baik,3,Risiko Sedang,Excavator,Risiko Tinggi
+0,2960,Dalam Perbaikan,10,Risiko Rendah,Bulldozer,Risiko Rendah
+18,4959,Rusak,10,Risiko Rendah,Compactor,Risiko Tinggi
+19,4932,Dalam Perbaikan,10,Risiko Rendah,Excavator,Risiko Tinggi
+23,6315,Baik,10,Risiko Tinggi,Forklift,Risiko Tinggi
+14,5784,Dalam Perbaikan,1,Risiko Tinggi,Motor Grader,Risiko Tinggi
+13,1358,Rusak,4,Risiko Tinggi,Compactor,Risiko Tinggi
+10,7927,Dalam Perbaikan,10,Risiko Sedang,Lainnya,Risiko Tinggi
+17,6012,Rusak,1,Risiko Rendah,Lainnya,Risiko Tinggi
+2,6533,Rusak,2,Risiko Sedang,Motor Grader,Risiko Tinggi
+3,3260,Dalam Perbaikan,4,Risiko Rendah,Bulldozer,Risiko Sedang
+0,4028,Baik,1,Risiko Rendah,Forklift,Risiko Rendah
+10,3414,Dalam Perbaikan,4,Risiko Tinggi,Forklift,Risiko Sedang
+21,1445,Rusak,2,Risiko Tinggi,Bulldozer,Risiko Tinggi
+20,3985,Baik,8,Risiko Rendah,Wheel Loader,Risiko Tinggi
+8,6671,Baik,2,Risiko Rendah,Excavator,Risiko Tinggi
+3,1496,Baik,4,Risiko Sedang,Wheel Loader,Risiko Rendah
+6,7479,Dalam Perbaikan,1,Risiko Tinggi,Bulldozer,Risiko Tinggi
+24,2401,Baik,6,Risiko Rendah,Compactor,Risiko Tinggi
+24,2802,Baik,9,Risiko Rendah,Wheel Loader,Risiko Tinggi
+11,5511,Baik,0,Risiko Rendah,Compactor,Risiko Tinggi
+2,7825,Baik,10,Risiko Tinggi,Excavator,Risiko Tinggi
+23,1729,Dalam Perbaikan,0,Risiko Sedang,Lainnya,Risiko Tinggi
+10,7881,Rusak,7,Risiko Sedang,Crane,Risiko Tinggi
+7,3518,Rusak,5,Risiko Tinggi,Crane,Risiko Sedang
+16,6691,Baik,5,Risiko Tinggi,Forklift,Risiko Tinggi
+14,5003,Baik,5,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+26,3743,Dalam Perbaikan,6,Risiko Tinggi,Bulldozer,Risiko Tinggi
+26,4930,Baik,8,Risiko Sedang,Motor Grader,Risiko Tinggi
+15,3702,Dalam Perbaikan,10,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+10,3384,Dalam Perbaikan,3,Risiko Rendah,Crane,Risiko Sedang
+26,5191,Rusak,0,Risiko Tinggi,Crane,Risiko Tinggi
+5,3639,Baik,9,Risiko Sedang,Forklift,Risiko Rendah
+3,5018,Baik,5,Risiko Sedang,Wheel Loader,Risiko Tinggi
+5,7021,Dalam Perbaikan,1,Risiko Tinggi,Forklift,Risiko Tinggi
+17,4973,Baik,2,Risiko Tinggi,Lainnya,Risiko Tinggi
+1,7018,Dalam Perbaikan,8,Risiko Rendah,Bulldozer,Risiko Tinggi
+11,6527,Baik,4,Risiko Tinggi,Dump Truck,Risiko Tinggi
+12,1376,Rusak,1,Risiko Sedang,Dump Truck,Risiko Sedang
+19,1993,Baik,2,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+23,3562,Dalam Perbaikan,0,Risiko Rendah,Crane,Risiko Tinggi
+14,6277,Rusak,3,Risiko Tinggi,Compactor,Risiko Tinggi
+5,3901,Dalam Perbaikan,1,Risiko Tinggi,Bulldozer,Risiko Sedang
+9,5190,Dalam Perbaikan,7,Risiko Rendah,Crane,Risiko Tinggi
+19,7633,Dalam Perbaikan,9,Risiko Rendah,Crane,Risiko Tinggi
+14,7456,Dalam Perbaikan,6,Risiko Tinggi,Dump Truck,Risiko Tinggi
+13,6622,Baik,3,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+17,718,Baik,1,Risiko Sedang,Lainnya,Risiko Tinggi
+20,6099,Baik,9,Risiko Sedang,Bulldozer,Risiko Tinggi
+16,7815,Rusak,9,Risiko Tinggi,Excavator,Risiko Tinggi
+17,506,Dalam Perbaikan,8,Risiko Rendah,Forklift,Risiko Tinggi
+13,2618,Rusak,10,Risiko Rendah,Dump Truck,Risiko Tinggi
+5,4928,Dalam Perbaikan,3,Risiko Rendah,Forklift,Risiko Rendah
+26,4409,Rusak,5,Risiko Rendah,Compactor,Risiko Tinggi
+0,1793,Rusak,10,Risiko Sedang,Bulldozer,Risiko Sedang
+7,2321,Baik,10,Risiko Tinggi,Excavator,Risiko Rendah
+7,2622,Rusak,8,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+18,6944,Dalam Perbaikan,9,Risiko Sedang,Motor Grader,Risiko Tinggi
+11,2387,Dalam Perbaikan,6,Risiko Rendah,Crane,Risiko Sedang
+22,6782,Dalam Perbaikan,3,Risiko Tinggi,Motor Grader,Risiko Tinggi
+4,6027,Baik,2,Risiko Sedang,Forklift,Risiko Tinggi
+17,6676,Dalam Perbaikan,2,Risiko Rendah,Dump Truck,Risiko Tinggi
+14,2764,Rusak,10,Risiko Sedang,Crane,Risiko Tinggi
+2,3206,Rusak,1,Risiko Tinggi,Compactor,Risiko Sedang
+17,5704,Baik,8,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+22,2649,Dalam Perbaikan,0,Risiko Tinggi,Compactor,Risiko Tinggi
+12,5362,Baik,9,Risiko Rendah,Wheel Loader,Risiko Tinggi
+4,3952,Rusak,2,Risiko Rendah,Motor Grader,Risiko Rendah
+1,6130,Baik,10,Risiko Rendah,Crane,Risiko Tinggi
+3,7013,Dalam Perbaikan,1,Risiko Tinggi,Bulldozer,Risiko Tinggi
+14,7785,Rusak,10,Risiko Rendah,Excavator,Risiko Tinggi
+23,2912,Rusak,2,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+10,5325,Rusak,9,Risiko Sedang,Bulldozer,Risiko Tinggi
+6,5919,Rusak,3,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+19,3249,Rusak,4,Risiko Tinggi,Lainnya,Risiko Tinggi
+21,5347,Dalam Perbaikan,6,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+2,3798,Dalam Perbaikan,6,Risiko Sedang,Wheel Loader,Risiko Sedang
+15,95,Baik,1,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+11,5254,Dalam Perbaikan,8,Risiko Rendah,Excavator,Risiko Tinggi
+8,4693,Dalam Perbaikan,7,Risiko Sedang,Backhoe Loader,Risiko Sedang
+1,4856,Baik,6,Risiko Sedang,Forklift,Risiko Rendah
+17,4681,Baik,1,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+4,7445,Dalam Perbaikan,2,Risiko Sedang,Excavator,Risiko Tinggi
+14,4555,Dalam Perbaikan,8,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+10,6857,Dalam Perbaikan,8,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+2,6168,Baik,10,Risiko Rendah,Bulldozer,Risiko Tinggi
+7,5695,Baik,0,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+1,2574,Baik,0,Risiko Rendah,Lainnya,Risiko Rendah
+20,5346,Baik,1,Risiko Tinggi,Compactor,Risiko Tinggi
+2,286,Baik,1,Risiko Tinggi,Compactor,Risiko Rendah
+15,7915,Dalam Perbaikan,2,Risiko Sedang,Excavator,Risiko Tinggi
+19,2462,Baik,8,Risiko Sedang,Dump Truck,Risiko Tinggi
+12,1145,Dalam Perbaikan,7,Risiko Tinggi,Crane,Risiko Sedang
+10,7461,Rusak,9,Risiko Tinggi,Dump Truck,Risiko Tinggi
+20,5635,Baik,10,Risiko Rendah,Motor Grader,Risiko Tinggi
+25,1540,Baik,4,Risiko Rendah,Bulldozer,Risiko Tinggi
+7,4522,Baik,9,Risiko Sedang,Compactor,Risiko Rendah
+22,5972,Dalam Perbaikan,6,Risiko Rendah,Dump Truck,Risiko Tinggi
+18,2135,Rusak,10,Risiko Rendah,Forklift,Risiko Tinggi
+12,682,Rusak,10,Risiko Sedang,Bulldozer,Risiko Sedang
+9,1669,Baik,10,Risiko Tinggi,Compactor,Risiko Sedang
+6,5708,Dalam Perbaikan,3,Risiko Tinggi,Crane,Risiko Tinggi
+8,5384,Dalam Perbaikan,8,Risiko Tinggi,Bulldozer,Risiko Tinggi
+13,6730,Baik,5,Risiko Sedang,Forklift,Risiko Tinggi
+26,7897,Dalam Perbaikan,3,Risiko Rendah,Compactor,Risiko Tinggi
+23,4353,Baik,10,Risiko Tinggi,Forklift,Risiko Tinggi
+24,2698,Dalam Perbaikan,1,Risiko Sedang,Crane,Risiko Tinggi
+2,2238,Baik,3,Risiko Sedang,Excavator,Risiko Rendah
+23,3089,Baik,6,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+21,4312,Dalam Perbaikan,4,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+23,4333,Rusak,9,Risiko Sedang,Dump Truck,Risiko Tinggi
+18,4976,Baik,0,Risiko Rendah,Crane,Risiko Tinggi
+2,3191,Baik,5,Risiko Tinggi,Dump Truck,Risiko Rendah
+9,4871,Rusak,7,Risiko Tinggi,Bulldozer,Risiko Tinggi
+18,77,Dalam Perbaikan,8,Risiko Tinggi,Bulldozer,Risiko Tinggi
+5,1035,Baik,6,Risiko Tinggi,Compactor,Risiko Rendah
+25,7523,Dalam Perbaikan,10,Risiko Sedang,Motor Grader,Risiko Tinggi
+5,4986,Rusak,7,Risiko Rendah,Wheel Loader,Risiko Sedang
+15,6541,Rusak,8,Risiko Sedang,Compactor,Risiko Tinggi
+13,4264,Dalam Perbaikan,3,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+17,3330,Rusak,1,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+24,5979,Baik,1,Risiko Rendah,Lainnya,Risiko Tinggi
+25,692,Dalam Perbaikan,4,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+1,7162,Baik,6,Risiko Tinggi,Dump Truck,Risiko Tinggi
+3,1117,Rusak,7,Risiko Tinggi,Dump Truck,Risiko Sedang
+4,1021,Rusak,0,Risiko Tinggi,Motor Grader,Risiko Rendah
+0,6110,Baik,6,Risiko Tinggi,Dump Truck,Risiko Tinggi
+3,2826,Baik,10,Risiko Tinggi,Lainnya,Risiko Rendah
+25,4975,Rusak,2,Risiko Tinggi,Dump Truck,Risiko Tinggi
+19,1432,Baik,5,Risiko Rendah,Dump Truck,Risiko Tinggi
+15,7802,Baik,6,Risiko Sedang,Forklift,Risiko Tinggi
+21,3057,Baik,5,Risiko Tinggi,Motor Grader,Risiko Tinggi
+0,4416,Baik,4,Risiko Sedang,Wheel Loader,Risiko Rendah
+17,2168,Baik,0,Risiko Tinggi,Lainnya,Risiko Tinggi
+14,1781,Rusak,10,Risiko Tinggi,Excavator,Risiko Tinggi
+12,7311,Dalam Perbaikan,7,Risiko Rendah,Crane,Risiko Tinggi
+26,5042,Rusak,5,Risiko Sedang,Crane,Risiko Tinggi
+23,42,Rusak,2,Risiko Sedang,Crane,Risiko Tinggi
+26,830,Rusak,7,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+10,4213,Baik,6,Risiko Rendah,Wheel Loader,Risiko Sedang
+26,1274,Dalam Perbaikan,4,Risiko Rendah,Wheel Loader,Risiko Tinggi
+14,3066,Rusak,5,Risiko Sedang,Bulldozer,Risiko Tinggi
+9,6648,Rusak,1,Risiko Sedang,Wheel Loader,Risiko Tinggi
+21,1145,Rusak,6,Risiko Rendah,Crane,Risiko Tinggi
+4,1625,Baik,3,Risiko Sedang,Excavator,Risiko Rendah
+22,3232,Rusak,5,Risiko Rendah,Bulldozer,Risiko Tinggi
+5,1630,Rusak,10,Risiko Sedang,Backhoe Loader,Risiko Sedang
+13,4006,Dalam Perbaikan,7,Risiko Tinggi,Bulldozer,Risiko Tinggi
+16,6152,Rusak,8,Risiko Tinggi,Forklift,Risiko Tinggi
+22,898,Baik,0,Risiko Rendah,Bulldozer,Risiko Tinggi
+15,4096,Baik,10,Risiko Rendah,Excavator,Risiko Tinggi
+5,6798,Rusak,6,Risiko Tinggi,Excavator,Risiko Tinggi
+13,3933,Rusak,4,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+2,3513,Baik,9,Risiko Rendah,Dump Truck,Risiko Rendah
+21,2043,Rusak,1,Risiko Sedang,Motor Grader,Risiko Tinggi
+5,6722,Rusak,3,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+4,5983,Dalam Perbaikan,9,Risiko Rendah,Motor Grader,Risiko Tinggi
+8,5152,Dalam Perbaikan,2,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+22,3287,Baik,4,Risiko Rendah,Bulldozer,Risiko Tinggi
+13,144,Dalam Perbaikan,3,Risiko Rendah,Excavator,Risiko Tinggi
+14,3336,Dalam Perbaikan,4,Risiko Tinggi,Motor Grader,Risiko Tinggi
+19,2753,Rusak,7,Risiko Rendah,Dump Truck,Risiko Tinggi
+13,5274,Baik,4,Risiko Rendah,Compactor,Risiko Tinggi
+15,2298,Rusak,6,Risiko Rendah,Crane,Risiko Tinggi
+25,1488,Baik,0,Risiko Rendah,Crane,Risiko Tinggi
+20,2337,Rusak,4,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+13,1514,Rusak,7,Risiko Sedang,Crane,Risiko Tinggi
+17,913,Baik,10,Risiko Rendah,Dump Truck,Risiko Tinggi
+2,7061,Baik,5,Risiko Sedang,Crane,Risiko Tinggi
+3,6379,Dalam Perbaikan,8,Risiko Tinggi,Crane,Risiko Tinggi
+19,5326,Rusak,3,Risiko Tinggi,Forklift,Risiko Tinggi
+24,7267,Baik,2,Risiko Tinggi,Lainnya,Risiko Tinggi
+23,336,Dalam Perbaikan,10,Risiko Rendah,Motor Grader,Risiko Tinggi
+4,3651,Baik,1,Risiko Tinggi,Lainnya,Risiko Rendah
+16,2469,Dalam Perbaikan,7,Risiko Rendah,Dump Truck,Risiko Tinggi
+3,1258,Baik,2,Risiko Rendah,Forklift,Risiko Rendah
+9,5829,Rusak,8,Risiko Sedang,Crane,Risiko Tinggi
+12,5159,Dalam Perbaikan,1,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+11,3432,Dalam Perbaikan,8,Risiko Rendah,Bulldozer,Risiko Sedang
+7,2245,Dalam Perbaikan,2,Risiko Sedang,Excavator,Risiko Rendah
+8,498,Dalam Perbaikan,3,Risiko Tinggi,Forklift,Risiko Sedang
+11,5609,Dalam Perbaikan,8,Risiko Rendah,Bulldozer,Risiko Tinggi
+12,6149,Dalam Perbaikan,6,Risiko Tinggi,Forklift,Risiko Tinggi
+14,4974,Rusak,3,Risiko Rendah,Excavator,Risiko Tinggi
+21,4684,Baik,9,Risiko Tinggi,Excavator,Risiko Tinggi
+1,4200,Rusak,8,Risiko Tinggi,Dump Truck,Risiko Sedang
+18,2485,Baik,4,Risiko Tinggi,Compactor,Risiko Tinggi
+9,975,Baik,3,Risiko Rendah,Dump Truck,Risiko Rendah
+19,2390,Baik,10,Risiko Rendah,Compactor,Risiko Tinggi
+22,2215,Baik,10,Risiko Rendah,Motor Grader,Risiko Tinggi
+9,951,Baik,10,Risiko Sedang,Lainnya,Risiko Rendah
+15,2658,Baik,8,Risiko Sedang,Bulldozer,Risiko Tinggi
+13,7359,Dalam Perbaikan,4,Risiko Sedang,Excavator,Risiko Tinggi
+6,6684,Baik,5,Risiko Rendah,Compactor,Risiko Tinggi
+21,2097,Baik,8,Risiko Tinggi,Lainnya,Risiko Tinggi
+23,5919,Dalam Perbaikan,6,Risiko Tinggi,Compactor,Risiko Tinggi
+6,5196,Dalam Perbaikan,8,Risiko Rendah,Wheel Loader,Risiko Tinggi
+19,2656,Rusak,3,Risiko Tinggi,Forklift,Risiko Tinggi
+22,3654,Baik,6,Risiko Sedang,Bulldozer,Risiko Tinggi
+11,767,Rusak,2,Risiko Sedang,Bulldozer,Risiko Sedang
+0,7064,Baik,3,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+3,1477,Dalam Perbaikan,4,Risiko Rendah,Compactor,Risiko Rendah
+21,7251,Baik,6,Risiko Tinggi,Lainnya,Risiko Tinggi
+20,568,Baik,1,Risiko Sedang,Motor Grader,Risiko Tinggi
+12,7447,Dalam Perbaikan,6,Risiko Rendah,Dump Truck,Risiko Tinggi
+22,5953,Baik,9,Risiko Rendah,Forklift,Risiko Tinggi
+14,169,Baik,0,Risiko Tinggi,Excavator,Risiko Tinggi
+22,2034,Baik,4,Risiko Rendah,Lainnya,Risiko Tinggi
+26,6491,Baik,1,Risiko Tinggi,Crane,Risiko Tinggi
+4,696,Baik,2,Risiko Sedang,Lainnya,Risiko Rendah
+12,6680,Baik,4,Risiko Sedang,Wheel Loader,Risiko Tinggi
+22,1997,Baik,8,Risiko Tinggi,Compactor,Risiko Tinggi
+6,4453,Baik,0,Risiko Rendah,Backhoe Loader,Risiko Rendah
+9,2430,Baik,8,Risiko Sedang,Bulldozer,Risiko Sedang
+26,7472,Baik,0,Risiko Rendah,Forklift,Risiko Tinggi
+14,1207,Rusak,10,Risiko Sedang,Motor Grader,Risiko Tinggi
+5,3151,Dalam Perbaikan,1,Risiko Sedang,Bulldozer,Risiko Rendah
+23,1839,Baik,4,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+7,2733,Baik,5,Risiko Rendah,Excavator,Risiko Rendah
+7,1237,Baik,6,Risiko Tinggi,Crane,Risiko Rendah
+7,1485,Dalam Perbaikan,6,Risiko Rendah,Compactor,Risiko Rendah
+7,6697,Rusak,5,Risiko Rendah,Compactor,Risiko Tinggi
+11,5420,Rusak,4,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+1,17,Baik,10,Risiko Rendah,Crane,Risiko Rendah
+22,3199,Rusak,7,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+8,3501,Dalam Perbaikan,4,Risiko Rendah,Backhoe Loader,Risiko Sedang
+16,1044,Baik,6,Risiko Sedang,Crane,Risiko Tinggi
+11,3472,Rusak,6,Risiko Tinggi,Crane,Risiko Sedang
+22,6571,Dalam Perbaikan,3,Risiko Sedang,Forklift,Risiko Tinggi
+9,4072,Dalam Perbaikan,8,Risiko Sedang,Dump Truck,Risiko Sedang
+9,6728,Baik,6,Risiko Rendah,Lainnya,Risiko Tinggi
+4,3455,Dalam Perbaikan,9,Risiko Tinggi,Motor Grader,Risiko Sedang
+4,714,Baik,5,Risiko Rendah,Motor Grader,Risiko Rendah
+26,2968,Dalam Perbaikan,7,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+25,7465,Rusak,5,Risiko Rendah,Compactor,Risiko Tinggi
+12,1180,Dalam Perbaikan,6,Risiko Rendah,Motor Grader,Risiko Rendah
+0,1839,Baik,2,Risiko Rendah,Bulldozer,Risiko Rendah
+14,6005,Baik,6,Risiko Sedang,Excavator,Risiko Tinggi
+4,868,Dalam Perbaikan,9,Risiko Rendah,Wheel Loader,Risiko Rendah
+0,4865,Baik,0,Risiko Rendah,Crane,Risiko Rendah
+22,647,Baik,1,Risiko Rendah,Lainnya,Risiko Tinggi
+0,6665,Rusak,2,Risiko Rendah,Wheel Loader,Risiko Tinggi
+3,1147,Dalam Perbaikan,8,Risiko Tinggi,Compactor,Risiko Rendah
+11,3371,Dalam Perbaikan,5,Risiko Sedang,Excavator,Risiko Sedang
+17,911,Baik,0,Risiko Tinggi,Excavator,Risiko Tinggi
+7,6153,Baik,8,Risiko Rendah,Excavator,Risiko Tinggi
+14,6821,Rusak,10,Risiko Sedang,Dump Truck,Risiko Tinggi
+4,6795,Rusak,9,Risiko Tinggi,Compactor,Risiko Tinggi
+4,1862,Rusak,2,Risiko Sedang,Backhoe Loader,Risiko Rendah
+10,3092,Baik,3,Risiko Sedang,Lainnya,Risiko Sedang
+25,1793,Rusak,2,Risiko Tinggi,Dump Truck,Risiko Tinggi
+7,6895,Baik,7,Risiko Sedang,Crane,Risiko Tinggi
+6,5258,Rusak,6,Risiko Rendah,Excavator,Risiko Tinggi
+1,3043,Dalam Perbaikan,6,Risiko Rendah,Compactor,Risiko Rendah
+23,855,Baik,5,Risiko Tinggi,Crane,Risiko Tinggi
+26,1962,Rusak,2,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+24,1735,Dalam Perbaikan,0,Risiko Sedang,Motor Grader,Risiko Tinggi
+9,1652,Dalam Perbaikan,0,Risiko Rendah,Compactor,Risiko Rendah
+24,8000,Dalam Perbaikan,9,Risiko Rendah,Lainnya,Risiko Tinggi
+1,3963,Baik,0,Risiko Sedang,Backhoe Loader,Risiko Rendah
+17,69,Rusak,4,Risiko Sedang,Dump Truck,Risiko Tinggi
+20,2576,Rusak,5,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+16,3336,Dalam Perbaikan,8,Risiko Rendah,Dump Truck,Risiko Tinggi
+1,6349,Baik,0,Risiko Tinggi,Forklift,Risiko Tinggi
+11,4803,Baik,4,Risiko Rendah,Bulldozer,Risiko Sedang
+5,3793,Baik,10,Risiko Rendah,Motor Grader,Risiko Rendah
+20,6614,Dalam Perbaikan,10,Risiko Rendah,Bulldozer,Risiko Tinggi
+10,4229,Dalam Perbaikan,9,Risiko Tinggi,Dump Truck,Risiko Sedang
+2,2796,Rusak,2,Risiko Sedang,Compactor,Risiko Rendah
+15,5107,Rusak,0,Risiko Tinggi,Forklift,Risiko Tinggi
+19,1710,Dalam Perbaikan,9,Risiko Rendah,Bulldozer,Risiko Tinggi
+8,5142,Rusak,1,Risiko Rendah,Bulldozer,Risiko Tinggi
+2,7130,Rusak,8,Risiko Rendah,Wheel Loader,Risiko Tinggi
+23,3725,Rusak,2,Risiko Sedang,Bulldozer,Risiko Tinggi
+24,2294,Dalam Perbaikan,5,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+24,1467,Dalam Perbaikan,7,Risiko Sedang,Wheel Loader,Risiko Tinggi
+18,6251,Rusak,10,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+8,3999,Baik,5,Risiko Sedang,Forklift,Risiko Sedang
+13,7020,Dalam Perbaikan,10,Risiko Rendah,Wheel Loader,Risiko Tinggi
+15,4198,Dalam Perbaikan,5,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+5,3384,Dalam Perbaikan,7,Risiko Sedang,Excavator,Risiko Sedang
+7,5274,Baik,3,Risiko Tinggi,Dump Truck,Risiko Tinggi
+26,1266,Baik,4,Risiko Sedang,Bulldozer,Risiko Tinggi
+8,3270,Baik,3,Risiko Sedang,Wheel Loader,Risiko Sedang
+5,765,Rusak,7,Risiko Sedang,Dump Truck,Risiko Sedang
+0,3808,Baik,1,Risiko Rendah,Backhoe Loader,Risiko Rendah
+14,6293,Rusak,3,Risiko Sedang,Crane,Risiko Tinggi
+24,2599,Rusak,9,Risiko Sedang,Motor Grader,Risiko Tinggi
+4,6072,Rusak,1,Risiko Sedang,Wheel Loader,Risiko Tinggi
+25,4465,Baik,7,Risiko Rendah,Motor Grader,Risiko Tinggi
+16,4654,Baik,9,Risiko Sedang,Excavator,Risiko Tinggi
+1,2961,Rusak,7,Risiko Rendah,Excavator,Risiko Rendah
+20,7110,Baik,10,Risiko Sedang,Compactor,Risiko Tinggi
+18,5207,Baik,1,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+18,3318,Baik,4,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+13,4298,Baik,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+0,440,Baik,6,Risiko Sedang,Compactor,Risiko Rendah
+21,1626,Rusak,6,Risiko Sedang,Wheel Loader,Risiko Tinggi
+9,5642,Baik,6,Risiko Sedang,Lainnya,Risiko Tinggi
+14,6742,Baik,8,Risiko Tinggi,Motor Grader,Risiko Tinggi
+24,5920,Dalam Perbaikan,9,Risiko Tinggi,Bulldozer,Risiko Tinggi
+16,5440,Dalam Perbaikan,5,Risiko Rendah,Bulldozer,Risiko Tinggi
+12,7649,Baik,7,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+1,7946,Dalam Perbaikan,6,Risiko Sedang,Dump Truck,Risiko Tinggi
+3,30,Rusak,2,Risiko Tinggi,Wheel Loader,Risiko Rendah
+6,7941,Dalam Perbaikan,1,Risiko Rendah,Motor Grader,Risiko Tinggi
+3,1537,Rusak,8,Risiko Rendah,Lainnya,Risiko Rendah
+14,1770,Rusak,3,Risiko Rendah,Lainnya,Risiko Tinggi
+26,3033,Rusak,0,Risiko Sedang,Compactor,Risiko Tinggi
+10,6709,Baik,7,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+13,3361,Rusak,5,Risiko Tinggi,Forklift,Risiko Tinggi
+10,7979,Rusak,1,Risiko Rendah,Wheel Loader,Risiko Tinggi
+13,3056,Baik,8,Risiko Tinggi,Bulldozer,Risiko Tinggi
+9,3570,Rusak,4,Risiko Tinggi,Forklift,Risiko Sedang
+6,2320,Dalam Perbaikan,9,Risiko Rendah,Backhoe Loader,Risiko Rendah
+1,6858,Baik,1,Risiko Tinggi,Excavator,Risiko Tinggi
+7,7639,Rusak,1,Risiko Sedang,Lainnya,Risiko Tinggi
+9,816,Dalam Perbaikan,7,Risiko Tinggi,Lainnya,Risiko Sedang
+1,267,Dalam Perbaikan,4,Risiko Sedang,Motor Grader,Risiko Rendah
+19,6364,Rusak,8,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+20,7015,Rusak,1,Risiko Sedang,Wheel Loader,Risiko Tinggi
+13,7438,Dalam Perbaikan,6,Risiko Rendah,Crane,Risiko Tinggi
+1,1834,Dalam Perbaikan,4,Risiko Sedang,Compactor,Risiko Rendah
+17,6868,Rusak,10,Risiko Rendah,Excavator,Risiko Tinggi
+13,267,Baik,0,Risiko Rendah,Crane,Risiko Tinggi
+0,6690,Dalam Perbaikan,9,Risiko Sedang,Crane,Risiko Tinggi
+21,7857,Dalam Perbaikan,6,Risiko Rendah,Dump Truck,Risiko Tinggi
+14,1578,Dalam Perbaikan,10,Risiko Sedang,Excavator,Risiko Tinggi
+1,7634,Dalam Perbaikan,6,Risiko Rendah,Forklift,Risiko Tinggi
+3,1423,Rusak,5,Risiko Tinggi,Bulldozer,Risiko Sedang
+13,1892,Baik,2,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+6,4726,Rusak,10,Risiko Sedang,Dump Truck,Risiko Sedang
+21,7771,Rusak,3,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+26,3583,Baik,10,Risiko Tinggi,Bulldozer,Risiko Tinggi
+26,5063,Dalam Perbaikan,8,Risiko Rendah,Lainnya,Risiko Tinggi
+14,207,Dalam Perbaikan,2,Risiko Sedang,Crane,Risiko Tinggi
+21,1963,Dalam Perbaikan,3,Risiko Sedang,Motor Grader,Risiko Tinggi
+9,6885,Baik,6,Risiko Sedang,Excavator,Risiko Tinggi
+18,679,Baik,10,Risiko Rendah,Lainnya,Risiko Tinggi
+23,908,Rusak,9,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+22,2313,Rusak,2,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+11,6919,Rusak,3,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+11,6516,Baik,6,Risiko Rendah,Wheel Loader,Risiko Tinggi
+6,625,Baik,10,Risiko Sedang,Forklift,Risiko Rendah
+16,5190,Rusak,2,Risiko Rendah,Compactor,Risiko Tinggi
+26,7402,Baik,10,Risiko Tinggi,Lainnya,Risiko Tinggi
+25,960,Rusak,5,Risiko Sedang,Lainnya,Risiko Tinggi
+7,4476,Baik,2,Risiko Tinggi,Compactor,Risiko Rendah
+23,1579,Dalam Perbaikan,0,Risiko Tinggi,Excavator,Risiko Tinggi
+10,4192,Baik,3,Risiko Sedang,Backhoe Loader,Risiko Sedang
+20,241,Rusak,2,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+3,5665,Baik,4,Risiko Sedang,Wheel Loader,Risiko Tinggi
+20,7808,Baik,5,Risiko Tinggi,Dump Truck,Risiko Tinggi
+6,2411,Rusak,7,Risiko Sedang,Dump Truck,Risiko Sedang
+14,7555,Baik,4,Risiko Rendah,Motor Grader,Risiko Tinggi
+5,6930,Dalam Perbaikan,4,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+8,6497,Dalam Perbaikan,4,Risiko Rendah,Motor Grader,Risiko Tinggi
+3,3996,Rusak,7,Risiko Sedang,Lainnya,Risiko Sedang
+3,2225,Rusak,9,Risiko Rendah,Lainnya,Risiko Rendah
+14,3516,Baik,9,Risiko Sedang,Crane,Risiko Tinggi
+6,6712,Baik,7,Risiko Rendah,Excavator,Risiko Tinggi
+10,2073,Dalam Perbaikan,6,Risiko Sedang,Lainnya,Risiko Sedang
+0,7186,Dalam Perbaikan,8,Risiko Sedang,Forklift,Risiko Tinggi
+26,939,Baik,5,Risiko Sedang,Bulldozer,Risiko Tinggi
+15,2009,Baik,3,Risiko Tinggi,Crane,Risiko Tinggi
+15,1188,Rusak,1,Risiko Rendah,Crane,Risiko Tinggi
+4,89,Dalam Perbaikan,5,Risiko Rendah,Wheel Loader,Risiko Rendah
+8,6514,Rusak,3,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+14,2323,Dalam Perbaikan,3,Risiko Tinggi,Motor Grader,Risiko Tinggi
+23,4595,Rusak,9,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+8,7312,Dalam Perbaikan,6,Risiko Tinggi,Forklift,Risiko Tinggi
+16,6663,Rusak,3,Risiko Rendah,Excavator,Risiko Tinggi
+1,4046,Rusak,0,Risiko Sedang,Forklift,Risiko Sedang
+23,1016,Rusak,2,Risiko Tinggi,Crane,Risiko Tinggi
+8,3136,Baik,9,Risiko Rendah,Compactor,Risiko Sedang
+26,5272,Dalam Perbaikan,0,Risiko Sedang,Compactor,Risiko Tinggi
+22,6894,Rusak,0,Risiko Tinggi,Dump Truck,Risiko Tinggi
+25,2763,Dalam Perbaikan,0,Risiko Rendah,Wheel Loader,Risiko Tinggi
+23,6798,Rusak,4,Risiko Sedang,Crane,Risiko Tinggi
+2,2832,Rusak,1,Risiko Tinggi,Crane,Risiko Rendah
+11,5016,Baik,6,Risiko Sedang,Wheel Loader,Risiko Tinggi
+11,6952,Dalam Perbaikan,1,Risiko Sedang,Lainnya,Risiko Tinggi
+23,239,Baik,0,Risiko Rendah,Bulldozer,Risiko Tinggi
+23,2644,Dalam Perbaikan,6,Risiko Rendah,Bulldozer,Risiko Tinggi
+24,1565,Dalam Perbaikan,5,Risiko Tinggi,Excavator,Risiko Tinggi
+4,7110,Baik,4,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+25,7759,Rusak,1,Risiko Sedang,Crane,Risiko Tinggi
+4,5019,Rusak,4,Risiko Tinggi,Bulldozer,Risiko Tinggi
+22,4779,Rusak,1,Risiko Rendah,Crane,Risiko Tinggi
+22,6168,Dalam Perbaikan,6,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+5,1002,Dalam Perbaikan,8,Risiko Rendah,Lainnya,Risiko Rendah
+11,5417,Rusak,4,Risiko Sedang,Wheel Loader,Risiko Tinggi
+19,752,Rusak,4,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+15,4575,Baik,10,Risiko Tinggi,Motor Grader,Risiko Tinggi
+4,639,Baik,7,Risiko Rendah,Motor Grader,Risiko Rendah
+26,5492,Baik,7,Risiko Sedang,Motor Grader,Risiko Tinggi
+11,856,Rusak,3,Risiko Tinggi,Dump Truck,Risiko Sedang
+10,7032,Rusak,4,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+6,1261,Dalam Perbaikan,1,Risiko Rendah,Motor Grader,Risiko Rendah
+15,3158,Rusak,9,Risiko Tinggi,Motor Grader,Risiko Tinggi
+2,3278,Baik,1,Risiko Sedang,Forklift,Risiko Rendah
+21,5621,Rusak,9,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+22,3776,Baik,1,Risiko Rendah,Excavator,Risiko Tinggi
+12,1532,Rusak,0,Risiko Sedang,Dump Truck,Risiko Sedang
+12,2883,Rusak,1,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+15,3534,Baik,2,Risiko Sedang,Dump Truck,Risiko Tinggi
+13,4160,Rusak,0,Risiko Sedang,Compactor,Risiko Tinggi
+15,801,Baik,10,Risiko Sedang,Forklift,Risiko Tinggi
+20,2408,Baik,6,Risiko Rendah,Lainnya,Risiko Tinggi
+18,4338,Dalam Perbaikan,7,Risiko Tinggi,Forklift,Risiko Tinggi
+23,5580,Baik,10,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+19,943,Baik,0,Risiko Tinggi,Compactor,Risiko Tinggi
+19,539,Dalam Perbaikan,1,Risiko Sedang,Motor Grader,Risiko Tinggi
+7,5730,Dalam Perbaikan,6,Risiko Sedang,Forklift,Risiko Tinggi
+23,1801,Dalam Perbaikan,4,Risiko Sedang,Motor Grader,Risiko Tinggi
+21,6436,Baik,5,Risiko Tinggi,Compactor,Risiko Tinggi
+4,4884,Rusak,0,Risiko Rendah,Bulldozer,Risiko Sedang
+10,7436,Dalam Perbaikan,9,Risiko Sedang,Compactor,Risiko Tinggi
+4,1954,Baik,5,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+21,1534,Rusak,7,Risiko Rendah,Excavator,Risiko Tinggi
+5,3887,Rusak,5,Risiko Rendah,Bulldozer,Risiko Sedang
+18,7219,Baik,2,Risiko Tinggi,Excavator,Risiko Tinggi
+7,2884,Rusak,9,Risiko Rendah,Wheel Loader,Risiko Rendah
+19,3871,Baik,0,Risiko Rendah,Lainnya,Risiko Tinggi
+5,2381,Baik,8,Risiko Tinggi,Bulldozer,Risiko Rendah
+2,1200,Baik,1,Risiko Sedang,Crane,Risiko Rendah
+12,4019,Dalam Perbaikan,5,Risiko Tinggi,Compactor,Risiko Sedang
+5,3985,Rusak,5,Risiko Sedang,Excavator,Risiko Sedang
+0,2888,Rusak,5,Risiko Tinggi,Lainnya,Risiko Sedang
+11,923,Rusak,10,Risiko Tinggi,Excavator,Risiko Sedang
+22,3361,Baik,10,Risiko Rendah,Crane,Risiko Tinggi
+11,253,Baik,9,Risiko Tinggi,Forklift,Risiko Sedang
+15,1690,Dalam Perbaikan,1,Risiko Rendah,Forklift,Risiko Tinggi
+6,884,Rusak,10,Risiko Tinggi,Dump Truck,Risiko Sedang
+12,7850,Dalam Perbaikan,2,Risiko Sedang,Crane,Risiko Tinggi
+16,3203,Dalam Perbaikan,6,Risiko Sedang,Compactor,Risiko Tinggi
+20,336,Dalam Perbaikan,8,Risiko Tinggi,Crane,Risiko Tinggi
+0,5016,Baik,6,Risiko Sedang,Lainnya,Risiko Tinggi
+1,6490,Rusak,4,Risiko Rendah,Excavator,Risiko Tinggi
+11,7595,Dalam Perbaikan,2,Risiko Sedang,Bulldozer,Risiko Tinggi
+10,7918,Rusak,9,Risiko Tinggi,Bulldozer,Risiko Tinggi
+17,3988,Rusak,1,Risiko Sedang,Excavator,Risiko Tinggi
+12,335,Baik,4,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+25,4000,Rusak,0,Risiko Sedang,Crane,Risiko Tinggi
+5,6833,Baik,0,Risiko Sedang,Bulldozer,Risiko Tinggi
+15,7198,Rusak,8,Risiko Tinggi,Dump Truck,Risiko Tinggi
+22,7812,Baik,4,Risiko Rendah,Motor Grader,Risiko Tinggi
+13,4794,Baik,4,Risiko Rendah,Excavator,Risiko Tinggi
+11,7642,Rusak,3,Risiko Tinggi,Forklift,Risiko Tinggi
+13,3269,Baik,4,Risiko Sedang,Lainnya,Risiko Tinggi
+17,1419,Dalam Perbaikan,6,Risiko Tinggi,Crane,Risiko Tinggi
+1,4736,Baik,10,Risiko Rendah,Compactor,Risiko Rendah
+22,3410,Dalam Perbaikan,3,Risiko Sedang,Compactor,Risiko Tinggi
+24,2435,Dalam Perbaikan,10,Risiko Sedang,Dump Truck,Risiko Tinggi
+21,3079,Rusak,1,Risiko Rendah,Dump Truck,Risiko Tinggi
+12,5686,Rusak,8,Risiko Tinggi,Crane,Risiko Tinggi
+12,2901,Rusak,7,Risiko Sedang,Forklift,Risiko Sedang
+12,226,Dalam Perbaikan,0,Risiko Sedang,Backhoe Loader,Risiko Rendah
+2,1151,Dalam Perbaikan,4,Risiko Rendah,Lainnya,Risiko Rendah
+10,3056,Baik,9,Risiko Tinggi,Lainnya,Risiko Sedang
+17,438,Rusak,2,Risiko Sedang,Excavator,Risiko Tinggi
+12,6614,Dalam Perbaikan,7,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+25,2213,Dalam Perbaikan,1,Risiko Sedang,Lainnya,Risiko Tinggi
+23,6733,Rusak,9,Risiko Sedang,Crane,Risiko Tinggi
+25,994,Dalam Perbaikan,9,Risiko Tinggi,Dump Truck,Risiko Tinggi
+3,5873,Baik,3,Risiko Tinggi,Bulldozer,Risiko Tinggi
+9,6065,Rusak,2,Risiko Rendah,Bulldozer,Risiko Tinggi
+17,5146,Rusak,0,Risiko Sedang,Lainnya,Risiko Tinggi
+4,1644,Baik,1,Risiko Rendah,Bulldozer,Risiko Rendah
+7,7208,Baik,8,Risiko Rendah,Motor Grader,Risiko Tinggi
+20,848,Rusak,0,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+14,455,Baik,4,Risiko Sedang,Wheel Loader,Risiko Tinggi
+21,6719,Baik,8,Risiko Sedang,Lainnya,Risiko Tinggi
+5,3597,Dalam Perbaikan,9,Risiko Rendah,Forklift,Risiko Sedang
+22,5211,Baik,2,Risiko Rendah,Motor Grader,Risiko Tinggi
+21,4190,Dalam Perbaikan,8,Risiko Rendah,Wheel Loader,Risiko Tinggi
+11,2375,Rusak,10,Risiko Rendah,Lainnya,Risiko Sedang
+11,3009,Dalam Perbaikan,4,Risiko Sedang,Forklift,Risiko Sedang
+4,6552,Baik,7,Risiko Sedang,Forklift,Risiko Tinggi
+22,229,Rusak,7,Risiko Rendah,Lainnya,Risiko Tinggi
+14,90,Dalam Perbaikan,4,Risiko Rendah,Lainnya,Risiko Tinggi
+12,349,Rusak,2,Risiko Sedang,Wheel Loader,Risiko Sedang
+18,74,Baik,5,Risiko Tinggi,Dump Truck,Risiko Tinggi
+20,2857,Dalam Perbaikan,8,Risiko Sedang,Dump Truck,Risiko Tinggi
+24,1429,Dalam Perbaikan,2,Risiko Sedang,Lainnya,Risiko Tinggi
+16,3764,Dalam Perbaikan,2,Risiko Sedang,Compactor,Risiko Tinggi
+14,558,Dalam Perbaikan,7,Risiko Sedang,Wheel Loader,Risiko Tinggi
+7,5398,Baik,9,Risiko Tinggi,Dump Truck,Risiko Tinggi
+2,5397,Dalam Perbaikan,4,Risiko Rendah,Crane,Risiko Tinggi
+8,7824,Dalam Perbaikan,5,Risiko Tinggi,Lainnya,Risiko Tinggi
+0,3307,Baik,0,Risiko Rendah,Bulldozer,Risiko Rendah
+19,790,Dalam Perbaikan,1,Risiko Sedang,Wheel Loader,Risiko Tinggi
+16,6225,Baik,3,Risiko Rendah,Bulldozer,Risiko Tinggi
+3,7311,Rusak,6,Risiko Rendah,Excavator,Risiko Tinggi
+7,2051,Baik,0,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+12,6253,Rusak,9,Risiko Tinggi,Excavator,Risiko Tinggi
+21,2630,Baik,7,Risiko Sedang,Bulldozer,Risiko Tinggi
+6,4700,Dalam Perbaikan,3,Risiko Rendah,Compactor,Risiko Rendah
+11,3584,Dalam Perbaikan,4,Risiko Rendah,Motor Grader,Risiko Sedang
+3,1327,Rusak,8,Risiko Rendah,Backhoe Loader,Risiko Rendah
+8,198,Dalam Perbaikan,10,Risiko Rendah,Motor Grader,Risiko Sedang
+25,6635,Baik,0,Risiko Sedang,Forklift,Risiko Tinggi
+8,4477,Baik,5,Risiko Rendah,Dump Truck,Risiko Sedang
+11,1557,Baik,9,Risiko Sedang,Dump Truck,Risiko Rendah
+15,2920,Dalam Perbaikan,8,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+12,3502,Dalam Perbaikan,6,Risiko Rendah,Lainnya,Risiko Sedang
+24,1041,Dalam Perbaikan,4,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+11,1888,Baik,9,Risiko Tinggi,Crane,Risiko Sedang
+26,1835,Rusak,4,Risiko Sedang,Crane,Risiko Tinggi
+24,7147,Baik,4,Risiko Rendah,Dump Truck,Risiko Tinggi
+8,1977,Dalam Perbaikan,9,Risiko Tinggi,Compactor,Risiko Sedang
+14,5067,Baik,8,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+8,3858,Rusak,10,Risiko Rendah,Excavator,Risiko Sedang
+16,3452,Rusak,3,Risiko Sedang,Excavator,Risiko Tinggi
+22,1673,Dalam Perbaikan,5,Risiko Tinggi,Excavator,Risiko Tinggi
+19,4043,Baik,9,Risiko Tinggi,Excavator,Risiko Tinggi
+15,579,Rusak,9,Risiko Tinggi,Lainnya,Risiko Tinggi
+24,7270,Dalam Perbaikan,7,Risiko Rendah,Compactor,Risiko Tinggi
+3,341,Baik,0,Risiko Sedang,Dump Truck,Risiko Rendah
+19,5327,Rusak,6,Risiko Sedang,Compactor,Risiko Tinggi
+1,6961,Baik,0,Risiko Rendah,Excavator,Risiko Tinggi
+2,6404,Baik,8,Risiko Tinggi,Forklift,Risiko Tinggi
+5,5600,Dalam Perbaikan,0,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+25,3171,Rusak,2,Risiko Sedang,Forklift,Risiko Tinggi
+9,1128,Baik,7,Risiko Rendah,Lainnya,Risiko Rendah
+15,2881,Baik,5,Risiko Sedang,Excavator,Risiko Tinggi
+19,1900,Baik,9,Risiko Rendah,Motor Grader,Risiko Tinggi
+13,6123,Dalam Perbaikan,9,Risiko Rendah,Excavator,Risiko Tinggi
+3,2047,Baik,1,Risiko Rendah,Bulldozer,Risiko Rendah
+12,1479,Rusak,0,Risiko Sedang,Crane,Risiko Sedang
+7,5367,Baik,4,Risiko Rendah,Lainnya,Risiko Tinggi
+14,3921,Dalam Perbaikan,1,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+24,2049,Dalam Perbaikan,3,Risiko Sedang,Crane,Risiko Tinggi
+19,3633,Dalam Perbaikan,4,Risiko Sedang,Dump Truck,Risiko Tinggi
+17,7118,Dalam Perbaikan,3,Risiko Tinggi,Compactor,Risiko Tinggi
+16,5716,Dalam Perbaikan,8,Risiko Rendah,Excavator,Risiko Tinggi
+15,7376,Rusak,9,Risiko Sedang,Compactor,Risiko Tinggi
+24,1667,Baik,8,Risiko Rendah,Compactor,Risiko Tinggi
+3,4529,Baik,1,Risiko Sedang,Bulldozer,Risiko Rendah
+25,1925,Dalam Perbaikan,7,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+23,174,Rusak,0,Risiko Sedang,Compactor,Risiko Tinggi
+8,3147,Rusak,1,Risiko Rendah,Compactor,Risiko Sedang
+7,3145,Rusak,0,Risiko Sedang,Forklift,Risiko Sedang
+12,363,Baik,3,Risiko Sedang,Bulldozer,Risiko Rendah
+5,3531,Dalam Perbaikan,0,Risiko Tinggi,Compactor,Risiko Rendah
+25,4436,Rusak,0,Risiko Tinggi,Crane,Risiko Tinggi
+0,7433,Rusak,9,Risiko Rendah,Excavator,Risiko Tinggi
+16,5945,Dalam Perbaikan,6,Risiko Sedang,Excavator,Risiko Tinggi
+1,894,Dalam Perbaikan,6,Risiko Tinggi,Compactor,Risiko Rendah
+9,3797,Rusak,9,Risiko Tinggi,Lainnya,Risiko Sedang
+2,4250,Rusak,2,Risiko Sedang,Wheel Loader,Risiko Sedang
+3,7574,Baik,2,Risiko Rendah,Compactor,Risiko Tinggi
+1,5591,Rusak,1,Risiko Rendah,Dump Truck,Risiko Tinggi
+17,2765,Dalam Perbaikan,6,Risiko Rendah,Lainnya,Risiko Tinggi
+18,2963,Rusak,10,Risiko Sedang,Lainnya,Risiko Tinggi
+26,1018,Rusak,9,Risiko Tinggi,Crane,Risiko Tinggi
+0,2166,Baik,7,Risiko Sedang,Excavator,Risiko Rendah
+12,72,Rusak,0,Risiko Sedang,Wheel Loader,Risiko Sedang
+6,6916,Dalam Perbaikan,3,Risiko Sedang,Excavator,Risiko Tinggi
+8,7690,Baik,4,Risiko Tinggi,Dump Truck,Risiko Tinggi
+16,7809,Baik,7,Risiko Rendah,Compactor,Risiko Tinggi
+2,6444,Rusak,4,Risiko Sedang,Bulldozer,Risiko Tinggi
+19,5163,Baik,2,Risiko Tinggi,Excavator,Risiko Tinggi
+19,937,Dalam Perbaikan,0,Risiko Rendah,Dump Truck,Risiko Tinggi
+12,4750,Rusak,0,Risiko Tinggi,Motor Grader,Risiko Sedang
+25,7796,Dalam Perbaikan,4,Risiko Sedang,Excavator,Risiko Tinggi
+5,6921,Rusak,8,Risiko Tinggi,Excavator,Risiko Tinggi
+7,1922,Rusak,1,Risiko Rendah,Dump Truck,Risiko Rendah
+12,927,Dalam Perbaikan,1,Risiko Rendah,Motor Grader,Risiko Rendah
+16,4672,Rusak,10,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+6,3493,Rusak,2,Risiko Rendah,Crane,Risiko Sedang
+7,6456,Rusak,5,Risiko Sedang,Crane,Risiko Tinggi
+11,7720,Rusak,9,Risiko Rendah,Bulldozer,Risiko Tinggi
+15,365,Rusak,2,Risiko Tinggi,Excavator,Risiko Tinggi
+23,4989,Baik,5,Risiko Tinggi,Dump Truck,Risiko Tinggi
+1,4763,Dalam Perbaikan,5,Risiko Rendah,Forklift,Risiko Rendah
+0,4773,Baik,10,Risiko Tinggi,Bulldozer,Risiko Sedang
+14,6247,Dalam Perbaikan,1,Risiko Rendah,Motor Grader,Risiko Tinggi
+8,4124,Dalam Perbaikan,10,Risiko Tinggi,Forklift,Risiko Sedang
+9,6005,Baik,8,Risiko Rendah,Lainnya,Risiko Tinggi
+11,5400,Dalam Perbaikan,8,Risiko Sedang,Crane,Risiko Tinggi
+18,1597,Dalam Perbaikan,4,Risiko Rendah,Crane,Risiko Tinggi
+19,6545,Rusak,3,Risiko Sedang,Crane,Risiko Tinggi
+3,7965,Baik,3,Risiko Sedang,Forklift,Risiko Tinggi
+15,652,Rusak,8,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+15,5352,Rusak,9,Risiko Rendah,Wheel Loader,Risiko Tinggi
+1,3431,Baik,9,Risiko Rendah,Dump Truck,Risiko Rendah
+19,6360,Rusak,10,Risiko Tinggi,Bulldozer,Risiko Tinggi
+7,2132,Rusak,5,Risiko Sedang,Backhoe Loader,Risiko Rendah
+24,3346,Rusak,8,Risiko Rendah,Lainnya,Risiko Tinggi
+11,5182,Baik,2,Risiko Sedang,Excavator,Risiko Tinggi
+21,989,Rusak,4,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+3,827,Baik,0,Risiko Sedang,Excavator,Risiko Rendah
+4,1367,Baik,2,Risiko Tinggi,Dump Truck,Risiko Rendah
+14,7407,Rusak,5,Risiko Rendah,Forklift,Risiko Tinggi
+4,4562,Baik,4,Risiko Rendah,Crane,Risiko Rendah
+0,7359,Rusak,9,Risiko Tinggi,Lainnya,Risiko Tinggi
+23,5916,Baik,1,Risiko Tinggi,Crane,Risiko Tinggi
+12,7460,Rusak,10,Risiko Sedang,Forklift,Risiko Tinggi
+17,6206,Rusak,2,Risiko Tinggi,Bulldozer,Risiko Tinggi
+3,6274,Dalam Perbaikan,8,Risiko Rendah,Bulldozer,Risiko Tinggi
+26,4862,Dalam Perbaikan,5,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+14,2625,Rusak,2,Risiko Tinggi,Lainnya,Risiko Tinggi
+18,7739,Baik,3,Risiko Sedang,Wheel Loader,Risiko Tinggi
+16,395,Dalam Perbaikan,8,Risiko Tinggi,Lainnya,Risiko Tinggi
+10,6914,Rusak,4,Risiko Sedang,Forklift,Risiko Tinggi
+16,6203,Baik,2,Risiko Rendah,Motor Grader,Risiko Tinggi
+13,4252,Rusak,9,Risiko Tinggi,Crane,Risiko Tinggi
+23,2845,Rusak,2,Risiko Rendah,Compactor,Risiko Tinggi
+18,3986,Rusak,3,Risiko Rendah,Compactor,Risiko Tinggi
+18,4965,Baik,3,Risiko Tinggi,Compactor,Risiko Tinggi
+22,786,Baik,8,Risiko Tinggi,Bulldozer,Risiko Tinggi
+26,4902,Baik,8,Risiko Tinggi,Motor Grader,Risiko Tinggi
+26,4000,Baik,5,Risiko Rendah,Compactor,Risiko Tinggi
+8,3493,Dalam Perbaikan,7,Risiko Tinggi,Bulldozer,Risiko Sedang
+0,3717,Rusak,1,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+12,7281,Rusak,7,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+22,2281,Dalam Perbaikan,10,Risiko Rendah,Crane,Risiko Tinggi
+1,647,Dalam Perbaikan,3,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+16,1283,Dalam Perbaikan,5,Risiko Sedang,Wheel Loader,Risiko Tinggi
+6,6025,Dalam Perbaikan,10,Risiko Rendah,Crane,Risiko Tinggi
+25,3550,Baik,8,Risiko Sedang,Motor Grader,Risiko Tinggi
+0,4572,Dalam Perbaikan,10,Risiko Rendah,Excavator,Risiko Sedang
+19,1121,Dalam Perbaikan,6,Risiko Rendah,Motor Grader,Risiko Tinggi
+18,3851,Baik,7,Risiko Rendah,Wheel Loader,Risiko Tinggi
+17,1079,Baik,10,Risiko Rendah,Dump Truck,Risiko Tinggi
+3,6139,Baik,0,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+11,4568,Dalam Perbaikan,3,Risiko Tinggi,Bulldozer,Risiko Sedang
+25,3425,Dalam Perbaikan,4,Risiko Tinggi,Forklift,Risiko Tinggi
+6,4783,Baik,10,Risiko Sedang,Wheel Loader,Risiko Rendah
+10,5381,Baik,4,Risiko Rendah,Compactor,Risiko Tinggi
+5,3973,Rusak,10,Risiko Sedang,Lainnya,Risiko Sedang
+15,4451,Rusak,4,Risiko Rendah,Motor Grader,Risiko Tinggi
+23,7888,Rusak,6,Risiko Sedang,Crane,Risiko Tinggi
+19,5426,Rusak,1,Risiko Rendah,Wheel Loader,Risiko Tinggi
+16,5411,Baik,5,Risiko Tinggi,Forklift,Risiko Tinggi
+4,1049,Rusak,7,Risiko Tinggi,Forklift,Risiko Sedang
+5,1923,Baik,4,Risiko Sedang,Dump Truck,Risiko Rendah
+20,7289,Rusak,0,Risiko Tinggi,Crane,Risiko Tinggi
+18,5529,Rusak,6,Risiko Sedang,Wheel Loader,Risiko Tinggi
+13,3265,Rusak,0,Risiko Sedang,Wheel Loader,Risiko Tinggi
+3,1793,Rusak,10,Risiko Rendah,Compactor,Risiko Rendah
+12,3357,Baik,9,Risiko Rendah,Dump Truck,Risiko Sedang
+20,6386,Dalam Perbaikan,1,Risiko Tinggi,Lainnya,Risiko Tinggi
+16,1058,Dalam Perbaikan,8,Risiko Rendah,Excavator,Risiko Tinggi
+1,3106,Baik,5,Risiko Sedang,Dump Truck,Risiko Rendah
+24,5365,Baik,8,Risiko Rendah,Crane,Risiko Tinggi
+9,1625,Baik,8,Risiko Sedang,Motor Grader,Risiko Rendah
+17,6564,Baik,5,Risiko Sedang,Forklift,Risiko Tinggi
+20,4529,Dalam Perbaikan,3,Risiko Rendah,Excavator,Risiko Tinggi
+26,6185,Dalam Perbaikan,1,Risiko Tinggi,Forklift,Risiko Tinggi
+1,3972,Baik,2,Risiko Sedang,Compactor,Risiko Rendah
+26,1884,Dalam Perbaikan,3,Risiko Rendah,Compactor,Risiko Tinggi
+3,1012,Rusak,10,Risiko Sedang,Bulldozer,Risiko Sedang
+0,6066,Rusak,1,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+10,5915,Dalam Perbaikan,6,Risiko Rendah,Excavator,Risiko Tinggi
+3,6801,Dalam Perbaikan,9,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+3,4818,Rusak,3,Risiko Tinggi,Compactor,Risiko Sedang
+1,2651,Rusak,8,Risiko Tinggi,Excavator,Risiko Sedang
+17,2245,Rusak,3,Risiko Rendah,Compactor,Risiko Tinggi
+6,4720,Rusak,6,Risiko Sedang,Forklift,Risiko Sedang
+24,1820,Rusak,8,Risiko Sedang,Wheel Loader,Risiko Tinggi
+17,7435,Dalam Perbaikan,8,Risiko Tinggi,Motor Grader,Risiko Tinggi
+14,141,Rusak,6,Risiko Sedang,Dump Truck,Risiko Tinggi
+4,887,Rusak,3,Risiko Tinggi,Excavator,Risiko Sedang
+14,6317,Baik,7,Risiko Sedang,Wheel Loader,Risiko Tinggi
+8,892,Dalam Perbaikan,4,Risiko Sedang,Bulldozer,Risiko Sedang
+1,5160,Baik,1,Risiko Tinggi,Bulldozer,Risiko Tinggi
+20,7084,Rusak,9,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+22,3302,Dalam Perbaikan,7,Risiko Tinggi,Lainnya,Risiko Tinggi
+2,1904,Baik,7,Risiko Sedang,Forklift,Risiko Rendah
+17,6066,Rusak,2,Risiko Rendah,Crane,Risiko Tinggi
+4,4631,Dalam Perbaikan,6,Risiko Rendah,Compactor,Risiko Rendah
+4,1713,Dalam Perbaikan,7,Risiko Tinggi,Wheel Loader,Risiko Rendah
+16,7860,Dalam Perbaikan,3,Risiko Sedang,Wheel Loader,Risiko Tinggi
+4,3956,Dalam Perbaikan,8,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+23,3487,Dalam Perbaikan,1,Risiko Sedang,Bulldozer,Risiko Tinggi
+2,111,Baik,8,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+21,1616,Rusak,1,Risiko Rendah,Forklift,Risiko Tinggi
+11,1398,Dalam Perbaikan,8,Risiko Sedang,Bulldozer,Risiko Sedang
+3,7161,Dalam Perbaikan,6,Risiko Sedang,Excavator,Risiko Tinggi
+17,963,Rusak,4,Risiko Tinggi,Compactor,Risiko Tinggi
+10,2640,Dalam Perbaikan,5,Risiko Tinggi,Bulldozer,Risiko Sedang
+22,2377,Dalam Perbaikan,10,Risiko Rendah,Lainnya,Risiko Tinggi
+4,3041,Dalam Perbaikan,9,Risiko Sedang,Wheel Loader,Risiko Sedang
+12,1725,Rusak,2,Risiko Rendah,Dump Truck,Risiko Rendah
+4,6794,Rusak,0,Risiko Sedang,Forklift,Risiko Tinggi
+21,1231,Rusak,1,Risiko Rendah,Compactor,Risiko Tinggi
+4,1537,Baik,1,Risiko Tinggi,Wheel Loader,Risiko Rendah
+16,775,Baik,9,Risiko Sedang,Lainnya,Risiko Tinggi
+21,546,Rusak,10,Risiko Tinggi,Motor Grader,Risiko Tinggi
+15,5151,Baik,3,Risiko Sedang,Compactor,Risiko Tinggi
+0,7467,Rusak,9,Risiko Tinggi,Compactor,Risiko Tinggi
+15,5115,Rusak,4,Risiko Tinggi,Dump Truck,Risiko Tinggi
+6,5401,Baik,1,Risiko Tinggi,Bulldozer,Risiko Tinggi
+23,5985,Baik,4,Risiko Rendah,Compactor,Risiko Tinggi
+8,838,Baik,8,Risiko Tinggi,Forklift,Risiko Sedang
+16,4715,Dalam Perbaikan,9,Risiko Sedang,Lainnya,Risiko Tinggi
+5,7448,Rusak,3,Risiko Rendah,Excavator,Risiko Tinggi
+1,1899,Baik,1,Risiko Tinggi,Bulldozer,Risiko Rendah
+22,1350,Rusak,0,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+25,1122,Dalam Perbaikan,7,Risiko Sedang,Wheel Loader,Risiko Tinggi
+16,2478,Dalam Perbaikan,1,Risiko Rendah,Dump Truck,Risiko Tinggi
+14,3090,Rusak,7,Risiko Sedang,Compactor,Risiko Tinggi
+0,4276,Rusak,8,Risiko Rendah,Lainnya,Risiko Sedang
+0,1752,Baik,10,Risiko Sedang,Bulldozer,Risiko Rendah
+0,3581,Dalam Perbaikan,7,Risiko Sedang,Compactor,Risiko Sedang
+5,985,Dalam Perbaikan,6,Risiko Tinggi,Crane,Risiko Rendah
+21,207,Rusak,7,Risiko Tinggi,Crane,Risiko Tinggi
+3,3474,Baik,9,Risiko Tinggi,Motor Grader,Risiko Sedang
+14,3065,Baik,0,Risiko Rendah,Wheel Loader,Risiko Tinggi
+15,4309,Baik,0,Risiko Tinggi,Compactor,Risiko Tinggi
+16,770,Rusak,4,Risiko Tinggi,Excavator,Risiko Tinggi
+7,2236,Baik,10,Risiko Sedang,Wheel Loader,Risiko Rendah
+14,359,Dalam Perbaikan,4,Risiko Sedang,Excavator,Risiko Tinggi
+8,6744,Baik,7,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+11,1423,Rusak,10,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+25,3027,Baik,9,Risiko Tinggi,Bulldozer,Risiko Tinggi
+4,6030,Baik,2,Risiko Rendah,Forklift,Risiko Tinggi
+0,6928,Baik,0,Risiko Sedang,Excavator,Risiko Tinggi
+16,798,Dalam Perbaikan,4,Risiko Rendah,Lainnya,Risiko Tinggi
+3,136,Rusak,10,Risiko Sedang,Bulldozer,Risiko Sedang
+8,5915,Rusak,8,Risiko Rendah,Forklift,Risiko Tinggi
+13,6862,Dalam Perbaikan,10,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+20,6758,Dalam Perbaikan,2,Risiko Tinggi,Compactor,Risiko Tinggi
+24,1413,Rusak,0,Risiko Sedang,Lainnya,Risiko Tinggi
+20,5641,Dalam Perbaikan,6,Risiko Rendah,Excavator,Risiko Tinggi
+17,2242,Dalam Perbaikan,5,Risiko Rendah,Crane,Risiko Tinggi
+12,4654,Dalam Perbaikan,1,Risiko Tinggi,Wheel Loader,Risiko Sedang
+24,952,Baik,2,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+21,2600,Dalam Perbaikan,10,Risiko Rendah,Bulldozer,Risiko Tinggi
+1,85,Baik,10,Risiko Sedang,Wheel Loader,Risiko Rendah
+24,7186,Dalam Perbaikan,3,Risiko Sedang,Motor Grader,Risiko Tinggi
+3,6191,Dalam Perbaikan,2,Risiko Sedang,Excavator,Risiko Tinggi
+14,5782,Rusak,2,Risiko Sedang,Bulldozer,Risiko Tinggi
+8,2584,Rusak,3,Risiko Rendah,Compactor,Risiko Sedang
+20,1450,Rusak,4,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+18,757,Rusak,5,Risiko Tinggi,Crane,Risiko Tinggi
+15,6327,Dalam Perbaikan,8,Risiko Sedang,Bulldozer,Risiko Tinggi
+25,7779,Dalam Perbaikan,6,Risiko Rendah,Dump Truck,Risiko Tinggi
+8,1725,Dalam Perbaikan,6,Risiko Sedang,Compactor,Risiko Sedang
+20,2803,Dalam Perbaikan,8,Risiko Tinggi,Compactor,Risiko Tinggi
+24,4204,Baik,4,Risiko Rendah,Wheel Loader,Risiko Tinggi
+18,257,Baik,8,Risiko Tinggi,Bulldozer,Risiko Tinggi
+11,1145,Rusak,9,Risiko Sedang,Crane,Risiko Sedang
+8,3095,Dalam Perbaikan,9,Risiko Rendah,Crane,Risiko Sedang
+4,856,Dalam Perbaikan,5,Risiko Rendah,Bulldozer,Risiko Rendah
+13,3895,Rusak,5,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+21,7480,Rusak,4,Risiko Rendah,Wheel Loader,Risiko Tinggi
+9,1525,Baik,7,Risiko Tinggi,Wheel Loader,Risiko Sedang
+8,4718,Dalam Perbaikan,6,Risiko Tinggi,Forklift,Risiko Sedang
+11,6832,Baik,4,Risiko Tinggi,Crane,Risiko Tinggi
+7,2767,Rusak,10,Risiko Sedang,Compactor,Risiko Sedang
+25,7952,Baik,8,Risiko Rendah,Forklift,Risiko Tinggi
+13,6341,Rusak,9,Risiko Sedang,Lainnya,Risiko Tinggi
+26,1343,Dalam Perbaikan,2,Risiko Sedang,Lainnya,Risiko Tinggi
+4,7723,Dalam Perbaikan,3,Risiko Tinggi,Bulldozer,Risiko Tinggi
+22,5434,Rusak,0,Risiko Rendah,Compactor,Risiko Tinggi
+1,6273,Baik,5,Risiko Sedang,Forklift,Risiko Tinggi
+21,3773,Baik,10,Risiko Rendah,Motor Grader,Risiko Tinggi
+21,2468,Rusak,1,Risiko Rendah,Motor Grader,Risiko Tinggi
+20,3576,Baik,3,Risiko Rendah,Dump Truck,Risiko Tinggi
+2,3065,Baik,7,Risiko Rendah,Crane,Risiko Rendah
+23,3856,Dalam Perbaikan,10,Risiko Sedang,Motor Grader,Risiko Tinggi
+11,5475,Rusak,7,Risiko Tinggi,Motor Grader,Risiko Tinggi
+2,7511,Baik,6,Risiko Rendah,Crane,Risiko Tinggi
+2,7661,Baik,6,Risiko Sedang,Compactor,Risiko Tinggi
+0,5527,Dalam Perbaikan,6,Risiko Tinggi,Forklift,Risiko Tinggi
+9,587,Rusak,7,Risiko Tinggi,Lainnya,Risiko Sedang
+26,1816,Dalam Perbaikan,2,Risiko Rendah,Crane,Risiko Tinggi
+15,2784,Dalam Perbaikan,0,Risiko Tinggi,Lainnya,Risiko Tinggi
+2,3261,Baik,10,Risiko Rendah,Bulldozer,Risiko Rendah
+11,1539,Baik,3,Risiko Sedang,Forklift,Risiko Rendah
+24,2781,Rusak,10,Risiko Rendah,Forklift,Risiko Tinggi
+22,2334,Rusak,6,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+25,2138,Rusak,2,Risiko Rendah,Forklift,Risiko Tinggi
+5,4238,Baik,7,Risiko Rendah,Crane,Risiko Rendah
+5,6002,Baik,10,Risiko Sedang,Excavator,Risiko Tinggi
+21,2613,Baik,9,Risiko Tinggi,Forklift,Risiko Tinggi
+5,3724,Baik,7,Risiko Tinggi,Forklift,Risiko Sedang
+13,6318,Baik,4,Risiko Sedang,Compactor,Risiko Tinggi
+3,5194,Baik,9,Risiko Sedang,Dump Truck,Risiko Tinggi
+15,6397,Rusak,5,Risiko Tinggi,Crane,Risiko Tinggi
+23,6434,Baik,6,Risiko Tinggi,Forklift,Risiko Tinggi
+5,655,Baik,0,Risiko Sedang,Lainnya,Risiko Rendah
+18,1618,Dalam Perbaikan,9,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+13,397,Rusak,4,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+11,3770,Rusak,0,Risiko Tinggi,Crane,Risiko Sedang
+18,3487,Rusak,10,Risiko Sedang,Excavator,Risiko Tinggi
+9,2189,Baik,4,Risiko Sedang,Forklift,Risiko Rendah
+26,3659,Rusak,4,Risiko Tinggi,Excavator,Risiko Tinggi
+7,914,Rusak,0,Risiko Tinggi,Forklift,Risiko Rendah
+19,1435,Baik,8,Risiko Rendah,Bulldozer,Risiko Tinggi
+3,1184,Dalam Perbaikan,7,Risiko Sedang,Compactor,Risiko Rendah
+15,7961,Rusak,9,Risiko Rendah,Dump Truck,Risiko Tinggi
+8,3755,Baik,1,Risiko Sedang,Crane,Risiko Sedang
+25,1202,Dalam Perbaikan,10,Risiko Rendah,Forklift,Risiko Tinggi
+10,5942,Baik,5,Risiko Tinggi,Compactor,Risiko Tinggi
+13,3282,Baik,2,Risiko Tinggi,Compactor,Risiko Tinggi
+3,5348,Dalam Perbaikan,1,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+1,1569,Dalam Perbaikan,4,Risiko Sedang,Lainnya,Risiko Rendah
+10,4416,Baik,0,Risiko Sedang,Lainnya,Risiko Rendah
+11,1762,Rusak,4,Risiko Tinggi,Bulldozer,Risiko Sedang
+18,4108,Dalam Perbaikan,0,Risiko Tinggi,Forklift,Risiko Tinggi
+21,5555,Rusak,4,Risiko Rendah,Forklift,Risiko Tinggi
+20,153,Rusak,10,Risiko Rendah,Compactor,Risiko Tinggi
+18,3788,Dalam Perbaikan,10,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+19,1841,Baik,5,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+7,2357,Dalam Perbaikan,9,Risiko Sedang,Lainnya,Risiko Rendah
+13,5200,Dalam Perbaikan,5,Risiko Tinggi,Forklift,Risiko Tinggi
+11,7617,Dalam Perbaikan,0,Risiko Sedang,Crane,Risiko Tinggi
+16,2837,Rusak,2,Risiko Sedang,Wheel Loader,Risiko Tinggi
+20,4360,Dalam Perbaikan,2,Risiko Tinggi,Forklift,Risiko Tinggi
+18,3300,Baik,10,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+6,3985,Dalam Perbaikan,5,Risiko Rendah,Motor Grader,Risiko Rendah
+3,4338,Rusak,4,Risiko Sedang,Crane,Risiko Sedang
+12,5525,Rusak,0,Risiko Rendah,Lainnya,Risiko Tinggi
+8,1365,Dalam Perbaikan,5,Risiko Tinggi,Forklift,Risiko Sedang
+13,6266,Baik,4,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+19,3074,Dalam Perbaikan,2,Risiko Sedang,Lainnya,Risiko Tinggi
+23,794,Rusak,3,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+8,2370,Baik,2,Risiko Tinggi,Forklift,Risiko Rendah
+9,3346,Rusak,3,Risiko Sedang,Lainnya,Risiko Sedang
+18,2616,Rusak,10,Risiko Rendah,Crane,Risiko Tinggi
+10,4387,Dalam Perbaikan,6,Risiko Rendah,Forklift,Risiko Sedang
+11,6199,Rusak,4,Risiko Sedang,Bulldozer,Risiko Tinggi
+21,3277,Rusak,0,Risiko Tinggi,Crane,Risiko Tinggi
+2,3801,Dalam Perbaikan,2,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+14,4752,Dalam Perbaikan,6,Risiko Sedang,Forklift,Risiko Tinggi
+20,5213,Baik,9,Risiko Rendah,Bulldozer,Risiko Tinggi
+7,5078,Dalam Perbaikan,1,Risiko Tinggi,Lainnya,Risiko Tinggi
+3,3348,Baik,5,Risiko Tinggi,Motor Grader,Risiko Rendah
+21,4663,Dalam Perbaikan,7,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+15,186,Dalam Perbaikan,9,Risiko Tinggi,Forklift,Risiko Tinggi
+9,4188,Baik,2,Risiko Sedang,Crane,Risiko Sedang
+3,7165,Baik,2,Risiko Sedang,Motor Grader,Risiko Tinggi
+16,1086,Rusak,1,Risiko Rendah,Motor Grader,Risiko Tinggi
+8,3777,Rusak,3,Risiko Tinggi,Lainnya,Risiko Sedang
+12,1981,Baik,7,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+1,4948,Rusak,2,Risiko Rendah,Wheel Loader,Risiko Rendah
+3,7884,Baik,0,Risiko Tinggi,Excavator,Risiko Tinggi
+5,5544,Rusak,8,Risiko Sedang,Forklift,Risiko Tinggi
+24,6414,Rusak,4,Risiko Tinggi,Dump Truck,Risiko Tinggi
+23,5863,Dalam Perbaikan,10,Risiko Tinggi,Excavator,Risiko Tinggi
+12,3938,Dalam Perbaikan,0,Risiko Sedang,Forklift,Risiko Sedang
+0,6736,Dalam Perbaikan,0,Risiko Sedang,Forklift,Risiko Tinggi
+4,7597,Dalam Perbaikan,10,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+13,6450,Baik,1,Risiko Rendah,Compactor,Risiko Tinggi
+2,6760,Dalam Perbaikan,1,Risiko Tinggi,Bulldozer,Risiko Tinggi
+15,3382,Dalam Perbaikan,5,Risiko Rendah,Motor Grader,Risiko Tinggi
+1,3953,Baik,4,Risiko Rendah,Crane,Risiko Rendah
+6,5682,Baik,7,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+2,2004,Rusak,5,Risiko Sedang,Wheel Loader,Risiko Rendah
+16,6450,Rusak,4,Risiko Tinggi,Compactor,Risiko Tinggi
+7,292,Baik,2,Risiko Tinggi,Compactor,Risiko Rendah
+26,1810,Rusak,9,Risiko Sedang,Compactor,Risiko Tinggi
+17,7739,Dalam Perbaikan,2,Risiko Tinggi,Compactor,Risiko Tinggi
+11,5841,Rusak,10,Risiko Sedang,Bulldozer,Risiko Tinggi
+3,6596,Dalam Perbaikan,2,Risiko Rendah,Lainnya,Risiko Tinggi
+17,7038,Rusak,4,Risiko Tinggi,Motor Grader,Risiko Tinggi
+26,6970,Baik,9,Risiko Sedang,Bulldozer,Risiko Tinggi
+8,98,Rusak,5,Risiko Tinggi,Dump Truck,Risiko Sedang
+3,7128,Dalam Perbaikan,6,Risiko Sedang,Lainnya,Risiko Tinggi
+21,7965,Rusak,10,Risiko Rendah,Lainnya,Risiko Tinggi
+10,2574,Dalam Perbaikan,5,Risiko Sedang,Wheel Loader,Risiko Sedang
+6,1385,Dalam Perbaikan,7,Risiko Rendah,Wheel Loader,Risiko Rendah
+14,116,Dalam Perbaikan,1,Risiko Sedang,Motor Grader,Risiko Tinggi
+17,1691,Baik,2,Risiko Sedang,Lainnya,Risiko Tinggi
+2,5970,Baik,10,Risiko Rendah,Crane,Risiko Tinggi
+11,3762,Dalam Perbaikan,10,Risiko Rendah,Dump Truck,Risiko Sedang
+19,6073,Baik,5,Risiko Tinggi,Excavator,Risiko Tinggi
+14,5131,Baik,5,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+18,4532,Dalam Perbaikan,8,Risiko Rendah,Excavator,Risiko Tinggi
+12,4642,Dalam Perbaikan,3,Risiko Rendah,Compactor,Risiko Sedang
+1,6057,Baik,10,Risiko Rendah,Motor Grader,Risiko Tinggi
+4,5876,Rusak,2,Risiko Rendah,Lainnya,Risiko Tinggi
+18,4521,Rusak,1,Risiko Tinggi,Motor Grader,Risiko Tinggi
+3,6805,Baik,2,Risiko Tinggi,Compactor,Risiko Tinggi
+25,1701,Baik,3,Risiko Tinggi,Lainnya,Risiko Tinggi
+11,3803,Baik,8,Risiko Rendah,Crane,Risiko Sedang
+1,5192,Baik,3,Risiko Sedang,Backhoe Loader,Risiko Tinggi
+12,683,Rusak,3,Risiko Rendah,Dump Truck,Risiko Sedang
+8,1761,Dalam Perbaikan,7,Risiko Sedang,Lainnya,Risiko Sedang
+26,4765,Rusak,1,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+2,5264,Baik,9,Risiko Tinggi,Lainnya,Risiko Tinggi
+2,3737,Baik,4,Risiko Sedang,Lainnya,Risiko Rendah
+18,4035,Dalam Perbaikan,2,Risiko Sedang,Dump Truck,Risiko Tinggi
+11,4212,Rusak,10,Risiko Sedang,Compactor,Risiko Sedang
+9,2039,Rusak,4,Risiko Tinggi,Dump Truck,Risiko Sedang
+10,2529,Dalam Perbaikan,7,Risiko Rendah,Bulldozer,Risiko Sedang
+11,53,Rusak,8,Risiko Sedang,Wheel Loader,Risiko Sedang
+21,1464,Baik,6,Risiko Tinggi,Compactor,Risiko Tinggi
+23,7580,Rusak,5,Risiko Tinggi,Dump Truck,Risiko Tinggi
+0,1496,Baik,1,Risiko Rendah,Motor Grader,Risiko Rendah
+17,4110,Rusak,5,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+23,5609,Rusak,9,Risiko Rendah,Lainnya,Risiko Tinggi
+5,1266,Rusak,2,Risiko Rendah,Forklift,Risiko Rendah
+1,1407,Baik,9,Risiko Tinggi,Bulldozer,Risiko Rendah
+16,7837,Dalam Perbaikan,7,Risiko Tinggi,Lainnya,Risiko Tinggi
+1,3415,Dalam Perbaikan,4,Risiko Rendah,Compactor,Risiko Rendah
+11,7654,Rusak,5,Risiko Rendah,Compactor,Risiko Tinggi
+16,5953,Rusak,5,Risiko Sedang,Compactor,Risiko Tinggi
+13,4614,Rusak,6,Risiko Rendah,Forklift,Risiko Tinggi
+25,7935,Rusak,5,Risiko Tinggi,Bulldozer,Risiko Tinggi
+12,6283,Rusak,0,Risiko Tinggi,Motor Grader,Risiko Tinggi
+20,5423,Dalam Perbaikan,4,Risiko Sedang,Crane,Risiko Tinggi
+26,2636,Rusak,6,Risiko Sedang,Dump Truck,Risiko Tinggi
+9,6054,Baik,3,Risiko Tinggi,Dump Truck,Risiko Tinggi
+12,7015,Rusak,1,Risiko Rendah,Motor Grader,Risiko Tinggi
+21,2666,Dalam Perbaikan,7,Risiko Tinggi,Lainnya,Risiko Tinggi
+11,7799,Baik,10,Risiko Sedang,Wheel Loader,Risiko Tinggi
+19,2294,Dalam Perbaikan,9,Risiko Sedang,Excavator,Risiko Tinggi
+23,459,Dalam Perbaikan,5,Risiko Sedang,Dump Truck,Risiko Tinggi
+15,3589,Rusak,1,Risiko Sedang,Bulldozer,Risiko Tinggi
+3,606,Rusak,6,Risiko Rendah,Bulldozer,Risiko Rendah
+8,2448,Dalam Perbaikan,3,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+12,2008,Rusak,9,Risiko Tinggi,Compactor,Risiko Sedang
+9,4350,Rusak,0,Risiko Rendah,Backhoe Loader,Risiko Sedang
+1,5728,Dalam Perbaikan,5,Risiko Sedang,Wheel Loader,Risiko Tinggi
+3,7246,Baik,2,Risiko Sedang,Wheel Loader,Risiko Tinggi
+19,3774,Rusak,5,Risiko Rendah,Compactor,Risiko Tinggi
+18,4944,Dalam Perbaikan,0,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+6,3365,Rusak,6,Risiko Sedang,Excavator,Risiko Sedang
+0,4328,Baik,8,Risiko Sedang,Excavator,Risiko Rendah
+8,3581,Baik,8,Risiko Sedang,Dump Truck,Risiko Sedang
+11,2315,Dalam Perbaikan,5,Risiko Tinggi,Backhoe Loader,Risiko Sedang
+3,618,Dalam Perbaikan,1,Risiko Tinggi,Backhoe Loader,Risiko Rendah
+9,1296,Dalam Perbaikan,1,Risiko Tinggi,Wheel Loader,Risiko Rendah
+7,5326,Baik,1,Risiko Tinggi,Forklift,Risiko Tinggi
+0,2268,Rusak,7,Risiko Tinggi,Bulldozer,Risiko Sedang
+6,2706,Baik,2,Risiko Tinggi,Lainnya,Risiko Rendah
+16,3719,Dalam Perbaikan,6,Risiko Rendah,Forklift,Risiko Tinggi
+8,2406,Baik,9,Risiko Sedang,Excavator,Risiko Rendah
+26,1845,Rusak,6,Risiko Rendah,Compactor,Risiko Tinggi
+19,4787,Dalam Perbaikan,5,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+6,5450,Baik,9,Risiko Sedang,Lainnya,Risiko Tinggi
+22,1547,Baik,3,Risiko Sedang,Bulldozer,Risiko Tinggi
+23,214,Dalam Perbaikan,9,Risiko Rendah,Bulldozer,Risiko Tinggi
+9,2855,Baik,5,Risiko Sedang,Motor Grader,Risiko Rendah
+5,1710,Baik,4,Risiko Rendah,Forklift,Risiko Rendah
+18,1908,Baik,5,Risiko Rendah,Bulldozer,Risiko Tinggi
+12,1008,Rusak,0,Risiko Sedang,Motor Grader,Risiko Sedang
+14,403,Rusak,7,Risiko Sedang,Motor Grader,Risiko Tinggi
+20,6315,Rusak,9,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+21,4150,Dalam Perbaikan,8,Risiko Rendah,Bulldozer,Risiko Tinggi
+2,1717,Baik,7,Risiko Tinggi,Lainnya,Risiko Rendah
+15,6141,Rusak,6,Risiko Rendah,Motor Grader,Risiko Tinggi
+24,6551,Dalam Perbaikan,5,Risiko Sedang,Compactor,Risiko Tinggi
+10,917,Rusak,0,Risiko Rendah,Forklift,Risiko Rendah
+1,3440,Rusak,1,Risiko Sedang,Crane,Risiko Sedang
+17,6852,Baik,6,Risiko Tinggi,Compactor,Risiko Tinggi
+19,5744,Baik,10,Risiko Tinggi,Forklift,Risiko Tinggi
+11,129,Rusak,10,Risiko Sedang,Excavator,Risiko Sedang
+22,6942,Baik,2,Risiko Tinggi,Excavator,Risiko Tinggi
+22,4248,Baik,2,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+2,319,Baik,9,Risiko Rendah,Compactor,Risiko Rendah
+15,5059,Rusak,2,Risiko Sedang,Bulldozer,Risiko Tinggi
+21,7670,Dalam Perbaikan,2,Risiko Tinggi,Bulldozer,Risiko Tinggi
+15,7201,Baik,2,Risiko Rendah,Wheel Loader,Risiko Tinggi
+20,2507,Rusak,10,Risiko Sedang,Compactor,Risiko Tinggi
+7,2630,Baik,0,Risiko Sedang,Excavator,Risiko Rendah
+11,280,Dalam Perbaikan,2,Risiko Sedang,Excavator,Risiko Rendah
+9,3088,Dalam Perbaikan,8,Risiko Rendah,Bulldozer,Risiko Sedang
+23,122,Rusak,3,Risiko Rendah,Forklift,Risiko Tinggi
+24,920,Rusak,7,Risiko Sedang,Dump Truck,Risiko Tinggi
+12,1101,Dalam Perbaikan,10,Risiko Rendah,Compactor,Risiko Sedang
+11,3846,Rusak,2,Risiko Sedang,Dump Truck,Risiko Sedang
+15,7838,Dalam Perbaikan,10,Risiko Tinggi,Backhoe Loader,Risiko Tinggi
+11,4037,Dalam Perbaikan,9,Risiko Rendah,Bulldozer,Risiko Sedang
+19,4216,Baik,2,Risiko Rendah,Backhoe Loader,Risiko Tinggi
+3,776,Dalam Perbaikan,6,Risiko Sedang,Lainnya,Risiko Rendah
+23,2046,Baik,4,Risiko Rendah,Compactor,Risiko Tinggi
+16,5820,Rusak,10,Risiko Tinggi,Dump Truck,Risiko Tinggi
+10,4728,Rusak,2,Risiko Sedang,Forklift,Risiko Sedang
+15,5416,Baik,9,Risiko Tinggi,Excavator,Risiko Tinggi
+3,7422,Rusak,10,Risiko Rendah,Motor Grader,Risiko Tinggi
+21,117,Baik,10,Risiko Rendah,Motor Grader,Risiko Tinggi
+21,3250,Rusak,0,Risiko Tinggi,Wheel Loader,Risiko Tinggi
+11,7026,Rusak,3,Risiko Tinggi,Lainnya,Risiko Tinggi
+14,3703,Baik,7,Risiko Tinggi,Compactor,Risiko Tinggi
+9,3603,Baik,4,Risiko Tinggi,Dump Truck,Risiko Sedang
+16,2762,Baik,4,Risiko Sedang,Wheel Loader,Risiko Tinggi

@@ -1,0 +1,75 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f8fafc; /* Warna latar belakang yang lebih soft dan bersih */
+}
+
+.sidebar {
+    width: 240px;
+    min-height: 100vh;
+    background: linear-gradient(180deg, #1e293b, #0f172a); /* Mengurangi kontras hitam pekat */
+    position: fixed;
+    color: #fff;
+}
+
+.sidebar h4 {
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    border-bottom: 1px solid #334155;
+}
+
+.sidebar a {
+    display: block;
+    padding: 12px 20px;
+    color: #94a3b8; /* Teks menu dibuat lebih redup agar nyaman dibaca */
+    text-decoration: none;
+}
+
+.sidebar a:hover,
+.sidebar a.active {
+    background: #334155;
+    color: #fff;
+}
+
+.main {
+    margin-left: 240px;
+}
+
+/* NAVBAR UTAMA (Sebelumnya biru terang, sekarang menjadi Biru Slate Teduh) */
+.navbar {
+    background: #475569; 
+}
+
+.card {
+    border-radius: 14px;
+    border: 1px solid #e2e8f0; /* Menambahkan border tipis agar card tidak silau */
+    box-shadow: 0 4px 15px rgba(0,0,0,.03); /* Mengurangi intensitas bayangan agar lebih bersih */
+}
+
+.stat-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 22px;
+}
+
+/* WARNA IKON / AKSEN (Diubah ke varian pastel/muted agar tidak menusuk mata) */
+.bg-soft-blue { background: #64748b; }   /* Slate Blue */
+.bg-soft-green { background: #475569; }  /* Dark Slate */
+.bg-soft-orange { background: #94a3b8; } /* Light Slate */
+.bg-soft-purple { background: #475569; } /* Charcoal Muted */
+
+.card-title {
+    font-size: 14px;
+    color: #64748b;
+}
+
+.card-value {
+    font-size: 26px;
+    font-weight: bold;
+    color: #334155; /* Mengubah warna angka/nilai agar lebih kontras tapi tetap kalem */
+}

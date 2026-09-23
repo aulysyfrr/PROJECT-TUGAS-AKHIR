@@ -1,0 +1,83 @@
+LAPORAN EVALUASI MODEL DECISION TREE
+Sistem Prediksi Risiko Kerusakan Alat Berat - sparepart-2
+============================================================
+
+Jumlah data total   : 3000
+Jumlah data latih   : 2400 (80%)
+Jumlah data uji     : 600 (20%)
+Fitur yang digunakan: ['umur_alat', 'jam_operasional', 'kondisi_terakhir', 'jumlah_perbaikan', 'lokasi_operasi', 'jenis_alat']
+Kelas target        : ['Risiko Rendah', 'Risiko Sedang', 'Risiko Tinggi']
+
+Accuracy  : 0.9600 (96.00%)
+Precision : 0.9639
+Recall    : 0.9600
+F1-Score  : 0.9599
+
+Confusion Matrix (baris=aktual, kolom=prediksi):
+Urutan kelas: ['Risiko Rendah', 'Risiko Sedang', 'Risiko Tinggi']
+[[ 76  20   0]
+ [  4  81   0]
+ [  0   0 419]]
+
+Classification Report:
+               precision    recall  f1-score   support
+
+Risiko Rendah       0.95      0.79      0.86        96
+Risiko Sedang       0.80      0.95      0.87        85
+Risiko Tinggi       1.00      1.00      1.00       419
+
+     accuracy                           0.96       600
+    macro avg       0.92      0.91      0.91       600
+ weighted avg       0.96      0.96      0.96       600
+
+
+Struktur Pohon Keputusan (lengkap sampai daun terakhir):
+|--- umur_alat <= 12.50
+|   |--- jam_operasional <= 4997.00
+|   |   |--- umur_alat <= 7.50
+|   |   |   |--- kondisi_terakhir <= 1.50
+|   |   |   |   |--- jam_operasional <= 3007.00
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- jam_operasional >  3007.00
+|   |   |   |   |   |--- jumlah_perbaikan <= 5.50
+|   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- jumlah_perbaikan >  5.50
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |--- kondisi_terakhir >  1.50
+|   |   |   |   |--- jam_operasional <= 3030.50
+|   |   |   |   |   |--- lokasi_operasi <= 0.50
+|   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- lokasi_operasi >  0.50
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- jam_operasional >  3030.50
+|   |   |   |   |   |--- jenis_alat <= 0.50
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- jenis_alat >  0.50
+|   |   |   |   |   |   |--- class: 1
+|   |   |--- umur_alat >  7.50
+|   |   |   |--- jam_operasional <= 2494.00
+|   |   |   |   |--- jumlah_perbaikan <= 2.50
+|   |   |   |   |   |--- kondisi_terakhir <= 1.50
+|   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- kondisi_terakhir >  1.50
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- jumlah_perbaikan >  2.50
+|   |   |   |   |   |--- kondisi_terakhir <= 0.50
+|   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- kondisi_terakhir >  0.50
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |--- jam_operasional >  2494.00
+|   |   |   |   |--- kondisi_terakhir <= 0.50
+|   |   |   |   |   |--- jumlah_perbaikan <= 2.50
+|   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- jumlah_perbaikan >  2.50
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- kondisi_terakhir >  0.50
+|   |   |   |   |   |--- lokasi_operasi <= 1.50
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- lokasi_operasi >  1.50
+|   |   |   |   |   |   |--- class: 1
+|   |--- jam_operasional >  4997.00
+|   |   |--- class: 2
+|--- umur_alat >  12.50
+|   |--- class: 2
